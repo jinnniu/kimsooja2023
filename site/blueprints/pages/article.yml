@@ -1,0 +1,19 @@
+title: article
+
+columns:
+  - width: 1/2
+    sections:
+      articles1:
+        type: fields
+        fields:
+          articlesContents1:
+            label: Article
+            type: blocks
+  - width: 1/2
+    sections:
+      articles2:
+        type: fields
+        fields:
+          articlesContents2:
+            label: If it's too long
+            type: blocks

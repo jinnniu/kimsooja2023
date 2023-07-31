@@ -1,0 +1,105 @@
+Title: Info
+
+----
+
+Contactlist:
+
+- 
+  studio: KIMSOOJA STUDIO
+  contactinfo: |
+    40-Imiro
+    A720
+    16006 Euiwangsi — Gyunggido
+    Republic of Korea
+    (link: kimsooja01@gmail.com text: kimsooja01@gmail.com)
+- 
+  studio: AxelVervoodt Gallery
+  contactinfo: |
+    Kanaal
+    Stokerijstraat 19
+    2110 Wijnegem
+    Belgium
+    T +32 3 355 33 00
+    (link: info@axelvervoordtgallery.com text: info@axelvervoordtgallery.com)
+    (link: https://www.axel-vervoordt.com/ text: https://www.axel-vervoordt.com/)
+- 
+  studio: Kewenig Gallery
+  contactinfo: |
+    Brüderstraße 10
+    10178 Berlin
+    Germany
+    T +49 30 3988 038 0
+    F +49 30 3988 038 29
+    (link: gallery@kewenig.com text: gallery@kewenig.com)
+    (link: https://kewenig.com/ text: https://kewenig.com/)
+- 
+  studio: PhotoEspana Gallery
+  contactinfo: |
+    Calle Verónica 13
+    28014 Madrid
+    Spain
+    T +34 91 298 55 46
+    (link: info@lafabrica.com text: info@lafabrica.com)
+    (link: https://www.lafabrica.com/ text: https://www.lafabrica.com/)
+- 
+  studio: Galleria Raffaella Cortese
+  contactinfo: |
+    Via A. Stradella 7
+    20129 Milano
+    Italy
+    T +39 02 2043555
+    (link: galleria@raffaellacortese.com text: galleria@raffaellacortese.com)
+    (link: https://raffaellacortese.com/ text: https://raffaellacortese.com/)
+- 
+  studio: Galerie Tschudi
+  contactinfo: |
+    Chesa Madalena
+    Somvih 115
+    7524 Zuoz
+    Switzerland
+    T +41 81 850 13 90
+    (link: info@galerie-tschudi.ch text: info@galerie-tschudi.ch)
+    (link: https://www.galerie-tschudi.ch/ text: https://www.galerie-tschudi.ch/)
+
+----
+
+Newslettertitle: Subscribe to our newsletter
+
+----
+
+Newsletterinfo:
+
+Kimsooja Studio 뉴스레터를 구독하시려면 연락처와 함께 메일을 보내주세요.
+
+----
+
+Contactinfo: [{"content":{"level":"h5","text":"<strong>KIMSOOJA STUDIO<\/strong>"},"id":"e714e5c5-8084-4879-be07-2558d290dd97","isHidden":false,"type":"heading"},{"content":{"text":"<p>40-Imiro A720, 16006 Euiwangsi Gyunggido, Republic of Korea<\/p><p><a href=\"mailto:kimsooja01@gmail.com\" title=\"kimsooja01@gmail.com\">kimsooja01@gmail.com<\/a><\/p>"},"id":"8df6b084-fb2d-473f-8577-8cfcda3d83e7","isHidden":false,"type":"text"},{"content":{"level":"h5","text":"<strong>AxelVervoodt Gallery<\/strong>"},"id":"5c2a940f-72ef-4450-bfdf-7e41a7176038","isHidden":false,"type":"heading"},{"content":{"text":"<p>Kanaal<br>Stokerijstraat 19, 2110 Wijnegem, Belgium<\/p><p>T +32 3 355 33 00<\/p><p><a href=\"mailto:info@axelvervoordtgallery.com\">info@axelvervoordtgallery.com<\/a><\/p><p><a href=\"https:\/\/www.axel-vervoordt.com\/\" rel=\"noopener noreferrer\">axel-vervoordt.com<\/a><\/p>"},"id":"665bbb7a-b917-4986-b167-6a1938631fc0","isHidden":false,"type":"text"},{"content":{"level":"h5","text":"<strong>Kewenig Gallery<\/strong>"},"id":"3f7485f2-ea2b-41e9-bbaa-7d046b0ba963","isHidden":false,"type":"heading"},{"content":{"text":"<p>Br\u00fcderstra\u00dfe 10, 10178 Berlin, Germany<\/p><p>T +49 30 3988 038 0<\/p><p>F +49 30 3988 038 29<\/p><p><a href=\"mailto:gallery@kewenig.com\">gallery@kewenig.com<\/a><\/p><p><a href=\"https:\/\/kewenig.com\/\" rel=\"noopener noreferrer\">kewenig.com<\/a><\/p>"},"id":"2a70cf0d-3542-4b93-806f-96f918b54f45","isHidden":false,"type":"text"},{"content":{"level":"h5","text":"<strong>PhotoEspana Gallery<\/strong>"},"id":"ac5c1f0b-7449-4ef0-b177-f6d51f8ca14c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Calle Ver\u00f3nica 13, 28014 Madrid, Spain<\/p><p>T +34 91 298 55 46<\/p><p><a href=\"mailto:info@lafabrica.com\">info@lafabrica.com<\/a><\/p><p><a href=\"https:\/\/www.lafabrica.com\/\" rel=\"noopener noreferrer\">lafabrica.com<\/a><\/p>"},"id":"d605392a-0c92-43fb-9cb9-e5e8740c43ed","isHidden":false,"type":"text"},{"content":{"level":"h5","text":"<strong>Galleria Raffaella Cortese<\/strong>"},"id":"3902f16b-8f0b-4b23-b081-ce8fe8a7eb7b","isHidden":false,"type":"heading"},{"content":{"text":"<p>Via A. Stradella 7, 20129 Milano, Italy<\/p><p>T +39 02 2043555<\/p><p><a href=\"mailto:galleria@raffaellacortese.com\">galleria@raffaellacortese.com<\/a><\/p><p><a href=\"https:\/\/raffaellacortese.com\/\" rel=\"noopener noreferrer\">raffaellacortese.com<\/a><\/p>"},"id":"f7029170-7b72-4179-ba3c-a1448961538a","isHidden":false,"type":"text"},{"content":{"level":"h5","text":"<strong>Galerie Tschudi<\/strong>"},"id":"cd02ec90-af5f-4f0e-a4cf-fe516bba121e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Chesa Madalena<br>Somvih 115, 7524 Zuoz, Switzerland<\/p><p>T +41 81 850 13 90<\/p><p><a href=\"mailto:info@galerie-tschudi.ch\">info@galerie-tschudi.ch<\/a><\/p><p><a href=\"https:\/\/www.galerie-tschudi.ch\/\" rel=\"noopener noreferrer\">galerie-tschudi.ch<\/a><\/p>"},"id":"90d0583d-af4e-41dc-90c7-acda7336ddb4","isHidden":false,"type":"text"}]
+
+----
+
+Studioimg: - kimsooja.jpeg
+
+----
+
+Studioinfo1: Kimsooja is a South Korean, multi-disciplinary conceptual artist based in New York, Paris, and Seoul. Her practice combines performance, film, photo, and site-specific installation using textile, light, and sound. Kimsooja's work investigates questions concerning the conditions of humanity, while engaging issues of aesthetics, culture, politics, and the environment. Her principle of ‘non-doing’ and ‘non-making,’ which follows a conceptual and structural investigation of performance through modes of mobility and immobility, inverts the notion of the artist as the predominant actor.
+
+----
+
+Studioinfo2:
+
+김수자 (1957년 ~ )는 뉴욕, 파리, 서울을 기반으로 하는 대한민국의 개념 미술가이다. 24회 상파울루 비엔날레와 55회 베니스 비엔날레 한국 특별관에서 대한민국을 대표하여 출품하였다.
+그의 작업은 퍼포먼스, 비디오, 설치를 넘나들며 가장 첨예한 회화적 질문으로부터 예술과 삶의 조건들을 연계하여 다루어 왔고 이 시대를 치열하게 직면해 왔다. 구겐하임 빌바오(2015), 베니스 비엔날레 한국관(2013), 밴쿠버 아트 갤러리(2013), 국제 갤러리(2012), 뉴욕PS1/현대미술관(2001) 등 세계 주요 미술관에서 개인전을 개최했고 30여 회의 주요 국제 비엔날레와 트리엔날레에 참여했다.
+
+----
+
+Studioinfo:
+
+Kimsooja is a South Korean, multi-disciplinary conceptual artist based in New York, Paris, and Seoul. Her practice combines performance, film, photo, and site-specific installation using textile, light, and sound. Kimsooja's work investigates questions concerning the conditions of humanity, while engaging issues of aesthetics, culture, politics, and the environment. Her principle of ‘non-doing’ and ‘non-making,’ which follows a conceptual and structural investigation of performance through modes of mobility and immobility, inverts the notion of the artist as the predominant actor.
+
+
+김수자 (1957년 ~ )는 뉴욕, 파리, 서울을 기반으로 하는 대한민국의 개념 미술가이다.  24회 상파울루 비엔날레와 55회 베니스 비엔날레 한국 특별관에서 대한민국을 대표하여 출품하였다.
+그의 작업은 퍼포먼스, 비디오, 설치를 넘나들며 가장 첨예한 회화적 질문으로부터 예술과 삶의 조건들을 연계하여 다루어 왔고 이 시대를 치열하게 직면해 왔다. 구겐하임 빌바오(2015), 베니스 비엔날레 한국관(2013), 밴쿠버 아트 갤러리(2013), 국제 갤러리(2012), 뉴욕PS1/현대미술관(2001) 등 세계 주요 미술관에서 개인전을 개최했고 30여 회의 주요 국제 비엔날레와 트리엔날레에 참여했다.
+
+----
+
+Uuid: A00PBk1oeFAbB8h2

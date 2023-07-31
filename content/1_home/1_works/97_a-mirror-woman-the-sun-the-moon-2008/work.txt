@@ -1,0 +1,52 @@
+Title: A Mirror Woman: The Sun & The Moon
+
+----
+
+Workimgmain: - sun_moon_eclipse_4.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143666694","caption":""},"id":"aa50deb9-7ef4-4293-b7d2-fb6d743e4c00","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/player.vimeo.com\/video\/143667656","caption":""},"id":"ca354328-0988-4f51-87c5-df0fd53148f3","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/player.vimeo.com\/video\/143668156","caption":""},"id":"ee737549-3205-46d7-860f-49d767c6b31a","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/player.vimeo.com\/video\/143668525","caption":""},"id":"168faf94-ebb7-4a9a-bb22-834d9a5db283","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+A Mirror Woman: The Sun & The Moon
+2008
+12:33 / loop
+sound
+
+This project was possible with the generous support of Shiseido Co., Ltd.
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

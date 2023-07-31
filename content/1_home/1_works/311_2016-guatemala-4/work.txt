@@ -1,0 +1,45 @@
+Title: Bottari
+
+----
+
+Workimgmain: - 4.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["4.jpg"]},"id":"7444b815-9a39-4c0d-9691-8e7d6db1fcbe","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

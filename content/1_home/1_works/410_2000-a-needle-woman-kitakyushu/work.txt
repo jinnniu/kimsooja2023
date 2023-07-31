@@ -1,0 +1,49 @@
+Title: A Needle Woman - Kitakyushu
+
+----
+
+Workimgmain: - kitakyushu.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["kitakyushu.jpg"]},"id":"d40a95c3-d955-44eb-a4fe-3d83a25e1ae0","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+1999 / 2000
+C-Print
+90.5 x 134 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

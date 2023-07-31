@@ -1,0 +1,48 @@
+Title: A Needle Woman - Kitakyushu
+
+----
+
+Workimgmain: - needlewoman_kitakyushu3_30fnl.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["needlewoman_kitakyushu3_30fnl.jpg"]},"id":"1fe4f333-732f-45ed-963e-338f50a6578a","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 2007
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Giclée Print on Hahnemüele Paper
+62.2 x 86.4 cm (image size: 57.4 x 76.8 cm)
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

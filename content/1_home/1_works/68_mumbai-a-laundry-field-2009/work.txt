@@ -1,0 +1,53 @@
+Title: Mumbai: A Laundry Field
+
+----
+
+Workimgmain: - mumbai_le_moulin_01_9872.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["mumbai_le_moulin_04_0020.jpg","mumbai_le_moulin_04_0027.jpg","mumbai_le_moulin_03_0005.jpg","mumbai_le_moulin_01_9872.jpg","mumbai_le_moulin_05_0319.jpg","mumbai_le_moulin_02_9809.jpg","mumbai_le_moulin_06_0328.jpg"]},"id":"ddae98b8-3016-407e-8154-21f78c6516bf","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations, Objects
+
+----
+
+Timeline: 2009
+
+----
+
+Worklocatin: Installation at Continua Gallery, Le Moulin, 2009
+
+----
+
+Workcredit: Photos by Thierry Depagne
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01: Bottari Tricycle, used Chinese tricycle, bedcovers and clothes, 295 x 190 cm, photo by Thierry Depagne
+
+02 - 03: Bottari, Installation image, photo by Thierry Depagne
+
+04 - 06: Mumbai: A Laundry Field, 2007-2008, Installation 4 channel video projection, used clothes, bedcovers, photos, photo by Thierry Depagne
+
+----
+
+Additionalvideo: 

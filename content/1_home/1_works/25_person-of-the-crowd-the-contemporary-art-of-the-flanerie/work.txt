@@ -1,0 +1,45 @@
+Title: Person of the Crowd: The Contemporary Art of the Flanerie
+
+----
+
+Workimgmain: - 01.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["01.jpg"]},"id":"ce9dcf3a-6acd-4dfd-b4c1-66ef8f60c16f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Barnes Foundation, Philadelphia, PA
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Group Exhibition at The Barnes Foundation, Philadelphia, PA, United States
+
+----
+
+Workcaption: Kimsooja, A Beggar Woman – Cairo, 2001, single channel video, Tibetan Monk Chanting (sound), 8:53, Installation View at Person of the Crowd: The Contemporary Art of the Flanerie at the Barnes Foundaiton, 2017
+
+----
+
+Uuid: MA6DDVdUSgYFTsbt

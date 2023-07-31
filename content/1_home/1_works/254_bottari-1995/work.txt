@@ -1,0 +1,45 @@
+Title: Bottari
+
+----
+
+Workimgmain: - bottari_1995.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottari_1995.jpg"]},"id":"181a3838-9e94-4870-b109-9e15ae8fd602","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1995
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

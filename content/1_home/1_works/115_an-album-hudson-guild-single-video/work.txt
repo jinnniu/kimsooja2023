@@ -1,0 +1,45 @@
+Title: An Album: Hudson Guild
+
+----
+
+Workimgmain: - an_album_hudson_guild_2009.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143274306","caption":"An Album: Hudson Guild, 2009<br>31:39 \/ loop<br>sound"},"id":"4ce06c9e-00f9-402e-b956-a0fe89f639d3","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2009
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

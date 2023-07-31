@@ -1,0 +1,49 @@
+Title: Bottari
+
+----
+
+Workimgmain: - bottari_turquoise.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottari_turquoise.jpg"]},"id":"fd8fcb86-2208-489c-9802-cc4b15fb107c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2011
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+used Korean bedcover and used clothing
+57 (H) x 56.5 x 59 inches
+2011
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

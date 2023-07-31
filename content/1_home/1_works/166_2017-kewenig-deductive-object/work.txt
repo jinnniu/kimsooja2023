@@ -1,0 +1,48 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 16.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["16.jpg"]},"id":"9f247ef5-9e18-48b6-ae36-6cdc24534132","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kimsooja: Geometry of Breath, Kewenig Gallery, Berlin, Germany, 2017
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+Back: Kimsooja, Cities on the Move - 11633 KM Bottari Truck, 1997 / 2001, Duracler Photographic Print in Lightbox, 188.5 x 128 x 25.5 cm, Installation view at Kimsooja - Geometry of Breath at Kewenig Gallery, 2017, Photo by Stefan Müller
+Front: Kimsooja, Deductive Object (Bottari cart), 2007, 19th C. Baguette Cart (France), bottaris, bungee cords, 8 bottaris, 100cm high x 97cm wide x 73cm deep, Kimsooja, Deductive Object (Bottari), 2007, Single Bottari (red embroidered), Kimsooja, Deductive Object (Bottari cart), 2007, 19th C. Baguette Cart (France), bottaris, bungee cords, 6 bottaris, 106cm high x 100cm wide x 63cm deep, Installation view at Kimsooja - Geometry of Breath at Kewenig Gallery, 2017, Photo by Stefan Müller
+
+----
+
+Additionalvideo: 

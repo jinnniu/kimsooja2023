@@ -1,0 +1,51 @@
+Title: Kimsooja: To Breathe
+
+----
+
+Workimgmain: - 01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["01.jpg","02.jpg","03.jpg","04.jpg","05.jpg","06.jpg","07.jpg","08.jpg","09.jpg","10.jpg","11.jpg","12.jpg","13.jpg","15.jpg","14.jpg","16.jpg","17.jpg"]},"id":"76dd5094-0dbb-4240-a38d-6234f4c17872","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2015
+
+----
+
+Worklocatin: Installation at Centre Pompidou - Metz
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 06, 16 - 17: To Breathe, 2015, site-specific installation consisting of video projection To Breathe: Invisible Mirror, Invisible Needle, 2005, mirror, diffraction grating film, and sound performance The Weaving Factory, 2004, at Centre Pompidou-Metz, photograph by Jaeho Chong. Commissioned by Centre Pompidou-Metz, Courtesy of Institut français/Année France Corée, Kukje Gallery, Seoul and Kimsooja Studio
+
+07 - 15: To Breathe, 2015, site-specific installation consisting of video projection To Breathe: Invisible Mirror, Invisible Needle, 2005, mirror, diffraction grating film, and sound performance The Weaving Factory, 2004, at Centre Pompidou-Metz, photograph by Thierry Depange. Commissioned by Centre Pompidou-Metz, Courtesy of Institut français/Année France Corée, Kukje Gallery, Seoul and Kimsooja Studio
+
+----
+
+Additionalvideo: 

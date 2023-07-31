@@ -1,0 +1,45 @@
+Title: To Breathe: Mandala, 2010
+
+----
+
+Workimgmain: - 01.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["01.jpg"]},"id":"0c7261fe-a8b8-4481-9834-375b75ea3536","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kimsooja: Geometry of Breath, Kewenig Gallery, Berlin, Germany, 2017
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Kimsooja, To Breathe: Mandala, 2010, Single channel mixed media sound installation, jukebox speaker with artist voice performance The Weaving Factory, 2004, 9:14 loop, Installation view at Kimsooja - Geometry of Breath at Kewenig Gallery, 2017, Photo by Stefan Müller
+
+----
+
+Additionalvideo: 

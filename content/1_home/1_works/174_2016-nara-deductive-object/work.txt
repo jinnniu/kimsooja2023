@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg","1.jpg"]},"id":"317fbc44-255f-49a8-aeac-cc2ef36c7a38","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: Installation at Gangoji Temple, Commissioned by Culture City of East Asia, 2016, Nara Japan
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Kimsooja, Deductive Object, 2016, black casted aluminum on mirror, 1.83m x 1.1m (sculpture), 8m x 5m (mirror). Gangoji Temple, Nara, Japan. Commissioned by Culture City of East Asia 2016, Nara. Photo by Keizo Kioku. Courtesy of Art Front Gallery Co., Ltd. and Kimsooja Studio.
+
+----
+
+Additionalvideo: 

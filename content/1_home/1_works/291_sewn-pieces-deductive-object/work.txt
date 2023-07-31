@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - deductiveobject.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["deductiveobject.jpg"]},"id":"1167e356-4c45-48fb-a4b6-c6d68c173fae","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Sewn
+
+----
+
+Timeline: 1992
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

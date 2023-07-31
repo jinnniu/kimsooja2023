@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 25.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["25.jpg"]},"id":"9775bff8-1c6c-4342-ad33-3e19989c31dc","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 1991
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

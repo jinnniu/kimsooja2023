@@ -1,0 +1,70 @@
+#sliderout {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  transition: 1s all;
+  .slider__btn {
+    display: flex;
+    position: absolute;
+    width: 100%;
+    justify-content: space-between;
+    div {
+      &:hover {
+        cursor: pointer;
+      }
+    }
+    .next > .btn {
+      transform: scaleX(-1);
+    }
+
+    .btn {
+      width: 1.3rem;
+      height: 1.3rem;
+      margin: 1rem 0rem;
+      background: url("/assets/img/btn.svg") no-repeat;
+      background-size: contain;
+    }
+  }
+  .slider__img {
+    width: 100%; // for video size, I added 100%
+    padding-bottom: 4rem;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+    @include hidescroll;
+    ul {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      gap: 1rem;
+      li {
+        img {
+          height: 32rem;
+        }
+      }
+    }
+
+    // video imbed
+    figure .video {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      iframe {
+        aspect-ratio: 16/9;
+        width: 80%;
+      }
+    }
+    figcaption.video-caption {
+      font-size: 1rem;
+      line-height: 1.6rem;
+      width: 70%;
+      padding-top: 1rem;
+      text-align: center;
+      margin: 0 auto;
+      font-style: italic;
+    }
+  }
+}
+
+.default-detail figure img {
+  height: 40rem !important;
+}

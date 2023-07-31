@@ -1,0 +1,48 @@
+Title: Mumbai: A Laundry Field
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","3.jpg","2.jpg","mumbai-a-laundry-field_7556.jpg","4.jpg","5.jpg","mumbai-a-laundry-field_7705.jpg","mumbai-a-laundry-field_7828.jpg","mumbai-a-laundry-field_8010-es.jpg","mumbai-a-laundry-field_8076.jpg","mumbai-a-laundry-field_8117-es.jpg","mumbai-a-laundry-field_8133.jpg","mumbai-a-laundry-field_8182.jpg","mumbai-a-laundry-field_8144.jpg","mumbai-a-laundry-field_8286.jpg","mumbai-a-laundry-field_8402.jpg","mumbai-a-laundry-field_8403.jpg","mumbai-a-laundry-field_8360.jpg"]},"id":"ac794642-0535-45af-875c-e7ea2c92ca93","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2007
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+18 individual C-Prints
+44.5 x 60.8 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

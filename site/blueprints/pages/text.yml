@@ -1,0 +1,50 @@
+title: Text
+
+columns:
+  - width: 1/3
+    sections:
+      text1:
+        type: fields
+        fields:
+          textTitle:
+            label: Title
+            type: blocks
+            fieldsets:
+              - heading
+              - text
+          textAutor:
+            label: Autor
+            type: text
+          textYear:
+            label: Year
+            type: tags
+          textCategory:
+            label: Tags (Essay, Interview, Artist Statements)
+            type: tags
+            options:
+              - Essay
+              - Interview
+              - Artist Statement
+          textImg:
+            type: files
+            layout: cards
+          textImgCaption:
+            type: textarea
+            size: small
+          textImg2:
+            type: files
+            layout: cards
+          textImgCaption2:
+            type: textarea
+            size: small
+  - width: 2/3
+    sections:
+      text2:
+        type: fields
+        fields:
+          textContents:
+            type: textarea
+            size: large
+          textCaption:
+            type: textarea
+            size: small

@@ -1,0 +1,48 @@
+Title: Bottari
+
+----
+
+Workimgmain: - bottari_print_1995.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottari_print_1995.jpg"]},"id":"ecf9de21-0d8c-48c0-b42b-ef8852bd6c5f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 1995
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Iris Print
+Large Print 63.5 x 50.8 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

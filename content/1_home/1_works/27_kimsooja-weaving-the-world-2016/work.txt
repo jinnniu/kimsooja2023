@@ -1,0 +1,55 @@
+Title: Kimsooja, Weaving the World
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg","4.jpg","1.jpg","2.jpg","6.jpg","5.jpg","9.jpg","7.jpg","8.jpg"]},"id":"cd622001-eb02-4b55-a8b3-b9c0b3644ca0","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations, Print
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: CC Strombeek, Belgium
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Installation at CC Strombeek, Belgium
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04: Thread Routes - Chapter II, 2016, site-specific installation at CC Strombeek, Site II, Photo by Sophie Nuytten, Courtesy of CC Strombeek and Kimsooja Studio
+
+05 - 08: Left:  Thread Routes - Chapter II, 2011, 16mm film transferred to HD Format, 5.1 sound, 23:40,
+Right: Thread Routes Chapter II - Lightwaves, 2011/2016, HD Video, 5.1 sound, 23:40, installation view at CC Strombeek, Photo by Sophie Nuytten, Courtesy of CC Strombeek and Kimsooja Studio
+
+09: Left: Thread Routes - Chapter II, 2011, 16mm film transferred to HD Format, 5.1 sound, 23:40,
+Right: Architecture of Vulnerability - Darkness, 2011/2015, Series of 5 Digital C-Prints, 50.8 x 76.2 cm (each), installation view at CC Strombeek, Photo by Sophie Nuytten, Courtesy of CC Strombeek and Kimsooja Studio
+
+----
+
+Uuid: uK4efGnwi7tFcO5N

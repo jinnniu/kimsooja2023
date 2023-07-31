@@ -1,0 +1,50 @@
+Title: Lotus: Zone of Zero
+
+----
+
+Workimgmain: - lotus_samsungmuseum_2011_0990.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["lotus_samsungmuseum_2011_0990.jpg","lotus_02_zone-of-zero_plateau.jpg","lotus_03_zone-of-zero_plateau.jpg"]},"id":"d0544802-66bd-49eb-b506-b35a98b3adaf","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2011
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: Photos 02 - 03 by Sang Tae Kim
+
+----
+
+Workdescription: For this exhibition, Kimsooja's site-specific installation, Lotus: Zone of Zero, has been recreated into a hollow mandala-chaped circle with 384 lotus lanterns hanging from the glass pavilion of Plateau. In the background, Gregorian, Tibetan, and Islamic chants are simultaneously echoed, and the three sounds unite at the center of the work. Through this realm of "Zero", which dreams of a peaceful union of disparate faiths, the exhibition space is transformed into a place of meditation and contemplation for viewers. In this particular exhibition, Rodin's masterpiece The Gates of Hell, permanently on view in the glass pavilion, also creates an interesting juxtaposition, encouraging then viewers to reexamine the religious, political and cultural conflicts of this generation. Moreover, the countless repetition of the lanterns and its grand harmony remind the viewer of the fundamental relationship between the individual and community.
+
+----
+
+Workcaption:
+
+Installation at Plateau, Samsung Museum, Seoul, 2011
+
+Dimensions variable, lotus lanterns, 6 speakers, sound from Tibetan, Gregorian, and Islamic Chant.
+Courtesy of Plateau, Samsung Museum, Seoul.
+
+----
+
+Additionalvideo: 

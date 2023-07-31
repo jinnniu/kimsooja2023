@@ -1,0 +1,49 @@
+Title: To Breathe: Obangsaek
+
+----
+
+Workimgmain: - bloomberg_1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["bloomberg_3.jpg","bloomberg_1.jpg","bloomberg_4.jpg","bloomberg_2.jpg"]},"id":"7c817f65-f286-48b1-ae1b-104395e07024","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2013
+
+----
+
+Worklocatin:
+
+Wallpaper, 2013
+
+Site specific installation at The Lift, the Bloomberg Building, New York, 2013
+
+----
+
+Workcredit: Photograph by Jaeho Chong
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: To Breathe: Obangsaek, 2013, site specific wallpaper installation, dimensions vary.
+
+----
+
+Additionalvideo: 

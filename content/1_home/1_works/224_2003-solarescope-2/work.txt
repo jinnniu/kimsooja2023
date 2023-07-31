@@ -1,0 +1,48 @@
+Title: Solarescope
+
+----
+
+Workimgmain: - valencia_blue.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["valencia_green.jpg","valencia_orange.jpg","valencia_purple.jpg","valencia_red.jpg","valencia_white.jpg","valencia_blue.jpg"]},"id":"b9808e65-73f5-49cf-b8e3-a77b5cea44e4","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2003
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Solares Valencia Biennale
+Lighting Sequence 2002
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

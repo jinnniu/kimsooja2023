@@ -1,0 +1,45 @@
+Title: Sewing into Walking - Istiklal Cadessi
+
+----
+
+Workimgmain: - si-98.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/144882712","caption":"Sewing into Walking - Istiklal Cadessi, 1998<br>17:11 \/ loop<br>sound"},"id":"c3e32cce-674f-495a-b8a7-4e7306c2a580","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 1998
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,52 @@
+Title: To Breathe - The Flags
+
+----
+
+Workimgmain: - 11.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["12.jpg","11.jpg","35.png"]},"id":"d681c81f-cd58-4687-a802-459a0e945e26","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin:
+
+Rue de la cathédrale
+Kimsooja presents more than ten site-specific installations throughout the city of Poitiers, France for Traversées / Kimsooja.
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Echoing François Nautré’s masterpiece Le Siège de Poitiers par l’amiral de Coligny en 1569 in the collection of the musée Sainte-Croix de Poitiers, in which we glimpse a maze of alleyways with hanging white fabrics, Kimsooja flies flags along the street leading from the Palace of the dukes of Aquitaine to the Saint-Pierre cathedral. Serving as protection for the inhabitants and troops, who were able to conceal their movements from their 16th century enemies, the flags, for the Korean artist are a utopian symbol of “transnationality.” For the first time, during the London 2012 Olympic Games, Kimsooja intermixed flags of participating countries to question the notion of sovereignty and shared belonging to a homeland. Subsequently, the artist incorporated the flags of unrecognized countries, such as Scotland, or those of countries banned in other states, such as North Korea. In Poitiers, the colors of these hybrid flags merge to destroy any set power, eliminate tensions, and transcend borders in a desire for coexistence and solidarity.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, To Breathe, 2019, site-specific installation consisting of diffraction-grating film. Installation view at the Cloître des Augustins, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Yann Gachet.
+
+----
+
+Additionalvideo: 

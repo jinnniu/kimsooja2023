@@ -1,0 +1,48 @@
+Title: Bottari Truck - Migrateurs
+
+----
+
+Workimgmain: - 15.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["15.jpg"]},"id":"f17dfb5a-aaf5-48c8-a84d-7e6641b2f42b","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kimsooja: Geometry of Breath, Kewenig Gallery, Berlin, Germany, 2017
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+Back: Kimsooja, Bottari Truck - Migrateur, 2007, Single Channel Video Projection, silent, 10:00, loop, performed in Paris, Commissioned by Musée D'Art Contemporain du Val-De-Marne (MAC/VAL),
+Front: Bottari Truck - Migrateurs, 2008, 2.5 ton truck from France (1976 Peugeot 404 Pickup), bottaris, bungee cords, Installation view at Kimsooja - Geometry of Breath at Kewenig Gallery, 2017, Photo by Stefan Müller
+
+----
+
+Additionalvideo: 

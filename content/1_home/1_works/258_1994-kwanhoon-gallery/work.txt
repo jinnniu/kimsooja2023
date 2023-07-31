@@ -1,0 +1,49 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["4.jpg","2.jpg","1.jpg","3.jpg"]},"id":"8e05b497-aa00-4b05-b266-d151d21ecdbb","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1994
+
+----
+
+Worklocatin: Installation at Kwanhoon Gallery, Seoul
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04 Deductive Object, 1994, used korean bed covers and clothes, dimensions variable, Courtesy of Kwanhoon Gallery, Seoul and Kimsooja Studio
+
+----
+
+Additionalvideo: 

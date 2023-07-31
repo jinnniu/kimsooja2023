@@ -1,0 +1,45 @@
+Title: ㄱ,ㄴ,ㄷ,ㄹ
+
+----
+
+Workimgmain: - first.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["first.jpg"]},"id":"37e41663-b8fc-49d7-8733-c48dfe3fc043","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Sewn
+
+----
+
+Timeline: 1983
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 2.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["2.jpg"]},"id":"96dd6ac5-9a62-4110-99bd-e37d6c48b2c0","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

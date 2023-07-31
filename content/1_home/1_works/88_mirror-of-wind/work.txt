@@ -1,0 +1,45 @@
+Title: Mirror of Wind
+
+----
+
+Workimgmain: - mirror_of_wind_0039.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143748924","caption":"Mirror of Wind, 2010<br>4:19 \/ loop<br>silent"},"id":"028827de-bc24-4e70-a072-b81995460846","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

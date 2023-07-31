@@ -1,0 +1,48 @@
+Title: To Breathe: Obangsaek
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg","4.jpg","2.jpg","1.jpg"]},"id":"91de0688-f8fd-476c-bd8b-22b42722a2b2","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin:
+
+Wallpaper, 2014
+Site specific installation at Kimsooja, To Breathe: Obengsaek,Gallery Tschudi, Zuoz, Switzerland, 2014 - 2015
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: To Breathe: Obangsaek, 2014, site specific wallpaper installation, dimensions vary.
+
+----
+
+Additionalvideo: 

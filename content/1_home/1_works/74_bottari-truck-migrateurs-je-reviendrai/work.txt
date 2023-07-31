@@ -1,0 +1,45 @@
+Title: Bottari Truck - Migrateurs, "Je Reviendrai"
+
+----
+
+Workimgmain: - bottari_migrateur_5062.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["bottari-truck-migrateur-macval-1.jpg","bottari-truck-migrateur-macval-3.jpg","bottari-truck-migrateur-macval-2.jpg","bottari_migrateur_5062.jpg","bottari-truck-migrateur-macval-video.jpg"]},"id":"3613d05c-8f93-4857-b271-261855e43238","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Commissioned by Musée d'art contemporain du Val-de-Marne, France.
+
+----
+
+Category: Performance, Video, Installations, Objects
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: Performance in Paris, November 10, 2007 and Installation at MAC/VAL, Paris, 2008
+
+----
+
+Workcredit: Photos by Thierry Depagne and Jaeho Chong
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,45 @@
+Title: Bottari
+
+----
+
+Workimgmain: - bottari_2004.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottari_2004.jpg"]},"id":"074e21b5-cada-4351-b4ee-abb70caff635","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2004
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

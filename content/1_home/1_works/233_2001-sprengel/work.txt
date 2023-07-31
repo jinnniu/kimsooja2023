@@ -1,0 +1,49 @@
+Title: Bottari
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["2.jpg","1.jpg","4.jpg","3.jpg"]},"id":"565fbf0a-ce3f-42b2-989c-add829cd645c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2001
+
+----
+
+Worklocatin: Installation at Sprengel Museum, Hanover, Germany
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04 Bottari, 2001, used korean bed covers and clothes, dimensions variable Courtesy of Sprengel Museum, Hanover and Kimsooja Studio
+
+----
+
+Additionalvideo: 

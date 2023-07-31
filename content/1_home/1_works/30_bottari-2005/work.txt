@@ -1,0 +1,49 @@
+Title: Bottari, 2005
+
+----
+
+Workimgmain: - 01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["01.jpg","02.jpg","03.jpg"]},"id":"deb64d19-db68-436a-bc86-04b97288fffc","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: Installation at Urgent Conversations: Athens - Antwerp at EMST, Athens
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04 Bottari, 2005, site-specific installation consisting of Used bedcovers and clothing, installation at Urgent Conversations: Athens - Antwerp at the National Museum of Contemporary Art, Athens (EMST), Courtesy of EMST, Athens and Kimsooja Studio
+
+----
+
+Uuid: HNjGZkrZRQ5aTk0N

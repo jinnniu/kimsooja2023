@@ -1,0 +1,49 @@
+Title: Yorkshire Sculpture Park
+
+----
+
+Workimgmain: - ysp_kimsooja_to_breathe_1s.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["20190904-kanaal35863jpg.jpg","kimsooja-a-needle-woman-galaxy-was-a-memory-earth-is-a-souvenir-2014.-courtesy-cornell-council-for-the-arts-axel-vervoordt-galle.jpg","ysp_kimsooja_to_breathe_1s.jpg","20190904-kanaal35816.jpg","20190904-kanaal35824.jpg","20190904-kanaal35818.jpg"]},"id":"a4861478-54b2-4c60-8543-78ceeefd8866","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2018
+
+----
+
+Worklocatin: Exhibition at Yorkshire Sculpture Park
+
+----
+
+Workcredit: Photo by Mark Reeves
+
+----
+
+Workdescription: Exhibition of To Breathe and A Needle Woman: Galaxy was a Memory, Earth is a Souvenir at the Yorkshire Sculpture Park and Chapel, 2018-2019
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 02: Kimsooja, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, 2014, steel, custom acrylic panel, laminated polymer film, circular mirror, 46' x 4.5' (diameter) with collaboration from Jaeho Chong (architect), Professor Ulrich Wiesner (materials science and engineering). Installation view at Yorkshire Sculpture Park, 2019. Courtesy of Yorkshire Sculpture Park, Axel Vervoordt Gallery, and Kimsooja Studio. Photos by Jan Liegeois (01) and Jonty Wilde (02).
+03 - 06: Kimsooja, To Breathe, 2019, Mixed media installation with with diffraction film, mirror, and sound performance The Weaving Factory, 2004-2013, 5.1 channel, 9:14, loop. Installation view at Yorkshire Sculpture Park Chapel, 2019. Courtesy of Yorkshire Sculpture Park, Axel Vervoordt Gallery, and Kimsooja Studio. Photos by Mark Reeves (03) and Jan Liegeois (04-06).
+
+----
+
+Uuid: PR0rBAb5CU3NKqIm

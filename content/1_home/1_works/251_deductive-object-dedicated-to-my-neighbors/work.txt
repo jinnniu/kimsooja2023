@@ -1,0 +1,45 @@
+Title: Deductive Object - Dedicated to My Neighbors
+
+----
+
+Workimgmain: - deductive_object_1996_2.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["deductive_object_1996_2.jpg","deductive_object_1996.jpg"]},"id":"55f5a0dc-180d-4fed-814d-590d5299dd1d","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1996
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

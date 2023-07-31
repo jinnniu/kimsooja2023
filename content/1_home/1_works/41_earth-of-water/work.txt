@@ -1,0 +1,45 @@
+Title: Earth of Water
+
+----
+
+Workimgmain: - earth-of-water_deagu_2014.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["earth-of-water_deagu_2014.jpg"]},"id":"a2cc563d-86e7-4ad0-9613-73295fbad5f6","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Courtesy of Daegu Contemporary Art Festival in Gangjeong,  Gangjeong.
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: Installation at Daegu Contemporary Art Festival in Gangjeong,  Gangjeong
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Earth of Water, 2009, Single projection from 8 Channel Video series: Earth - Water - Fire - Air, 7:09 loop, silent. Installation view at Daegu Contemporary Art Festival in Gangjeong,  Gangjeong.
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

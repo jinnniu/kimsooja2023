@@ -1,0 +1,53 @@
+Title: The House Project
+
+----
+
+Workimgmain: - lofoten_laukvik_house_2008_210.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["lofoten_laukvik_house_2008_115.jpg","lofoten_laukvik_house_2008_129.jpg","lofoten_laukvik_house_2008_210.jpg","lofoten_laukvik_house_2008_056.jpg","lofoten_laukvik_house_2008_123.jpg","lofoten_laukvik_house_2008_198.jpg"]},"id":"44ec68eb-3f2b-480e-9122-73e1582e34c1","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: Laukvik, Lofoten Islands, Norway
+
+----
+
+Workcredit: Photos by Kjell Ove Storvik
+
+----
+
+Workdescription:
+
+The House Project presents an abandoned house in Laukvik, Lofoten Island, Norway as an object in itself, and a platform for multiple related interactive practices. Initially, the artist collaborated with the Loften International Art Festival (LIAF) to purchase an isolated and abandoned house in Lofoten, with the idea that it would be documented, and then renovated into a retreat / residency space.
+
+The house appears to have been abandoned suddenly by its inhabitant, an older fisherman's wife, forty years ago. It has been left with furniture, full of personal objects, memories, and history. After the visiting the house, and discovering this rich personal history embedded within the house and its many contents, the artist decided to keep it as it is. She altered her idea instead to invite people to stay in a nearby guesthouse for the residency, keeping the house as a sanctuary, and as an object.
+
+The artist has been documenting the house in both photographs and video, in every season, and hopes to realize this project as a book project in the end. She also plans to invite writers, artists, musicians, architects, and choreographers to come stay together in the area, and to create a site specific dialogue in relation to the house and its location. This may offer an opportunity of focused contemplation of art works and processes, the place and its surrounding environment.
+
+The project aims, thus, to allow for continuity in the artist's engagement with, and non-intrusive contribution, to the local environment, retaining the mystery of the occupants disappearance, while their stories remain intact.
+
+----
+
+Workcaption: Installation at Lofoten International Art Festival, 2008
+
+----
+
+Additionalvideo: 

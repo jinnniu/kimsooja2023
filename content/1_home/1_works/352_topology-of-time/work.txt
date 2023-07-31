@@ -1,0 +1,49 @@
+Title: Topology of Time
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg","2.jpg","4.jpg","1.jpg","5.jpg"]},"id":"498c4626-5176-4512-b177-0edb754f5a3c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Giclée (Inkjet) Print on Hot Press paper
+170.5 x 114.1 cm
+(image size: 147.9 x 91.4 cm)
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

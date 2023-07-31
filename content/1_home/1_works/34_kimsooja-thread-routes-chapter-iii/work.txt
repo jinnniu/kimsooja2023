@@ -1,0 +1,55 @@
+Title: Kimsooja: Thread Routes - Chapter III
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","2.jpg","4.jpg","3.jpg","5.jpg","6.jpg","9.jpg","8.jpg","7.jpg","10.jpg","11.jpg","12.jpg","13.jpg"]},"id":"9ff10acb-4566-4947-86af-43df9bcc0484","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2015
+
+----
+
+Worklocatin: Exhibition at Axel Vervoordt, Antwerp
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01: Thread Routes – Chapter III, 2012, still from 16mm film transferred to HD format, 17:35 min, sound, Courtesy of Axel Vervoordt Gallery and Kimsooja Studio
+
+02: Thread Routes – Chapter III, 2012, 16mm film transferred to HD format, 17:35 min, sound, installation at Axel Vervoordt Gallery, Antwerp, Courtesy of Axel Vervoordt Gallery and Kimsooja Studio
+
+03 - 10: Thread Routes – Chapter III, 2012 / 2015, fabric installation, Indian block printing-table covers, installation at Axel Vervoordt Gallery, Courtesy of Axel Vervoordt Gallery and Kimsooja Studio
+
+11 - 13: Thread Routes – Chapter III - Lightwaves, 2012 / 2015, HD Video, 17:35 min, sound, Courtesy of Axel Vervoordt Gallery and Kimsooja Studio
+
+----
+
+Uuid: 83gUcQjByjhVIamZ

@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg"]},"id":"9f2e293c-753a-417f-8fa5-0cd2bafdb78e","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1992
+
+----
+
+Worklocatin: Installation at Triangle Workshop at Pine Plains, New York
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Deductive Object, 1992, used cloth, dimensions variable, Courtesy of Pine Plains, New York and Kimsooja Studio
+
+----
+
+Additionalvideo: 

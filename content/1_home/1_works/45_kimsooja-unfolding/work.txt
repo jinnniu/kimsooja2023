@@ -1,0 +1,48 @@
+Title: Kimsooja Unfolding
+
+----
+
+Workimgmain:
+
+- >
+  lotus-zone-of-zero_vancouver-art-gallery_2013.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["lotus-zone-of-zero_vancouver-art-gallery_2013.jpg"]},"id":"1c74a3a9-dad0-4738-b9b0-105fff9b6994","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2013
+
+----
+
+Worklocatin: Retrospective exhibition at Vancouver Art Gallery, Vancouver, 2013
+
+----
+
+Workcredit: Photo by Rachel Topham.
+
+----
+
+Workdescription: Lotus: Zone of Zero, 2013, 336 lotus lanterns, Tibetan, Gregorian and Islamic chants, steel structure, cables, dimensions variable, installation image, Vancouver Art Gallery, Vancouver, photo by Rachel Topham.
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

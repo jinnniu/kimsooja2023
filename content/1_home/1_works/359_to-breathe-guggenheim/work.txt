@@ -1,0 +1,50 @@
+Title: To Breathe - A Mirror Woman
+
+----
+
+Workimgmain: - to_breathe_guggenheim.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["to_breathe_guggenheim.jpg"]},"id":"86e73aa5-0685-4373-90d7-aeed0fb2ccb2","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+2010
+Inkjet Print on Hot Press Paper
+102.9 x 74.9 cm
+Comissioned and Produced for Contemplating the Void exhibition, 2010, Solomon R Guggenheim, New York
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

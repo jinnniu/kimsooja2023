@@ -1,0 +1,61 @@
+Title: Earth - Water - Fire - Air
+
+----
+
+Workimgmain: - hermes_exhibition_01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["ewfa_air-of-fire.jpg","ewfa_air-of-water.jpg","ewfa_earth-of-water.jpg","ewfa_air-of-earth.jpg","ewfa_fire-of-earth.jpg","hermes_exhibition_01.jpg","hermes_exhibition_17.jpg","ewfa_water-of-earth.jpg","ewfa_fire-of-air.jpg","hermes_exhibition_14.jpg","hermes_exhibition_22.jpg"]},"id":"4869e17d-9035-416b-aa57-70739c602155","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: 8 Channel Video Projection, silent. Installation view at Atelier Hermes, Seoul, 2010.
+
+----
+
+Workcredit: Installation photos by Marty Heitner.
+
+----
+
+Workdescription: Stills from Earth - Water - Fire - Air.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+Fuego de Tierra / Fire of Earth, 2009, 9:37 loop
+
+Agua de Tierra / Water of Earth, 2009, 9:37 loop
+
+Fuego de Aire / Fire of Air, 2009, 9:37 loop
+
+Tierra de Agua / Earth of Water, 2009, 7:09 loop
+
+Aire de Fuego / Air of Fire, 2009, 5:02 loop, sound
+
+Aire de Tierra / Air of Earth, 2009, 6:25 loop, sound
+
+Aire de Agua / Air of Water, 2010, 6:07 loop, sound
+
+----
+
+Additionalvideo: 

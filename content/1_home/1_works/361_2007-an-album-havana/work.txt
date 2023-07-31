@@ -1,0 +1,49 @@
+Title: An Album: Havana
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg","4.jpg","2.jpg","1.jpg"]},"id":"1a21be13-af51-419e-8fcc-0a5a7df9afde","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 2007
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Giclée Print on Hahnemüele Paper,
+Series of 4 images
+55.9 x 78.7 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

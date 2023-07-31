@@ -1,0 +1,55 @@
+Title: Whitney Biennale
+
+----
+
+Texttitle: [{"content":{"level":"h2","text":"Whitney Biennale"},"id":"0b7ecfe9-5f60-48c2-9515-084a8e96470b","isHidden":false,"type":"heading"}]
+
+----
+
+Textautor: Rinder, Lawrence
+
+----
+
+Textyear: 2002
+
+----
+
+Textcategory: Essay
+
+----
+
+Textimg: - central-park.jpg
+
+----
+
+Textimgcaption: Deductive Object, 2002. Used Korean bed covers, Central Park, New York. Photo by Matthew Suib.
+
+----
+
+Textimg2: 
+
+----
+
+Textimgcaption2: 
+
+----
+
+Textcontents:
+
+- Kim Sooja's installations, videos, and performances link art with everyday life by transforming common materials and concise gestures into poetic commentaries on the human condition. One key body of work involves the use of traditional Korean bedcoverings as sculptural elements. These textiles, traditionally given to newly married couples, are typically embroidered with symbolic patterns and made of contrasting colors, such as red and blue, which together signify the unification of yin and yang. In Kim's works, the bedcovers are laid flat on the ground, hung in rows like laundry on a line, or filled with old clothing and knotted in clusters of bottari, flexible bundles traditionally used to transport household goods. The becoverings are always used, artifacts of anonymous lives.
+
+- Kim's bedcover pieces are deceptively simple in form, yet resonate with multiple layers of experience and meaning. On one level, they are strikingly sensuous compositions, spreading out before the viewer in an array of color, pattern, and texture. These fabrics are also immediately accessible: we all use bedcoverings virtually every night, from birth to death. They are fraught with feelings and emotions from comfort and desire to solitude and exhaustion. Bedcovers, in Kim's words, "are frames of our bodies and lives." When bundled as bottari, the bedcovers become a kind of universal symbol of human movement, hinting at migration, nomadism, and the experience of refugees. Bottari are also metaphors for the human form. "I find the body to be the most complicated bundle," explains Kim.
+
+- On their most abstract level, which is the level most important for Kim herself, the bedcovers are veils that divide one state of being from another, inside from outside, the hidden from the seen. "Through the quite present and simultaneously distance engagement of cloth," comments curator Harald Szeeman, "she challenges us to reflection on our most basic conduct: consciousness of the ephemera of our existence, of enjoying the moment, of change, migration, resettlement, adventure, suffering, of having to leave behind the familiar. She masterfully sets her fabrics, rich in memory and narrative, into the situation of the moment, as zones of beauty and affecting associations. With a grace that knows ever so much."
+
+----
+
+Textcaption:
+
+- — From the Whitney Biennale 2002 catalogue:
+
+- Lawrence Rinder
+Anne & Joel Ehrenkranz Curator of Contemporary Art,
+Whitney Museum
+
+- Mr. Rinder was chief curator of the 2002 Whitney Biennial. He curated, with Debra Singer, the Museum's groundbreaking exhibition BitStreams, which explored the impact of digital technology on contemporary art in 2001, and in 2003, The American Effect, which surveyed global perspectives on America from 1990 to 2003. Mr. Rinder was founding director of the CCAC Institute at the California College of Arts and Crafts, San Francisco and Oakland, California, and was Assistant Director for Exhibitions and Programs and curator for twentieth-century art and MATRIX curator at the Berkeley Art Museum. He is an Adjunct Professor of Art History and Archaeology at Columbia University.

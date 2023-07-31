@@ -1,0 +1,45 @@
+Title: Portrait
+
+----
+
+Workimgmain: - 02.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["02.jpg"]},"id":"204be617-8fb0-4ebf-a019-446c3b765292","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Sewn
+
+----
+
+Timeline: 1991
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

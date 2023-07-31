@@ -1,0 +1,26 @@
+title: book
+
+columns:
+  - width: 2/3
+    sections:
+      books:
+        type: fields
+        fields:
+          booksinformation:
+            label: Information
+            type: textarea
+          bookspublishedby:
+            label: Published by
+            type: textarea
+  - width: 1/3
+    sections:
+      booksImg:
+        type: fields
+        fields:
+          bookcover:
+            label: Book Cover
+            type: files
+            layout: cards
+          bookYear:
+            label: Year
+            type: tags

@@ -1,0 +1,45 @@
+Title: To Breathe - The Flags
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["2.jpg","1.jpg"]},"id":"ad197857-3853-40e2-b2fb-b4c4d9563ce9","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: Installation at Gangoji Temple, Commissioned by Culture City of East Asia, 2016, Nara Japan
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Kimsooja, To Breathe - The Flags, 2012, Single Channel Video, 40:41 min. loop, silent, Gangoji Temple, Nara, Japan. Photo by Keizo Kioku. Courtesy of Art Front Gallery Co., Ltd. and Kimsooja Studio.
+
+----
+
+Additionalvideo: 

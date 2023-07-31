@@ -1,0 +1,45 @@
+Title: Sewing into Walking
+
+----
+
+Workimgmain: - sewing-into-walking_toronto_01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["sewing-into-walking_toronto_02.jpg","sewing-into-walking_toronto_01.jpg"]},"id":"f742b781-4577-4546-b0c7-4dab76d440cc","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations, Objects
+
+----
+
+Timeline: 2007
+
+----
+
+Worklocatin: Installation image at Doris McCarthy Gallery, Toronto, 2007
+
+----
+
+Workcredit: Photo by Toni Hafkenscheid
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Sewing Into Walking, 1994, three channel video installation: Sewing Into Walking - Kyung Ju, 1994, 19:40, silent, loop; Sewing Into Walking - Yang Dong Village, 1994, 02:41, silent, loop; Sewing Into Walking - Mai Mountain, 1994, 01:43, silent, loop, with Bottari, 2007, used Korean bedcovers, used clothing.
+
+----
+
+Additionalvideo: 

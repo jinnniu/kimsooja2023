@@ -1,0 +1,45 @@
+Title: To Breathe
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg"]},"id":"3a299eab-b830-455e-aacf-1272b33f69e0","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: Installation at MMCA Hyundai Motors Series 2016: KIMSOOJA - 마음의 기하 학 / Archive of Mind, National Museum of Modern and Contemporary Art, Korea
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: To Breathe, 2016, site specific installation consisting of diffraction grating film, dimensions variable, Installation at Kimsooja - 마음의 기하학 / Archive of Mind at MMCA, Seoul, Photo by Aaron Wax, Courtesy of MMCA and Hyundai Motor Co. and Kimsooja Studio
+
+----
+
+Additionalvideo: 

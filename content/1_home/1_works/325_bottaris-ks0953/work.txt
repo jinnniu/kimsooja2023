@@ -1,0 +1,45 @@
+Title: Bottari - Mother and Son
+
+----
+
+Workimgmain: - bottaris_ks0953.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottaris_ks0953.jpg"]},"id":"c0ecbbc5-f09e-41e0-9c59-203d6fada66c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2006
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

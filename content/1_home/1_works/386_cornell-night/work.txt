@@ -1,0 +1,48 @@
+Title: A Needle Woman: Galaxy was a Memory, Earth is a Souvenir
+
+----
+
+Workimgmain: - cornell_night.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["cornell_night.jpg"]},"id":"c1f008ff-ac64-460b-a5c0-e94fae0f9719","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Digital C-Print
+117.5 x 82.55 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

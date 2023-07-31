@@ -1,0 +1,49 @@
+Title: Always a Little Further
+
+----
+
+Workimgmain: - venice_51.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["venice_51.jpg"]},"id":"93a77fd8-bb61-479e-b97f-3ae2ece531bf","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Video
+
+----
+
+Timeline: 2005
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: photo by Giorgio Zucchiatti
+
+----
+
+Workdescription:
+
+Performed and filmed at Patan (Nepal), Havana (Cuba), Rio de Janeiro (Brasil), N'Djamena (Chad), Sana' (Yemen), Jerusalem (Israel).
+2005
+6 channel video installation, 10'30" loop, silent
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

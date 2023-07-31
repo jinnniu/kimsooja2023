@@ -1,0 +1,45 @@
+Title: The House Project
+
+----
+
+Workimgmain: - lofoten_laukvik-house-210.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["lofoten_laukvik-house-210.jpg"]},"id":"86efed97-fa67-45ef-a7f0-52f9fe3c2a4b","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

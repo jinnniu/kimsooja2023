@@ -1,0 +1,49 @@
+Title: Lotus: Zone of Zero
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["2.jpg","3.jpg","1.jpg","4.jpg"]},"id":"276ee0b7-9518-4e9e-af0f-5f42bcb25f48","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: Installation at Kimsooja: To Breathe - Zone of Zero, CAC Málaga, Spain
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04: Lotus: Zone of Zero, 2016, site-specific installation at CAC Málaga consisting of 708 lotus lanterns, Tibetan, Gregorian, and Islamic chants, photo by José Luis Gutiérrez, Courtesy of CAC Málaga and Kimsooja Studio
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,45 @@
+Title: Bottari - Waiting for Sunrise
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/144880311","caption":"Bottari - Waiting for Sunrise, 2000<br>4:53 \/ loop<br>silent"},"id":"15e72f52-c97d-43ad-bc44-de09e7f4f36a","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

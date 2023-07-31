@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - deductive-object_cart_2016.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["deductive-object_cart_2016.jpg"]},"id":"2e9c5ef1-e538-46e9-893a-bd4111aea61e","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

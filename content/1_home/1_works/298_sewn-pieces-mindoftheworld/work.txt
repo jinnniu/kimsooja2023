@@ -1,0 +1,45 @@
+Title: Mind and the World
+
+----
+
+Workimgmain: - mindoftheworld.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["mindoftheworld.jpg"]},"id":"7205f5be-a71f-46dd-8168-e4ccf18285d6","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Sewn
+
+----
+
+Timeline: 1992
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

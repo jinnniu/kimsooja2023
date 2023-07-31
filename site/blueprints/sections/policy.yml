@@ -1,0 +1,6 @@
+icon: bookmark
+fields:
+  policy:
+    lable: Privacy Policy
+    type: textarea
+    sixe: huge

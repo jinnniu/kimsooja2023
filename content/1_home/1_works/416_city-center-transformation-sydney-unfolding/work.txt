@@ -1,0 +1,48 @@
+Title: City Center Transformation, Sydney | Unfolding
+
+----
+
+Workimgmain: - sydney_1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["sydney_2.jpg","sydney_3.jpg","sydney_1.jpg"]},"id":"edc2a8eb-b96b-4af4-ade5-f422a31c2fd9","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Detail drawing of proposed Installation.
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Mixed media site specifc installation
+East West Connectors, Sydney, Australia, 2014
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

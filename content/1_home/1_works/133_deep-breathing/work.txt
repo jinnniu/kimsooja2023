@@ -1,0 +1,45 @@
+Title: Deep Breathing
+
+----
+
+Workimgmain: - dbc-98.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143261597","caption":"Deep Breathing, 1998<br>3:21 \/ loop<br>silent"},"id":"0b4e0452-0031-475e-9c7f-4fd3be9515ea","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 1998
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,49 @@
+Title: Solarescope
+
+----
+
+Workimgmain: - 37.png
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["24.png","23.png","38.png","22.jpg","37.png","38b.png","39.png","40.png","41.png"]},"id":"6cbaa5ed-ee6e-4b3a-9798-8dfc21344c0c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: The facade of the Church of Notre-Dame-la Grande is illuminated at nightfall in colorful hues, from red to blue, to white to pink. Kimsooja has reconceived this architectural jewel, whose construction began in the 11th century, as if it were a bottari whose shimmering, colorful fabrics have been substituted for a subtle play of light. Taking up the Korean principle of Obangsaek according to which certain colors correspond both to the cardinal directions and natural elements, Kimsooja wraps the building in colors endowed with protective functions a reminder that churches are both sites of worship and places of refuge for the most disenfranchised. With Solarescope, Kimsooja sheathes the building in a new skin, which stands out from the surrounding darkness, through a constant oscillation between contemplation and revelation of its beauty.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 09:  Kimsooja, Solarescope, 2019, site-specific lighting installation at Notre-Dame La Grande, Poitiers. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Yann Gachet
+
+----
+
+Additionalvideo: 

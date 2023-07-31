@@ -1,0 +1,48 @@
+Title: Flag
+
+----
+
+Workimgmain: - flag_korean.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["flag_korean.jpg"]},"id":"44336cb2-284c-40c5-a9b6-2500c69ad65e","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 2006
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Inkjet Print on Epson Ultrasmooth Paper
+Large Print 106.7 x 54.61 cm, Small Print 50.8 x 25.7 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

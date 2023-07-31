@@ -1,0 +1,45 @@
+Title: Earth - Water - Fire - Air : Aire de Tierra / Air of Earth
+
+----
+
+Workimgmain: - ewfa_06_air_of_earth.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143396455","caption":"Earth - Water - Fire - Air<br>Aire de Tierra \/ Air of Earth, 2009<br>6:25 \/ loop<br>sound"},"id":"87fb7fd7-4a02-40d3-b89b-20027144b465","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2009
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

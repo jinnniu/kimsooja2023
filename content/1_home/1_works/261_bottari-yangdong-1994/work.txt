@@ -1,0 +1,45 @@
+Title: Artist with Bottari
+
+----
+
+Workimgmain: - bottari_yangdong_1994.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottari_yangdong_1994.jpg"]},"id":"05f15e4b-1735-4228-88e0-27dca7715e6d","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1994
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,54 @@
+Title: To Breathe
+
+----
+
+Workimgmain: - 2.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["2.jpg","1.jpg","31.jpg"]},"id":"fadd3427-af3a-4811-a7e9-70ba9401340a","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin:
+
+Tour Maubergeon, Palais des ducs d'Aquitaine.
+For Traversées \Kimsooja, Kimsooja presents more than ten site-specific installations throughout the city of Poitiers, France.
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: By placing mirror on the ground in the Maubergeon Tower, comprised of vaults, pointed arches, corners and alcoves, Kimsooja endows the site with an abyssal depth, a vertiginous effect that disrupts the senses. The artist sees architecture as a space that opens and unfolds, transforming solid structures, giving them a fluidity. In this room, where the columns and arches split and the world seems to be inverted, the sound of Kimsooja’s breathing accompanies visitors on their journey. Slow and barely perceptible, the artist’s breath gradually accelerates, reaching a more consistent rhythm. Her exhalations reflect different emotional states, from calm to anguish, that affect the visitors. Bouncing off reflective surfaces, sound fills the building and seeps into the stone disorienting the barriers between inside and outside. To Breathe is an invitation to an introspective journey through which the mirrors offer a multiplied understanding of the Other, as well as an experience of one’s own body and mind.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 02: Kimsooja, To Breathe - Tour Maubergeon, 2019, site-specific installation with mirror panels. Installation view at Tour Maubergeon, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Jan Liegois.
+
+03:Photo by Sébastien Laval, City of Poitiers
+
+----
+
+Additionalvideo: 

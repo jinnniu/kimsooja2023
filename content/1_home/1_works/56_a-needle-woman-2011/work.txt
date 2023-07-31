@@ -1,0 +1,45 @@
+Title: A Needle Woman
+
+----
+
+Workimgmain: - nmca_needle-woman_01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["nmca_needle-woman_01.jpg","nmca_needle-woman_02.jpg","nmca_needle-woman_03.jpg"]},"id":"c9eac8b8-7b8c-484d-b6b4-1d5de4703297","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2011
+
+----
+
+Worklocatin: Exhibition of the collection of the National Museum of Contemporary Art, Korea, 2011
+
+----
+
+Workcredit: Photos by Myung Yi-Shik
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: A Needle Woman, 1999 - 2001, 8 channel video projection, 6:33 loop, silent.
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,48 @@
+Title: Lincoln Center Plaza Proposal | Mandala: Zone of Zero
+
+----
+
+Workimgmain: - lincoln-center-proposal_100507_02.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["lincoln-center-proposal_100507_02.jpg","lincoln-center-proposal_100507_04.jpg","lincoln-center-proposal_100505_23.jpg","lincoln-center-proposal_100507_05.jpg"]},"id":"e5a4cca7-c6f3-4109-ad7c-29af68adf60b","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: CAD drawing of proposed Installation.
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Site-Specific Light & Sound installation
+Lincoln Center, New York City, 2010
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

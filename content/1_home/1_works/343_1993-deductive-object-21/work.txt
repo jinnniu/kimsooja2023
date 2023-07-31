@@ -1,0 +1,45 @@
+Title: Deductive Object - Remembrance
+
+----
+
+Workimgmain: - 21.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["21.jpg"]},"id":"c3dd31f7-ef82-405e-96b4-4d04340384b5","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 1991
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

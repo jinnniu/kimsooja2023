@@ -1,0 +1,15 @@
+/* Font */
+
+@font-face {
+  font-family: "myeongjo";
+  src: url("/assets/font/NanumMyeongjo-Regular.woff") format("woff");
+  font-weight: regular;
+  font-style: regular;
+}
+
+@font-face {
+  font-family: "myeongjo";
+  src: url("/assets/font/NanumMyeongjo-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: bold;
+}

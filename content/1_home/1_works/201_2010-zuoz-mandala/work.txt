@@ -1,0 +1,45 @@
+Title: Mandala: Zone of Zero
+
+----
+
+Workimgmain: - mandala-zone_of_zero.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/88802025","caption":""},"id":"047e7776-027c-44e6-b22e-d8691f460420","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: Installation at Galerie Tschudi, Zuoz, 2010.
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Mandala: Zone of Zero, 2004 - 2010, single channel mixed media sound installation (one jukebox, Three Chants mixed with Tibetan, Gregorian, and Islamic), 9:50 loop, installation at Galerie Tschudi, Zuoz, Video filmed by Gilles Coudert
+
+----
+
+Additionalvideo: 

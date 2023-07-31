@@ -1,0 +1,55 @@
+Title: A Needle Woman: Galaxy was a Memory, Earth is a Souvenir
+
+----
+
+Workimgmain: - cornell_needle_01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["cornell_needle_04.jpg","cornell_needle_03.jpg","cornell_needle_01.jpg","cornell_needle_02.jpg","cornell_needle_06.jpg","cornell_needle_05.jpg"]},"id":"9957864f-ed93-4131-a629-6854743fa3fe","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: Installation at Intimate Cosmologies: The Aesthetics of Scale in an Age of Nanotechnology, Cornell University, New York
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 02: Kimsooja, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, 2014, steel, custom acrylic panel, laminated polymer film, circular mirror, 46' x 4.5' (diameter) with collaboration from Jaeho Chong (architect), Professor Ulrich Wiesner (materials science and engineering), photograph by Jaeho Chong, Commissioned by Cornell Council for the Arts, Ithaca, New York, Courtesy of Cornell Council for the Arts, Ithaca, New York, and Kimsooja Studio
+
+03 - 04: Kimsooja, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, 2014, steel, custom acrylic panel, laminated polymer film, circular mirror, 46' x 4.5' (diameter) with collaboration from Jaeho Chong (architect), Professor Ulrich Wiesner (materials science and engineering), photo by Aaron Wax, Commissioned by Cornell Council for the Arts, Ithaca, New York, Courtesy of Cornell Council for the Arts, Ithaca, New York, and Kimsooja Studio
+
+05 - 06: Kimsooja, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, 2014, steel, custom acrylic panel, laminated polymer film, circular mirror, 46' x 4.5' (diameter) with collaboration from Jaeho Chong (architect), Professor Ulrich Wiesner (materials science and engineering), photograph by Jaeho Chong, Commissioned by Cornell Council for the Arts, Ithaca, New York, Courtesy of Cornell Council for the Arts, Ithaca, New York, and Kimsooja Studio
+
+07: Kimsooja, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, 2014, steel, custom acrylic panel, laminated polymer film, circular mirror, 46' x 4.5' (diameter) with collaboration from Jaeho Chong (architect), Professor Ulrich Wiesner (materials science and engineering), digital rendering by Jaeho Chong, Commissioned by Cornell Council for the Arts, Ithaca, New York, Courtesy of Cornell Council for the Arts, Ithaca, New York, and Kimsooja Studio
+
+----
+
+Additionalvideo: 

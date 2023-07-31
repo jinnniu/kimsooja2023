@@ -1,0 +1,45 @@
+Title: Bottari Truck - Migrateurs
+
+----
+
+Workimgmain: - bottari-truck-07.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143263087","caption":"Bottari Truck - Migrateurs, 2007<br>10:00 \/ loop<br>silent"},"id":"0c1754f6-f2a7-4186-b854-53b871390f5f","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2007
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

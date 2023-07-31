@@ -1,0 +1,51 @@
+Title: Kimsooja: To Breathe
+
+----
+
+Workimgmain: - 18.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["18.jpg","20.jpg","19.jpg","22.jpg","23.jpg","21.jpg"]},"id":"51f52268-97b1-476f-ad7b-468d39d758a9","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2015
+
+----
+
+Worklocatin: Installation at Centre Pompidou - Metz
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 05: To Breathe, 2015, site-specific installation consisting of diffraction grating film, at Centre Pompidou-Metz Forum, photograph by Jaeho Chong. Commissioned by Centre Pompidou-Metz, Courtesy of Institut français/Année France Corée, Kukje Gallery, Seoul and Kimsooja Studio
+
+06: To Breathe, 2015, site-specific installation consisting of diffraction grating film, at Centre Pompidou-Metz Forum, photograph by Thierry Depagne. Commissioned by Centre Pompidou-Metz, Courtesy of Institut français/Année France Corée, Kukje Gallery, Seoul and Kimsooja Studio
+
+----
+
+Additionalvideo: 

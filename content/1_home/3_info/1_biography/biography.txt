@@ -1,0 +1,1204 @@
+Title: Biography
+
+----
+
+Biomain:
+
+Born 1957, Daegu, Korea
+Lives and works in New York and Seoul
+
+----
+
+Education:
+
+- 
+  year: '2018 - 2020'
+  description: >
+    Artist in residence at the Cité de la
+    Céramique, Manufacture Nationale de
+    Sèvres, Sèvres, France
+- 
+  year: "2014"
+  description: >
+    Artist in residence at Cornell
+    University, Ithaca, New York, USA
+- 
+  year: '2007 - 2008'
+  description: "Artist in residence at the Musée d'art contemporain du Val-de-Marne, Vitry-sur-Seine, France"
+- 
+  year: '1998 - 1999'
+  description: >
+    Artist in residence for the World Views
+    Program at the World Trade Center, New
+    York, USA
+- 
+  year: "1999"
+  description: >
+    Artist in residence for the Center for
+    Contemporary Art, Kitakyushu,
+    Kitakyushu, Japan
+- 
+  year: '1992 - 1993'
+  description: >
+    Artist in Residence at MoMA P.S.1
+    Contemporary Art Center, New York, USA
+- 
+  year: "1984"
+  description: >
+    Lithography studio at Ecole Nationale
+    Supérieure des Beaux-Arts, Paris,
+    France (French Government Scholarship)
+- 
+  year: "1984"
+  description: >
+    MFA, Painting Dept., Hong-IK University,
+    Seoul, Korea
+- 
+  year: "1980"
+  description: >
+    BFA, Painting Dept., Hong-IK University,
+    Seoul, Korea
+
+----
+
+Solo:
+
+- 
+  year: "2022"
+  description: |
+    - Meta-Painting, Kewenig, Mallorca, Spain
+    - To Breathe - Leiden, Lucas Art Award 2020, Lucas van Leiden Fund, Leiden, The Netherlands
+    - Pavilions by the Seaside, Permanent Pavilion Commission, Haikou, Hainan, China
+    - Making Worlds, Art Gallery of New South Wales, Sydney, Australia
+    - To Breathe - Metz Cathedral, Public Art Commission for permanent stained glass works, Metz, France
+    - To Breathe, RATP (Régie Autonome des Transports Parisiens); Public Art Commission, Mairie de Saint-Ouen metro station, Paris, France
+    - Spirit of Gift, A Place of Sharing, Hancock Shaker Village, Massachusetts, MA
+- 
+  year: "2021"
+  description: |
+    - Kimsooja Buenos Aires, BIENALSUR 2021, Buenos Aires, Argentina
+    - **Chapter 1: Encounter with the other**
+    - MUNTREF Centro de Arte Contemporáneo y Museo de la Inmigración - Sede Hotel de Inmigrantes, Buenos Aires, Argentina
+    - **Chapter 2: Nomad**
+    - MNBA - Museo Nacional de Bellas Artes, Buenos Aires, Argentina
+    - **Chapter 3: An Inner Experience**
+    - Centro Cultural Coreano en Argentina, Buenos Aires, Argentina
+    - Oku-Noto Triennale; Site Specific Project, Suzu, Japan
+    - To Breathe - Metz Cathedral, Public Art Commission for permanent stained glass works, Metz, France
+    - To Breathe, To Breathe, Site-Specific Commission work for the atrium, Leeum, Seoul, Kore
+    - To Breathe, RATP (Régie Autonome des Transports Parisiens); Public Art Commission, Mairie de Saint-Ouen metro station, Paris, France
+- 
+  year: "2020"
+  description: |
+    - We Do Not Dream Alone, Inaugural Asia Society Triennial, New York, USA
+    - Planted Names, Axel Vervoordt Gallery, Antwerp, Belgium
+    - Sowing into Painting, Wanås Foundation, Wanås, Sweden
+- 
+  year: "2019"
+  description: |
+    - Traversées / Kimsooja, Inaugural biennale featuring more than ten site-specific installations, Poitiers, France
+    - **Palais des Ducs d’Aquitaine.**
+    - Traversées/Kimsooja, Archive of mind, installation, Palais des Ducs d’Aquitaine, Poitiers, France
+    - Traversées/Kimsooja, To Breath, installation, Palais des Ducs d’Aquitaine, Poitiers, France
+    - Traversées/Kimsooja, Thread Routes: Chapter VI, video, Palais des Ducs d’Aquitaine, Poitiers, France
+    - **Théâtre Auditorium de Poi-ers - Tap**
+    - Traversées/Kimsooja, A Homeless Woman-Delhi, video, Théâtre Auditorium de Poitiers - Tap, Poitiers, France
+    - **Maison de l'Architecture**
+    - Traversées/Kimsooja, Mumbai : A Laundry Field, video, Maison de l'Architecture, Poitiers, France
+    - **Place du Maréchal Leclerc**
+    - Traversées/Kimsooja, Bottari 1999-2019, installation, Place du Maréchal Leclerc, Poitiers, France
+    - **Chapelle Saint-Louis**
+    - Traversées/Kimsooja, Bottari-Truck Migrateurs, installation, Place du Maréchal Leclerc, Poitiers, France
+    - Traversées/Kimsooja, Bottari-Truck Migrateurs, video, Place du Maréchal Leclerc, Poitiers, France
+    - Traversées/Kimsooja, Planted Names, installation, Place du Maréchal Leclerc, Poitiers, France
+    - **Atelier Canopé -Chapelle des Augustins**
+    - Traversées/Kimsooja, To Breathe, installation, Atelier Canopé-Chapelle des Augustins, Poitiers, France
+    - **Eglise Notre Dame-La Grande**
+    - Traversées/Kimsooja, Solarscope, Eglise Notre Dame-la Grande, Poitiers, France
+    - **Rue de la Cathédrale**
+    - Traversées/Kimsooja, To Breathe-The Flange, installation, Rue de la Cathédrale, Poitiers, France
+    - **Musée Sainte-Croix**
+    - Traversées/Kimsooja, Thread Routes: Chapters I,II, III, video, Musée Sainte-Croix, Poitiers, France
+    - **Église Sainte-Radegonde**
+    - Traversées/Kimsooja, To Breathe, installation, Église Sainte-Radegonde, Poitiers, France
+    - **Le Confort Moderne**
+    - Traversées/Kimsooja, Landscape of beings, installation, Le Confort Moderne, Poitiers, France
+    - Kimsooja: To Breathe, Yorkshire Sculpture Park, Wakefield, UK
+    - Kimsooja: Archive of Mind, Peabody Essex Museum, Salem, USA
+- 
+  year: "2018"
+  description: |
+    - Zone of Nowhere, PICA, Perth Institute of Contemporary Arts, Perth, Australia
+    - To Breathe - The Flags, Perth Festival, Perth, Australia
+    - To Breathe - The Flags, Galleria Raffaella Cortese, Milan, Italy
+    - To Breathe / Respirare, Basilica di Sant'Eustorgio, Milan, Italy
+    - Sewing into walking, The Art Gallery of Western Australia, Perth, Australia
+    - Gazing Into Sphere, Axel Vervoordt Gallery, Antwerp, Belgium
+    - Frieze Sculpture 2018, Axel Vervoordt Gallery, London, United Kingdom
+    - Kimsooja, Galerie Tschudi, Zuoz, Switzerland
+    - Kimsooja - A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, Yorkshire Sculpture Park, Wakefield, UK
+- 
+  year: "2017"
+  description: |
+    - Weaving the World, Kunstmuseum Liechtenstein, Vaduz, Liechtenstein
+    - Encounter - A Mirror Woman, A Site-Specific Installation at Nijo Castle, Asia Corridor Contemporary Art Exhibition, Culture City of East Asia 2017, Kyoto, Japan
+    - Kimsooja, Galerie Tschudi, Zuoz, Switzerland
+    - Kimsooja, Trish Clark Gallery, Auckland, New Zealand
+    - Kimsooja - Geometry of Breath, Kewenig Galerie, Berlin, Germany
+    - Deductive Object, Kukje Gallery at Art Basel Hong Kong, Hong Kong, China
+- 
+  year: "2016"
+  description: |
+    - MMCA Hyundai Motors Series 2016: KIMSOOJA - 마음의 기하학 / Archive of Mind, MMCA, Seoul, Korea
+    - Kimsooja - To Breathe - Zone of Zero, CAC Malaga, Spain
+    - Kimsooja, Weaving the World, CC Strombeek, Belgium
+    - Kimsooja, Trish Clark Gallery, Auckland, New Zealand
+    - Nara Project, Site Specific Installation at Gangoji Temple, Commissioned by Culture City of East Asia 2016, Nara, Japan
+- 
+  year: "2015"
+  description: |
+    - Kimsooja - To Breathe, Centre Pompidou Metz, Metz, France
+    - Kimsooja: Thread Routes, Guggenheim Museum Bilbao, Bilbao, Spain
+    - Earth-Water-Fire-Air, Sala Olive, Special Solo Exhibition for the 14th Biennial of Photography of Cordoba, Cordoba, Spain
+    - Kimsooja, A Beggar Woman - Cairo, Smith College Museum of Art, Massachusetts, USA
+    - Kimsooja: Thread Routes, Chapter III, Axel Vervoordt Gallery, Antwerp, Belgium
+- 
+  year: "2014"
+  description: |
+    - Kimsooja, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, A Site-Specific Installation for Intimate Cosmologies: The Aesthetics of Scale in an Age of Nanotechnology, 1st Cornell University Biennale Ithaca, New York, USA
+    - Kimsooja, To Breathe: Mandala, Kewenig Galerie, Palma de Majorca, Spain
+    - Kimsooja, Bottaris, La Fabrica, Madrid, Spain
+    - Kimsooja, To Breathe, Raffaella Cortese Gallery, Milan, Italy
+    - Kimsooja, To Breathe: Obengsaek, Gallery Tschudi, Zuoz, Switzerland
+- 
+  year: "2013"
+  description: |
+    - Kimsooja, To Breathe: Bottari, The Korean Pavilion, 55th Biennale di Venezia, Venice, Italy
+    - Kimsooja / Unfolding, Vancouver Art Gallery, Vancouver, Canada
+    - Kimsooja, To Breathe: The Flags, A Site-Specific Installation for Contemporary Art Trail, Aix-en-Provence, France
+    - Kimsooja, An Album: Sewing into Borderlines, Mariposa Land Port of Entry, commissioned by GSA Art in Architecture Program, Arizona USA
+- 
+  year: "2012"
+  description: |
+    - Kimsooja: A Needle Woman, Miami Art Museum, Miami, USA
+    - Kimsooja, Musée D'Art Moderne de Saint Etienne, St. Etienne, France
+    - Calm Chaos: Kimsooja's Earth - Water - Fire - Air, Perm Museum of Contemporary Art, Perm, Russia
+    - Kimsooja, Kunsthal 44 Moen, Askeby, Denmark
+    - Kimsooja, To Breathe, Kukje Gallery, Seoul, Korea
+- 
+  year: "2011"
+  description: |
+    - Kimsooja, A Needle Woman, Daegu Art Museum, Daegu, Korea
+    - Kimsooja, University Museum of Contemporary Art, Massachusetts, USA
+    - Kimsooja, Mumbai - A Laundry Field, Sullivan Gallery, School of the Institute of Chicago, Chicago, USA
+    - Kimsooja, A Needle Woman, Lucidity. Inward Views, Le Mois de la Photo, Maison de la Culture Frontenac, Montreal, Canada
+    - Kimsooja, An Album: Hudson Guild, A Site-Specific Screening at SVA Theater, Barney Auditorium, New York University, United States Custom House, New York, Commissioned by More Art, New York, USA
+- 
+  year: "2010"
+  description: |
+    - Kimsooja, Earth - Water - Fire - Air, NPPAP - Yong Gwang Nuclear Power Plant Art Project, Organized by The National Museum of Contemporary Art, Korea,
+    - Kimsooja, Being in the World / Être au Monde, Musée d'art de Joliette, Joliette, Quebec, Canada
+    - Kimsooja, Earth - Water - Fire – Air, Atelier Hermes, Seoul, Korea
+    - Kimsooja, Mumbai: A Laundry Field, Feldkirch Church, Co-organized by Kunstmuseum Liechtenstein, Liechtenstein
+    - Kimsooja, Gallery Tschudi, Zuoz, Switzerland
+- 
+  year: "2009"
+  description: |
+    - Kimsooja: A Needle Woman, Baltic Center for Contemporary Art, Gateshead, UK
+    - Kimsooja: 5th Lanzarote Biennale, International Museum of Contemporary Art, Lanzarote, Canary Islands
+    - A Needle Woman - Paris, Hotel De Ville Paris, Commissioned by Nuit Blanche 2009, Paris, France
+    - Kimsooja, Mumbai: A Laundry Field, Continua Gallery, Le Moulin, France
+- 
+  year: "2008"
+  description: |
+    - Kimsooja, A Mirror Woman: The Sun & The Moon, Shiseido Gallery, Tokyo, Japan
+    - Kimsooja, Lotus: Zone of Zero, Rotonde Ravenstein, on the occasion of the Korean Art Festival, BOZAR, Brussels, Belgium
+    - Black Box: Kimsooja, Hirshhorn Museum and Sculpture Garden, Washington D.C., USA
+    - To Breathe: Invisible Mirror / Invisible Needle, San Francisco Art Institute, San Francisco, USA
+    - Kimsooja, A Video Album, Raffaella Cortese Gallery, Milan, Italy
+    - Kimsooja, Mumbai: A Laundry Field, Continua Gallery, Beijing, China
+- 
+  year: "2007"
+  description: |
+    - Kimsooja, Mumbai: A Laundry Field, Kewenig Gallery, Cologne, Germany
+    - A Wind Woman, La Fabrica, Madrid, Spain
+- 
+  year: "2006"
+  description: |
+    - Kimsooja, Respirar - Una Mujer Espejo / To Breathe - A Mirror Woman, a site-specific installation at the Crystal Palace, commissioned by Museo Nacional Centro de Arte Reina Sofía, Madrid, Spain
+    - Kimsooja, Respirare / To Breathe, A Site-Specific Installation at La Fenice Theater, in conjunction with a joint Solo Exhibition at Fondazione Bevilacqua la Masa, Venice, Italy
+    - Kimsooja, To Breathe: Invisible Mirror / Invisible Needle, Teatre Chatelet, Commissioned by Nuit Blanche 2006, Paris, France
+    - Kimsooja, Magasin 3, Stockholm, Sweeden
+    - Kimsooja, A Wind Woman, The Project, New York, USA
+    - Kimsooja, A Wind Woman, Peter Blum Gallery, Chelsea, New York, USA
+- 
+  year: "2005"
+  description: |
+    - Kimsooja, Journey into the World, The National Museum of Contemporary Art, Athens, Greece
+    - Kimsooja, Seven Wishes and Secrets, MIT List Gallery, Cambridge, Massachusetts, USA
+    - Kimsooja, Conditions of Anonymity, The 59th Minute & A Directed Group Performance A Beggar Woman at Times Square, Creative Time, New York, USA
+    - Kimsooja, Bottari, Kewenig Gallery, Cologne, Germany
+- 
+  year: "2004"
+  description: |
+    - Kimsooja, Conditions of Humanity, traveling solo show, Museum Kunst Palast, Düsseldorf, Germany
+    - Kimsooja, A Needle Woman, Outdoor Video - 7 outdoor video screen projection, Yekaterinburg, Russia
+    - Kimsooja, Videos in Progress, The RISD Museum, Rhode Island, USA
+    - Kimsooja, Galerie Raffaella Cortese, Milan, Italy
+- 
+  year: "2003"
+  description: |
+    - Kimsooja, Conditions of Humanity, traveling solo show, the Museum of Contemporary Art, Lyon, France; Padiglione d'Arte Contemporanea, PAC, Milan, Italy
+    - Kim Sooja, Zacheta National Gallery of Contemporary Art, Warsaw, Poland
+    - Kimsooja, A Mirror Woman - The Ground of Nowhere, Crossings 2003: Hawaii/Korea, Honolulu City Hall, Hawaii, USA
+    - Kimsooja, Mandala: Zone of Zero, The Project, New York, USA
+- 
+  year: "2002"
+  description: |
+    - Kimsooja, A Laundry Woman, Kunsthalle, Wien, Austria
+    - Kimsooja, A Laundry Woman, Image Passage, Musee-Chateau, Annecy, France
+    - Kimsooja, A Mirror Woman, Peter Blum Gallery, New York, USA
+- 
+  year: "2001"
+  description: |
+    - Kimsooja, A Needle Woman, P.S.1 Contemporary Art Center / MOMA, New York, USA
+    - Kimsooja, A Needle Woman, Kunsthalle Bern, Bern, Switzerland
+    - Kimsooja, Bottari 2001, Sprengel Museum, Hanover, Germany
+    - Kim Soo Ja, INOVA, Milwaukee, Wisconsin, USA
+    - Kimsooja, A Laundry Woman, Transforms, Palazzo Delle Poste, Trieste, Italy
+- 
+  year: "2000"
+  description: |
+    - Kimsooja, A Needle Woman - A Woman Who Weaves the World, Rodin Gallery (Plateau Samsung Museum of Art), Seoul, Korea
+    - Kimsooja, A Needle Woman, ICC, Tokyo, Japan
+- 
+  year: "1999"
+  description: '- Kimsooja, A Needle Woman, CCA Kitakyushu, Japan'
+- 
+  year: "1997"
+  description: |
+    - Kimsooja, Sewing into Walking, MAGASIN, Centre d'Art Contemporian National de Grenoble, Grenoble, France
+    - Kimsooja, A Laundry Field / Sewing into Walking Looking into Sewing, Oakville Gallery, Ontario, Canada
+    - Bottari, Choreographed by Christopher House, Performed by Toronto Dance Theater, Conceptual Scenic design by Kim Sooja,, Harbourfront Premiere Dance Theater, Toronto, Canada
+    - Kimsooja, Deductive Object, Akira Ikeda Gallery, Nagoya, Japan
+- 
+  year: "1994"
+  description: '- Kimsooja, Sewing into Walking, Gallery Seomi, Seoul, Korea'
+- 
+  year: "1992"
+  description: '- Kim Soo-Ja, (The 11th Suknam Fine Art Awards show), Hankook Gallery, Seoul, Korea'
+- 
+  year: "1991"
+  description: '- Kim Soo-Ja, Gallery Hyundai, Seoul, Korea'
+- 
+  year: "1989"
+  description: '- Kim Soo-Ja, On Gallery, Osaka, Japan'
+- 
+  year: "1988"
+  description: '- Kim Soo-Ja, Gallery Hyundai, Seoul, Korea'
+
+----
+
+Twoperson:
+
+- 
+  year: "2004"
+  description: "The 18th Rencontre Paralleles, Alighiero Boetti + Kimsooja, Centre d'Art Contemporain, Bass-Normandie, France"
+- 
+  year: "2000"
+  description: >
+    Kim Sooja + Yang Pei Ming, Selfscape,
+    Kunsthallen Brandts Klaedefabrick,
+    Odense, Denmark
+- 
+  year: "1998"
+  description: >
+    Kim Sooja + Jeannette Christensen,
+    Inaugural Exhibition at Kunsthalle
+    Feldbach, Feldbach, Austria
+- 
+  year: "1996"
+  description: >
+    Roles of the Couple, Soo Ja Kim +
+    Toshihiro Kuno, Akira Ikeda Gallery,
+    Taura, Japan
+- 
+  year: "1979"
+  description: |
+    Breath, Kim Soo-ja + Lee Yun-Dong, Growrich Gallery, Seoul, Korea
+    An Event by Two People, Kim Yong Min + Kim Sooja, Daegu Contemporary Art Festival, A Record of Journey From Seoul Station to Gangjung, Installation at the Youngnam Daily News Gallery, Daegu, Korea
+
+----
+
+Group:
+
+- 
+  year: "2022"
+  description: |
+    Horizon and Exhibition, La Caixa Foundation, Valencia, Spain
+    Moving Stories, Museum Het Valkhof, Nijmegen, Netherlands
+    Kids Take Over, Vancouver Art Gallery, Vancouver, Canada
+    Spirit of Gift, A Place of Sharing, Hancock Shaker Village, Massachusetts, USA
+    Chaos & Order, Kanaal’s Henro and Ma-Ka spaces, Wijnegem, Belgium
+    WALK, Schirn Museum, Frankfurt, Germany
+    Résister, encore February 18, 2022 - May 15, 2022 Lausanne Fine Arts Museum, Lausanne, Switzerland
+    Féminin Plurielles, Musée Ceres Franco, Montolieu, France
+    Bangkok Art Biennale 2022, Bangkok, Thailand
+- 
+  year: "2021"
+  description: |
+    Affinités Insolites, The State Pushkin Museum of Fine Arts, Moscow, Russia
+    Hautmusik - SKIN MUSIC, Folkwang Museum, Essen, Germany
+    Socle du Monde Biennale, HEART Herning Museum of Contemporary Art, Herning, Denmark
+    The Middle Land, ARKO Art Center, Arts Council Korea, Seoul, Korea
+    STILL ALIVE - Works from the Hoffmann Collection, Staatliche Kunstsammlungen Dresden (SKD), Dresden, Germany
+    Breaking the Monument. Images of Resistance, CGAC Centro Galego de Arte Contemporanea de Santiago, Santiago de Compostelle, Spain
+    NOT BY THE DRESS ALONE, Museum on the Seam Socio-Political Contemporary Art Museum, Jerusalem, Israel
+- 
+  year: "2020"
+  description: |
+    Asia Society project site specific piece
+    The Light House, Boghossian Foundation, Brussels, Belgium
+    Body of Water, Magasin III Jaffa, Tel Aviv-Yafo, Israel
+    DE-celerate, Te Tuhi, Aotearoa, New Zealand
+    Basel Art Days, Münsterplatz, Basel, Switzerland
+    Getting Across, Goethe Institute touring exhibition, Nicosia Municipal Art Center, Nicosia, Cyprus
+    BE/LONGING: CONTEMPORARY ASIAN ART, Seattle Asian Art Museum (SAAM), Volunteer Park, Seattle, USA
+    EMST Open. EMST as a storyline, National Museum of Contemporary Art (EMST), Athens, Greece
+    Bodyscapes, The Israel Museum, Israel
+- 
+  year: "2019"
+  description: |
+    Inifinitive Mutability, Axel Vervoodt Gallery, Hong Kong
+    Persona grata, itinérances, Maison de la Culture Amiens, Amiens, France
+    The Street. Where The World Is Made, MoCo La Panacée, Montpellier, France
+    S L O W, Salon Suisse, Venice, Italy
+    Kimsooja: Earth - Water - Fire - Air / Tierra - Agua - Fuego - Aire, PHotoESPAÑA, Madrid, Spain
+    Crystals in Art: Ancient to Today, Crystal Bridges Museum, Bentonville, AR, USA
+    Clapping with Stones: Art and Acts of Resistance, Rubin Museum of Art, New York City, NY, USA
+    Della materia spirituale dell'arte, MAXXI, Rome, Italy
+- 
+  year: "2018"
+  description: |
+    The Street. Where The World Is Made, MAXXI - Museo nazionale delle arti del XXI secolo, Rome, Italy
+    Persona grata, MAC VAL – Musée d’art contemporain du Val-de-Marne, Vitry-sur-Seine, France
+    THE FLÂNEUR: From Impressionism to the Present, Kunstmuseum Bonn, Bonn, Germany
+    A Laundry Woman, Biennale Internationale d'art Contemporain de Melle, Melle, France
+    The Second Yinchuan Biennale, Museum of Contemporary Art Yinchuan, Yinchuan, China
+    Worlds Otherwise Hidden, Kemper Museum of Art, Kansas City, USA
+    Other Walks, Other Lines, San Jose Museum of Art, San Jose, USA
+    Soft Power, Transpalette Centre d'Art Contemporain, Bourges, France
+    POLYPHON. Artistic Positions in the Viehof Collection, Langen Foundation, Neuss, Germany
+    Blooming at the Junction, Korean Cultural Center in Hong Kong, Hong Kong
+- 
+  year: "2017"
+  description: |
+    Documenta 14: ANTIDORON - The EMST Collection, Fridericianum, Kassel, Germany
+    Intuition, Palazzo Fortuny, Venice, Italy
+    Socle du Monde Biennale, HEART Herning Museum of Contemporary Art, Herning, Denmark
+    Asia Corridor, Culture City of East Asia, 2017, Kyoto, Nijo Castle, Kyoto, Japan
+    Weaving Europe: The World as Meditation, Pafos European Capital of Culture, Cyprus
+    Person of the Crowd, Barnes Foundation, Philadelphia, Pennsylvania, United States
+    The Show Must Go On, Kunstmuseum Bern, Switzerland
+    1000 Patronen / Why Patterns, Texture Museum of Flax and River Lys, Kortrijk, Belgium
+    The 2nd Changjiang International Photography and Video Biennale, Changjiang Museum of Contemporary Art, Chongqing, China
+    Tous, des sang-meles, MAC/VAL Musée d'art contemporain du Val-de-Marne, Paris, France
+    The Urge to Create Vision, Centrum Rzezby Polskiej, Oronsko, Poland
+    Thread Lines, The Kentucky Museum of Art and Craft, Kentucky, United States
+    Idioma, Museion, Bolzano, Italy
+- 
+  year: "2016"
+  description: |
+    Urgent Converstations, National Museum of Contemporary Art - EMST, Athens, Greece
+    Uncertain States, Akademie Der Künste, Berlin, Germany
+    20 Bienal De Arte Paiz, Fundación Paiz, Guatemala City, Guatemala
+    2016 Hangzhou Triennial of Fiber Art: Weaving & We, Zheijiang Art Museum, Hangzhou, China
+    Dancing with Myself, Museum Folkwang, Essen, Germany
+    Earth, Fire, Soul - Masterpiece of Korean Ceramics, Grand Palais, Paris, France
+    Earth, Fire, Soul - Masterpiece of Korean Ceramics, The State Hermitage Museum, Saint Petersburg, Russia
+    Public to Private: Photography in Korean Art since 1989, National Museum of Modern and Contemporary Art, Seoul, Korea
+    Architecture of Life, Berkeley Art Museum and Pacific Film Archive (BAM/PFA), Berkeley, California, USA
+    Rever D'Un Autre Monde, Centre D'histoire de la Résistance et la Déportation, Lyon, France
+    Yoko Ono: LUMIÈRE de L'AUBE, The Museum of Contemporary Art, Lyon, France
+    Enacting Stillness, The 8th Floor, New York, New York, USA
+    No Longer Empty: Jameco Exchange, Jamaica, Queens, New York, USA
+    Lo Specchio Concavo, BACO Base Arte Contemporanea Odierna, Bergamo, Italy
+    Remember Lidice, Alte Weberei, Nordhorn, Germany
+    Minus Ego, Goethe Institut, Barcelona, Spain
+- 
+  year: "2015"
+  description: |
+    Proportio, Palazzo Fortuny, Venice, Italy
+    Where Do We Migrate to?, Vérmlands Museum, Karlstad, Sweden
+    Art_Textiles, The Whitworth at the University of Manchester, Manchester, UK
+    Fear Nothing, She Says, Museo Nacional De Escultura, Valladolid, Spain
+    Fashion as Social Energy, Palazzo Morando | Costume Moda Immagine, Milan, Italy
+    Experiments with Truth: Gandhi and Images of Nonviolence, The International Red Cross and Red Crescent Museum, Geneva, Switzerland
+    Ornament, Reduction, Continuum, Kunstmuseum Liechtenstein, Vaduz, Liechtenstein
+    Vanita/Vanitas, Museo Ettore Fico, Torino, Italy
+    Le Monde Selon, FRAC - Franche - Comté, Besançon, France
+    L'Effet Vertigo, Musée d'art Contemporain du Val-de-Marne, Vitry-sur-Seine, France
+    Remember Lidice, Edition Block, Berlin, Germany
+    Chambres d'enfants, Musée du Papier Peint, Mézières, Switzerland
+    The Soul Selects her own Society: Women Artists of the Miller Meigs Collections, Janet Wallace Fine Arts Center, Macalester College, Saint Paul, Minnesota, USA
+    30 Years - Artists of the Gallery, Galerie Tschudi, Zuoz, Switzerland
+    New Hanging of Works in the Collection, Mac/Val Musee d'art Contemporain du Val de Marne, Vitry-sur-Seine, France
+    The XIV Biennial of Photography of Cordoba, Cordoba, Spain
+- 
+  year: "2014"
+  description: |
+    Experiments with Truth: Gandhi and Images of Nonviolence, The Menil Collection, Houston
+    Intimate Cosmologies: The Aesthetics of Scale in an Age of Nanotechnology, 1st Cornell University Biennale, Ithaca, New York, USA
+    Inhabiting the Word - Busan Biennale 2014, Busan, Korea
+    The 1st International Biennial of Contemporary Art of Cartagena de Indias, Colombia
+    The Future is Now!, MAXXI Museum, Rome, Italy
+    Beyond and Between, LEEUM, Samsung Museum of Art, Seoul, Korea
+    Total Art: Contemporary Video, National Museum of Women in the Arts, Washington D.C, USA
+    The Eye of the Needle. Embroidered Art, KODE - Art Museums of Bergen, Bergen, Norway, traveled to The National Museum of Art Architecture and Design, Oslo, Norway
+    True Colors, Yebisu International Festival for Art and Alternative Visions 2014, Tokyo Metropolitan Museum of Photography, Tokyo, Japan
+    Thread Lines, The Drawing Center, New York, New York, USA
+    Threads, Museum voor Moderne Kunst, Arnhem, The Netherlands
+    Land-Sea-Sky, revisiting spatiality in video, Artsonje Center, Seoul, Korea, traveling to OCAT-OCT Contemporary Art Terminal, Shanghai, China; National Art School Gallery, Sydney, Australia; Griffith University Art Gallery, Brisbane, Australia
+    Le Mouvement - Performing the City, CentrePasquArt, Biel, Switzerland
+    Taking Time, The Cube, Lincoln Rail yard, Lincoln, Nebraska, USA
+    KP.O.P. - Process, Otherness, Play, Museum of Contemporary Art, Taipei, Taiwan
+    Voyage to Biennale - 50 years of Contemporary Korean Art in Overseas Biennales, Busan, Korea
+    Paris Champ et Hors Champ, photographies et videos contemporaines, Galerie des Bibliothèques de Paris, at the 4th district of Paris, Paris, France
+    La Disparition Des Lucioles (The Disappearance of Fireflies), Prison Sainte-Anne, Avignon, France
+    2014 Daegu Contemporary Art Festival in Gangjeong, Gangjeong, Korea
+    Shades of Time: An Exhibition from the Archive of Korean-American Artists, Part 1 and 2, 1990-2001, organized by the Korean Cultureal Center, New York, Queens Museum of Art, New York, and AHL Foundation, New York, USA
+    il Tempo delle Donne, Piccolo Teatro Grassi, Milan, Italy
+    RE:VISION, Trish Clark Gallery, Oakland, New Zealand
+- 
+  year: "2013"
+  description: |
+    Making Space. 40 Years of Video art, Musée Cantonal des Beaux-Arts, Lausanne, Switzerland
+    Matrix - Textiles in Art and the Applied Arts from Gustav Klimt to Chiharu Shiota, Kunstmuseum Wolfsburg, Germany
+    Host & Guest, Tel Aviv Museum of Art, Tel Aviv, Israel
+    California-Pacific Triennial, Orange County Museum of Art, California, USA
+    Zizhiqu - Autonomous Zone, Guangdong Times Museum, China
+    The Future is Now!, MMCA, Seoul, Korea
+    Contemporary Art Trail, Aix-en-Provence, France
+    Le Pont, Museum of Contemporary art Marseilles, France
+    The Lift, Bloomberg Building, New York, USA
+    ISKELE2 / The Unanswered Question, TANAS, Berlin, Germany
+    Les Apparitions, Pavillon des Arts, Pau, France
+    In God We Trust, Zachęta – National Gallery of Art, Warsaw, Poland
+    Elle est Retrouvée..., Courbet Museum, Ornans, France
+    Women Healing the World, Culture Factory, Osan, Korea
+    Media Art from the Museum Collection, National Museum of Modern and Contemporary Art, Seoul, Korea
+- 
+  year: "2012"
+  description: |
+    ROUNDTABLE, The 9th Gwangju Biennale, Gwangju, Korea
+    Now Here is also Nowhere: Part 1, Henry Art Gallery, University of Washington, USA
+    Unfinished Journey, Copenhagen Art Festival 2012, Kunstforeningen GL STRAND, Copenhagen, Denmark
+    Walking in the City, Screening at the Museum of Fine Arts, Boston, Massachusetts, USA
+    Where Do We Migrate To?, Traveling exhibition: The Center for Art, Design, and Visual Culture; The University of Maryland, Baltimore County (UMBC); Sheila C. Johnson Design Center at Parsons; The New School for Design, New York; Contemporary Art Center, New Orleans; Henry Art Gallery, Seattle, Washington USA
+    Shortening Distances, Asian Panorama of the MUSAC, Museo de Art Contemporaneo de Castilla y León, León, Spain
+    Women In-Between: Asian Women Artists 1984-2012, Traveling show from Fukuoka Asian Art Museum; Okinawa Prefecture Art Museum; Tochigi Prefecture Art Museum of Fine Arts; Mie Prefecture Art Museum, Japan
+    Blue Crystal Ball, IOC media art commission for London Olympics 2012, Spencer House, London, United Kingdom
+- 
+  year: "2011"
+  description: |
+    TRA, Edge of Becoming, Palazzo Fortuny, Venice, Italy
+    Kunst-Stoff, Stadtische Galerie Karlsruhe, Karlsruhe, Germany
+    Korean Rhapsody, Leeum Samsung Museum, Seoul, Korea
+    Terre Vulnerabill - a growing exhibition: 2 - Question that which has forever ceased to amaze us; 3 - Some people walk in the rain others simply get wet; 4 - The chain's weakest link is also the strongest because it can break the chain, Hangar Bicocca, Milan, Italy
+    Windflower Perceptions of Nature, Kröller-Müller Museum, Otterlo, The Netherlands
+    Frontiers of Architechture III + IV, Louisiana Museum of Modern Art, Louisiana, Denmark
+    Buddha's Trace – Contemporary Art From Asia, Kunstmuseum Bochum, Bochum, Germany
+    West End?, The Museum on the Seam, Jerusalem, Israel
+    Barely There, Museum of Contemporary Art Detroit (MOCAD), Detroit, USA
+    Space Study, Plateau - Samsung Museum of Art, Seoul, Korea
+    Count Down, Culture Station Seoul 284, MPlanet @ Seoul Square Media Center, Seoul, Korea
+    Dream White Night, The Square of Daegu City Hall, Seoul, Korea
+    Sixth Sense Massage, Art Center Nabi, Seoul, Korea
+    J'ai Deux Amours, MAC/VAL, Paris, France
+    The Big Picture, Kunstsammlung NRW, Dusseldorf, Germany
+    Spirituality of Place, Gustein Gallery, Savannah College of Art and Design, Savannah, Georgia, USA
+    The Missing Peace: Artists Consider the Dalai Lama, San Antonio Museum of Art, San Antonio, New Mexico, USA
+    Summer Show, Misa Shin Gallery, Tokyo, Japan
+    New Acquisitions 2010, National Museum of Contemporary Art, Seoul, Korea
+    Samsung Media Art Exhibition: DREAM WHITENIGHT, Daegu City Hall, Daegu, Korea
+- 
+  year: "2010"
+  description: |
+    Brave New World, Foundation Musée d'Art Moderne Grand-Duc Jean, Luxembourg
+    Fast Forward 2. The Power of Motion - Media Art Sammlung Goetz, ZKM | Zentrum für Kunst und Medientechnologie Karlsruhe, Karlsruhe, Germany
+    5th Socle du Monde Beinnale, Herning Museum, Herning, Denmark
+    Isole Mai Trovate - Islands never found, Traveling show: Palazzo Ducale, Venice, Italy; The State Museum of Contemporary Art, Thessaloniki, Greece; The Museum of Modern Art, Saint Etienne, France
+    Thrice Upon a Time, Magasin 3 Stockholm Konsthall, Stockholm, Sweeden
+    Beyond Mediations, Poznan Biennale, Zamek Art Center, Poznan, Poland
+    Das im Entschwinden Erfasste - Videokunst im Museum Folkwan, Museum Folkwan, Essen, Germany
+    Contemplating the Void: Interventions in the Guggenheim Museum, Solomon R. Guggenheim, New York, USA
+    Culture Shock, Queen Elizabeth Theater, Vancouver, Canada
+    Cue, Vancouver Art Gallery, Vancouver, Canada
+    Edge of Elsewhere, Campbelltown Arts Centre, Gallery 4A & Sydney Festival, Sydney, Australia
+    GSK Contemporary, Aware: Art Fashion Identity, Royal Academy of Arts, London, UK
+    Che cosa sono le nuvole? Werke aus der Sammlung Enea Righi, MUSEION - Museum für moderne und zeitgenössische Kunst, Frankfurt, Germany
+    The Cassini Cruise 2, Ardi Poels Projects, Rijckholt, The Netherlands
+    Believe in Miracles, Collection Lambert, Lambert Foundation, Avignon, France
+    Ars Itineris. El viaje en el arte contemporáneo, Traveling show: Museu de l'Art, la Pell de Vic; Museo del Mar de Vigo, Spain
+    Rainbow Asia, Seoul Arts Center, Seoul, Korea
+    Investigations of a Dog - Works From the Face Collection, Traveling Show: Ellipse Foundation, Cascais, Portugal; La Maison Rouge, Paris, France; Magasin 3, Stokholm, Sweeden
+    Annunciazioni / Annunciation, Casa Masaccio, San Giovanni Valdarno, Tuscany, Italy
+    'A Needle Woman' 2005 on the occasion of the Chaotic Harmony, Santa Barbara Museum of Art, Santa Barbara, California, USA
+    Screening 'A Needle Woman - Paris', Courmayer - Valle D'Aosta, D'Aosta, Italy
+    The Missing Peace: Artists Consider the Dalai Lama, Brukenthal National Museum, Sibiu, Romania
+- 
+  year: "2009"
+  description: |
+    In-finitum, Palazzo Fortuni, Venice, Italy
+    Your Bright Future: 12 Korean Artists, Traveling show: Los Angeles County Museum of Art, Los Angeles; Museum of Fine Arts, Houston, USA
+    Against Exclusion - The 3rd Moscow Biennale, The Garage, Moscow, Russia
+    The Other, 11th International Cairo Biennale, Cairo, Egypt
+    2nd Thessaloniki Biennale of Contemporary Art - Praxis: Art in Times of Uncertainty, Thessaloniki, Greece
+    Dress Codes, The Third ICP Triennial of Photography and Video, International Center for Photography, New York, USA
+    Un certain étate du monde: Sélection de la collection de la Fondation François Pinault, The Garage, Moscow, Russia
+    Universal Code, The Power Plant, Toronto, Canada
+    The 4th Fukuoka Asian Art Triennale 2009: LIVE and LET LIVE: Creators of Tomorrow, Fukuoka Asian Art Museum and its vicinity, Fukuoka, Japan
+    Re-Imagining Asia, New Art Gallery, Walsall, England
+    The View from Elsewhere / Small Acts, Traveling show: Queensland Art Gallery, Brisbane; Gallery of Modern Art Sherman Contemporary Art Foundation, Sydney, Gallery of Modern Art Australian Cinematheque, Brisbane, Australia
+    FRAGILE - Fields of empathy, Traveling show: Modern Art Museum of St. Etienne, St. Etienne, France; Palazzo dei Falconieri, Rome, Italy; Daejeon Museum of Art, Daejeon, Korea
+    5th. International Textile Biennial, Palais de Glace, Buenos Aires, Argentina
+    Heart in Heart, National Museum of Contemporary Art - EMST, Athens, Greece
+    Labyrinth - Freedom, Traveling show: Franzensfeste; Fortezza Alto Adige; Bolzano; Trentino; Bozen, Italy
+    Mi Vida. From Heaven to Hell, Mucsarnok, Budapest, Hungary
+    The Missing Peace: Artists Consider the Dalai Lama, Traveling show: Fundación Canal, Madrid, Spain; The Frost Art Museum, Florida International University, Miami, USA
+    Art Tells the Times ~ Works by Women Artists, Shiseido Gallery 90th Anniversary Exhibition, Shiseido Gallery, Tokyo, Japan
+    Faces & Facts: Contemporary Korean art in New York, Queens Museum, New York, USA
+    En Découdre (Fray), la Foundation d'entreprise Espace Ecureuil, Toulouse, France
+    Essential Experiences, Riso, Museo d'arte contemporanea della Sicilia, Palermo, Italy
+    Investigations of a Dog, Works from the FACE Collections, Foundation Sandretto re Rebaudengo, Turin, Italy
+    Living With..., Galleria Raffaella Cortses, Milan, Italy
+    House is Not A Home, La Calmeleterie, Nazelles Negron, France
+    Truly Truthfully, Special Exhibition Art Asia Miami, Miami, Florida, USA
+- 
+  year: "2008"
+  description: |
+    Conspire, Transmediale 08, Haus der Kulturen, Berlin, Germany
+    Street Art Street Life, Bronx Museum of Art, New York, USA
+    Academia, Chapel of L'Ecole Nationale des Beaux-Arts, Paris, France
+    Ethos, Lofoten International Art Festival, Svolvaer, Norway
+    Self / Other, The National Museum of Modern Art, Tokyo, Japan
+    Knock Knock Knockin' on Heaven's Door, Kunstmuseum Liechtenstein, Liechtenstein
+    Re-Imagining Asia, Haus der Kulturen, Berlin traveling to New Art Gallery, Walsall, England, UK
+    Je reviendrai, Musée d'art contemporain du Val-de-Marne, Paris, France
+    Micro-Narratives, Musée D'Art Moderne, Saint-Etienne, France
+    Wandering in Contemporary Video Art, Magazzini del Sale, Palazzo Pubblico, Siena, Italy
+    Person of the Crowd, The Neuberger Museum of Art, Purchase, New York, USA
+    Global EurAsia Special Exhibition, Art Cologne, Cologne, Germany
+    Time is of the Essence: Contemporary Landscape Art, Asheville Art Museum, Asheville, North Carolina, USA
+    The Missing Peace: Artists Consider the Dalai Lama, Hillside Terrance, Tokyo, Japan
+    A Space In Time, La Fabrica Gallery, Madrid, Spain
+    Aspiration, Light & Sie Gallery, Dallas, Texas, USA
+    Asian Dub Photography, Cassa di Risparmio di Modena, Foro Boario, Modena, Italy
+- 
+  year: "2007"
+  description: |
+    ArTempo: where time becomes art, The 52nd Venice Biennale, Palazzo Fortuny, Venice, Italy
+    From the Earth to the Moon, Castello di Rivoli, Torino, Italy
+    Void in Korean Art, Leeum Samsung Museum, Seoul, Korea
+    Passage du Temps, A selection of works from the François Pinault Foundation, Tri Postal, Lille, France
+    GOING STAYING. Movement, Body, Place in Contemporary Art, Kunstmuseum Bonn, Bonn, Germany
+    Á l'horizon de Shangri la, FRAC Lorraine, Lorraine, France
+    Equatorial Rhythms, The Stenersen Museum, Oslo, Norway
+    Timeout! Art and Sustainability, Kunstmuseum Liechtenstein, Liechtenstein
+    Listening Awry, McMaster Museum of Art, Hamilton, Canada
+    Scenes and Sequences, Peter Blum Editions, Kunsthaus Aarau, Aarau, Switzerland
+    Critical Mass, Kunsthalle Bern, Bern, Switzerland
+    Speed 3: Contrarreloj (Against the clock), IVAM Institute Valenciá d'Art Modern, Valenciá, Spain
+    Micro-Narratives, 48th October Salon, Cultural Centre, Belgrade, Serbia
+    Cosmologies, James Cohan Gallery, New York, USA
+    Post Object, Doris McCarthy Gallery, University of Toronto Scarborough, Toronto, Canada
+    Pawnshop, e-flux, New York, USA
+    Video Atlas Americas, Automatica, Rio de Janerio, Brazil
+    An Interpersonal Journey, New Museum of Contemporary Art, Istanbul, Turkey
+    Gestures of Infinity, Minoriten Kultur Graz, Graz, Austria
+    Six Feet Under: Autopsy of Our Relations, Deutsches Hygiene Museum, Dresden, Germany
+    Manifesting Emptiness, Rymer Gallery at The School of the Art Institute of Chicago, Chicago, USA
+    Witnessing the Moment, Prague Contemporary Art Festival, The Vinohrady Theater, Prague, Czech Republic
+    Existencias, Museo de Arte Contemporaneo de Castilla y León, León, Spain
+    The Missing Peace: Artists Consider the Dalai Lama, Traveling show: Rubin Museum of Art, New York, New York; Emory Visual Arts Gallery – Atlanta; Yerba Buena Center for the Arts, San Francisco, California, USA
+    Momentos Estelares - Photography in the 20th Century, The Circulo de Bellas Artes and the Consejería de Cultura de la Comunidad de Madrid, Madrid, Spain
+- 
+  year: "2006"
+  description: |
+    Five Days Until the End of Art, Kunsthalle Fridericianum, Kassel, Germany
+    Casper David Friedrich Die Erfindung Der Romantik, Museum Folkwang, Essen, traveled to Hamburger Kunstahalle, Hamburg, Germany
+    With Body and Soul, Kunstmuseum Liechtenstein, Liechtenstein
+    Art, Life & Confusion, October Art Salon, Belgrade, Serbia
+    The 2nd Architectural Biennial Beijing, The Great Hall of The National Museum of China, Beijing, China
+    New Mystics, Instituto Cabrera Pinto, La Laguna, Tenerife, Canary Islands, Spain
+    The Missing Peace: Artists Consider the Dalai Lama, UCLA Fowler Museum, Los Angeles, traveled to Loyola University Museum of Art, Chicago, USA
+    NowHere Europe - Trans:it. Moving Culture Through Europe, National Museum of Contemporary Art (MNAC), Bucharest, Romania
+    Cut and Paste - New Identities, New Territories, Makor Steinhardt Center, New York, USA
+    Allegories of Displacement, Westport Art Center, Westport, Connecticut, USA
+    Group Show, Art Center Beursschouwburg, Brussels, Belgium
+- 
+  year: "2005"
+  description: |
+    Always a Little Further, The 51st Venice Biennale, Arsenale, Venice, Italy
+    Art Circus - Jumping from the Ordinary, Yokohama Triennial 2005, Yokohama, Japan
+    Marking Time, Los Angeles Contemporary Exhibitions, The Getty Center, Los Angeles, California, USA
+    Irreducible, CCA Wattis Institute for Contemporary Arts, San Francisco, traveled to Miami Art Central, Miami, Bronx Museum of Art, New York
+    Introspections, The National Museum of Modern Art, Tokyo, Japan
+    Domicile - Private / Public, Musee D'Art Moderne, Saint-Etienne, France
+    The Giving Person, Palazzo della Arti, Napoli, Italy
+    Art Robe: Women Artists at the Nexus of Art and Fashion, UNESCO, Paris, France
+    Femme, Palazzo Strozzi, Florence, Italy
+    Cool & Warm, Sung-Kok Museum of Art, Seoul, Korea
+    The Fifth Gospel, Gallery of Contemporary Art Celje, Celje, Slovenia
+    The Missing Peace, Cantor Arts Center, Stanford University, Stanford, California, USA
+    Perception of the Horizontal, MUSEION, Museum of Modern and Contemporary Art, Bolzano, Italy
+    WATER, AIR, EARTH, FIRE - At the Origins of Life between Art and Science, Villa Croce, Geneva, Switzerland
+    INGENIO 400, a commissioned web video project, La Fabrica, Madrid, Spain
+    Video Spirit: Mysteries, Myths, Meditation and the Moving Image, Cheekwood Museum of Art, Nashville, Tennessee, USA
+- 
+  year: "2004"
+  description: |
+    Don't call it performance, Traveling show: The Centro Andaluz de Arte Contemporáneo, Sevilla, Spain; El Museo del Barrio, New York, USA; Museo Nacional Centro de Arte Reina Sofia, Madrid, Spain
+    The Ten Commandments, Hygiene Museum, Dresden, Germany
+    Transcultures, National Museum of Contemporary Art, Athens, Greece
+    PREMAculTURE, Hydra, Greece
+    La Caja Negra - Utopias en Movimiento, Centro Atlantico Arte Moderno, Canary Islands, Spain
+    Still Mapping the Moon - Perspective of Contemporary Art, Kunstmuseum Bonn, Bonn, Germany
+    Five Artists, Five Faiths: Spirituality and Contemporary Art, Ackland Art Museum, University of North Carolina, Chapel Hill, USA
+    The 1st Lodz Biennale, Lodz, Poland
+    WOW / The Work of the Work, Henry Art Gallery & Western Bridge, Seattle, USA
+    Contemporary Visions, Photographs and videos from the collection of Helga De Alvear, Waino Aaltonen Museum of Art, Oulu City Art Museum, Turku, Finland, MEIAC Art Museum, Badajoz, Spain
+    Settlement, Museum of Modern Art, Saint-Etienne, France
+    In Movement - Salutes Women Video Artists of the World, UNESCO, Paris, France
+    HOMExtension, University Art Museum, Albany, USA
+    Playgrounds & Toys, La Manufacture des Oeillets, Paris, France
+    Kunst Stoff, Galerie nächst St. Stephan Rosemarie Schwarzwälder, Wien, Austria
+    Raison et Sentiments, CRAC ALSACE, Altkirch, France
+    Artists on Journey, Seoul National University Museum, Seoul, Korea
+    The 18th Rencontre Paralleles, Centre d'art Contemporain, Bass-Normandie, France
+    Out Video Festival, NCCA Yekaterinburg, Russia
+    Enlightment, Video Program, Jeu de Paume, Paris, France
+- 
+  year: "2003"
+  description: |
+    Ideal City - Solares, The 2nd Valencia Biennale, Valencia, Spain
+    Lille 2004, Flower Power, Beaux-Art Museum, Lille, France
+    Don't call it performance, Museo Nacional Centro de Arte Reina Sofia, Madrid, Spain
+    As Heavy as the Heavens, Transformations of Gravity, Traveling show: County Museum Joanneum, Graz, Austria; Kunsthallen Brandts, Odense, Denmark Migration, Kunstmuseum Lichtenstein, Lichtenstein
+    Migration, Kunstmuseum Liechtenstein, Liechtenstein
+    Mind Space, Samsung Art Museum, Seoul, Korea
+    Identity and Otherness, Photoespaña, Circulo de Bella Artes, Madrid, Spain
+    Multitudes - Solitudes, Museum and Ar/ge Kunst Galleria Museo, Bolzano, Italy
+    Archives and Simulation, LisboaPhoto, Centro Cultural de Belem, Lisbon, Portugal
+    Social Strategy, Traveling show: University of California Art Museum, Santa Barbara; Austin Museum of Art, Austin, Texas, USA
+    Pro Arte Video Festival, Hermitage Museum & Russian Museum, St. Petersburg, Russia
+    Walking in the Street, Apex Art, New York, traveled to Kunsthalle Fridericianum, Kassel, Germany
+    Serene Beauty, Jamaica Art Center, New York, USA
+    Spotlight Reading, The Kitchen, New York, USA
+    Motion Studies, Lower Manhattan Cultural Council, New York, USA
+    Traces of Friday - art, tourism, displacement, Institute of Contemporary Art, University of Pennsylvania, Philadelphia, Pennsylvania, USA
+    The 10th Biennial of Moving Images, Geneva, Switzerland
+- 
+  year: "2002"
+  description: |
+    71st Whitney Biennial, Central Park, Whitney Museum of American Art, New York, USA
+    Tempo, Inauguration exhibition of MOMA, Queens, New York, USA
+    Memory of Water, Spoleto Festival USA 2002, Charleston, North Carolina, USA
+    The 3rd Busan Biennale, Metropolitan Museum, Busan, Korea
+    Refugee, Henie Onstad Kunstsenter, Oslo, Norway
+    Expo 2002 - Money & Value / The Last Taboo, Biel, Switzerland
+    Aubes, Rêveries au bord de Victor Hugo, Maison de Victor Hugo, Paris, France
+    Watching Ocean and Sky Together, Liverpool Biennial, Liverpool, UK
+    Demeter, Tokachi International Contemporary Exhibition, Obihiro, Japan
+    Global Priority, Jamaica Art Center, New York, USA
+    Instruction for Actions, Kunsthalle Wien, Austria
+    Crossing Cultures - Elementary Particle Art, Kunsthaus Muerzzuschlag, Styria, Austria
+    The 2nd Photo Festival, Ganna Art, Total Museum, Seoul, Korea
+- 
+  year: "2001"
+  description: |
+    Markers, The 49th Venice Biennale, Venice, Italy
+    ARS 01, KIASMA, Helsinki, Finland
+    Art through the Eye of Needle, Henie Onstad Kunstsenter, Hovikedden, Norway
+    Subject Plural, Contemporary Arts Museum, Houston, Texas, USA
+    Asian Contemporary Art, Duke University Modern Art Museum, Durham, North Carolina, USA
+    On the way to the Screen, International Artists House, Moscow, Russia
+    Antro-a-Polosias, Luis Adelantado Gallery, Valencia, Spain
+    IMAGO MUNDI, CAPC Bordeaux, France
+    Lost And Found, Apex Art, New York, USA
+    Unrealtime Video, Fine Arts Center, Seoul, Korea
+    Going Places, Smart Art Space, Amsterdam, The Netherlands
+    Girls in the Image, Art Gallery of Western Australia, Perth, Australia
+- 
+  year: "2000"
+  description: |
+    Sharing Exotism, The 5th Biennale de Lyon 2000, Halle Tony Garnier, Lyon, France
+    Human-being and Gender, The 3rd Kwangju Biennale, Kwangju, Korea
+    The Sky is the Limit, The 2nd Taipei Biennial, Taipei Fine Arts Museum, Taipei, Taiwan
+    1st Echigo - Tsumari, Tsumari Art Triennale 2000, Echigo - Tsumari, Japan
+    Hypermental - Entre realite et chimieres 1950-2000, de Salvadore Dali a Jeff Koons, Kunsthaus Zurich, Switzerland
+    Mutation, Arc en Reve d'Architecture, APC Bordeaux, France
+    Art and Social Reality, High Commission for Refugees, Geneva, Switzerland
+    From Here to There, Academie Scholoss Solitude, Stuttgart, Germany
+    Playground & Toys for Refugee Children, Traveling show: Red Cross Museum, Red Crescent Museum, Geneva, Switzerland; UN, New York, USA
+    Drive, Govette-Brewster Gallery, New Plymouth, New Zealand
+    Likeness of Being, DC Moore Gallery, New York, USA
+    Today's Korea Contemporary Sculpture, Moran Museum of Art, Namyangju, Korea
+- 
+  year: '1997 - 2000'
+  description: 'Cities on the Move, Traveling show: Secession, Vienna, Austria; Louisiana Museum of Art, Copenhagen, Denmark; Hayward Gallery, London, UK; CAPC Bordeaux, France; KIASMA, Helsinki, Finland; P.S.1, New York, USA'
+- 
+  year: "1999"
+  description: |
+    d'APERTutto, The 48th Venice Biennale, Venice, Italy
+    ArtWorlds in Dialogue - Global Art Rhineland 2000, Museum Ludwig, Cologne, Germany
+    The 3rd Asia - Pacific Triennial of Contemporary Art, Brisbane, Australia
+- 
+  year: "1998"
+  description: |
+    The 24th Sao Paulo Biennale, Sao Paulo, Brazil
+    Everyday, The 11th Biennale of Sydney, Sydney, Australia
+    Echolot, Museum Fridericianum, Kassel, Germany
+    Loose Threads, Serpentine Gallery, London, England, UK
+    Warming, The Project, New York, USA
+    Medialization, Traveling Show: Edsvik Art Center, Stockholm, Sweeden; Eesti Kunst Museum, Tallinn, Estonia
+    Slowness of Speed, National Gallery of Victoria, Melbourne, Australia; Taipei Fine Arts Museum, Taipei, Taiwan
+    Frame, Kumho Art Museum, Seoul, Korea
+- 
+  year: '1996 - 1998'
+  description: 'Traditions / Tensions, Traveling show: Asia Society, New York; Gray Art Gallery, New York; Queens Museum of Art, New York, USA; Vancouver Art Gallery, Vancouver, Canada; Art Gallery of Western Australia, Perth, Australia'
+- 
+  year: "1997"
+  description: |
+    On life, beauty, translations and other difficulties, The 5th Istanbul Biennale, Istanbul, Turkey
+    De-Genderism, Setagaya Art Museum, Tokyo, Japan
+    Des Histoire En Formes, Centre National D'Art Contemporain de Grenoble, Grenoble, France
+- 
+  year: "1996"
+  description: |
+    Manifesta 1, Museum Boymans Van-Beuningen, Rotterdam, The Netherlands
+    Inclusion / Exclusion, Steirischer Herbst 96, Graz, Austria
+    The Scream - Borealis 8, Arken Museum of Modern Art, Copenhagen, Denmark
+    Do It / Home Version, Museum in Progress, Vienna, Austria
+    Home / Salon, The Clock Tower Gallery, New York, USA
+    Ceremonial, Apex Art, New York, USA
+    An Aspect of Korea Contemporary Art in the 90's, Traveling show: The National Museum of Modern Art, Tokyo; International Museum of Osaka, Japan
+- 
+  year: "1995"
+  description: |
+    Division of Labor - Women's Work in Contemporary Art, Traveling show: The Bronx Museum of Art, New York; Museum of Contemporary Art, Los Angeles, USA
+    The 1st KwangJu Biennale, KwangJu, Korea
+    Tiger's Tail - 12 Korean Contemporary Artists, Traveling show: Palazzo Vendramin, Venice, Italy; National Museum of Contemporary Art, Kwacheon, Korea
+    Circulating Currents - Korean & Japanese Contemporary Artists, Nagoya City Museum, Aichi Prefecture Museum of Art, Nagoya, Japan
+    The 6th Triennale Kleinplastik 1995, Sud-West L.B, Stuttgart, Germany
+    16th International Bronze & Small Sculpture Biennale, Padova, Italy
+    Light Box Project, Museum City Project, Fukuoka, Japan
+    Stage work for Drawing the Sound, Whanki Museum, Seoul, Korea
+    Information and Reality, Fruitmarket Gallery, Edinburgh, Scotland
+- 
+  year: "1994"
+  description: 'Women - The Difference and the Power, Hankook Gallery, Seoul, Korea'
+- 
+  year: "1993"
+  description: |
+    Trade Routes, The New Museum of Contemporary Art, New York, USA
+    In Their Own Images, P.S.1 Museum, New York, USA
+    Semblances, Ise Art Foundation, New York, USA
+- 
+  year: "1992"
+  description: >
+    Triangle Workshop, Pine Plains, New
+    York, USA
+- 
+  year: "1991"
+  description: |
+    Ten Korean Women Artists, Traveling show: The National Museum Women in the Arts, Washington D.C., USA; Seoul Arts Center, Seoul, Korea
+    Inaugural Exhibition of Korean Contemporary Art, SonJae Museum, Kyungju, Korea
+- 
+  year: "1990"
+  description: >
+    Impact 3 90, Gallery Humanite, Tokyo,
+    Japan
+- 
+  year: "1989"
+  description: |
+    Berlin International Contemporary Art Festival, Municipal Museum, Berlin, Germany
+    Young Artist Festival, Trade Center Hyundai Gallery, Seoul, Korea
+- 
+  year: "1988"
+  description: |
+    88 Korea Contemporary Art Festival, National Museum of Modern Art, Seoul, Korea
+    60 Contemporary Artists, Hanaro Gallery, Seoul, Korea
+- 
+  year: "1987"
+  description: |
+    The 8th International Impact Art Festival, Municipal Museum, Kyoto, Japan
+    The Spearhead in our Generation, Kwan Hun Gallery, Seoul, Korea
+    'INFORMAL' Exhibition, Soo Gallery, Seoul, Korea
+    Art on T-Shirt, Hilton Hotel Gallery, Seoul, Korea
+    UP DOWN, Kwan Hun Gallery, Seoul, Korea
+    NEO NOW, Baeksong Gallery, Seoul, Korea
+    The 13th Seoul Contemporary Art Festival, Fine Arts Center, Seoul, Korea
+    The 13th Independents, National Museum of Modern Arts, Kwacheon, Korea
+- 
+  year: "1986"
+  description: >
+    Hong-Ik M.F.A. Exhibition, Dong Bang
+    Plaza Gallery, Seoul, Korea
+- 
+  year: "1985"
+  description: |
+    1984-85 French Government Scholars Exhibition, Galerie Bernanos, Paris, France
+    Korea 31 Contemporary Women Artists' Exhibition, Kwan Hun Gallery, Seoul, Korea
+- 
+  year: "1984"
+  description: |
+    Korean Contemporary Art Festival, Municipal Museum, Taipei, Taiwan
+    Korea 15 Contemporary Women Artists' Exhibition, Kwan Hun Gallery, Seoul, Korea
+    The 10th Independents, National Museum of Arts, Deoksukung Place, Seoul, Korea
+- 
+  year: "1983"
+  description: |
+    83 Seoul International Drawing Exhibition, Fine Art Center, Seoul, Korea
+    Materiality, the New way of Existence, Artists Gallery, Seoul, Korea
+    The 1st Grandprize Exhibition of Young Artists, Young Artists Gallery, Seoul, Korea
+    The 9th Seoul Contemporary Art Festival, Fine Arts Center, Seoul, Korea
+- 
+  year: "1982"
+  description: |
+    The 9th Hong-Ik print Group Exhibition, Fine Arts Center, Seoul, Korea
+    The 9th Independents, National Museum of Modern Art, Seoul, Korea
+- 
+  year: "1981"
+  description: |
+    The 8th Hong-Ik print Group Exhibition, Fine Arts Center, Seoul, Korea
+    The 8th Independents, National Museum of Modern Art, Seoul, Korea
+- 
+  year: "1980"
+  description: >
+    The 7th Hong-Ik print Group Exhibition,
+    Fine Arts Center, Seoul, Korea
+- 
+  year: "1979"
+  description: >
+    The 6th Hong-Ik print Group Exhibition,
+    Fine Arts Center, Seoul, Korea
+
+----
+
+Grants:
+
+- 
+  year: "2021"
+  description: >
+    Okgwan, The Order of Cultural Merit,
+    Seoul, Korea
+- 
+  year: "2020"
+  description: |
+    To Breathe, Public Art Commission for Permanent Stained Glass works in Saint-Etienne Cathedral, Metz, France
+    To Breathe, Public Art Commission from the RATP (Régie Autonome des Transports Parisiens) for the Mairie de Saint-Ouen Metro Station, Paris, France
+- 
+  year: "2019"
+  description: |
+    Thread Routes - Chapter VI, Commission by the City of Poitiers for TraverséesKimsooja, 2019, Poitiers, France
+    Medal of the City of Poitiers awarded by the mayor of Poitiers for remarkable achievement for the city, Poitiers, France
+- 
+  year: "2017"
+  description: |
+    Asia Society Arts Award, Hong Kong
+    Kim Se-Choong Sculpture Award, Seoul, Korea
+    Chevalier l'Ordre des Arts et des Lettres awarded by the French Ministry of Culture to recognize eminent artists and writers, as well as people who have contributed significantly to furthering the arts in France and throughout the world, France
+- 
+  year: "2015"
+  description: |
+    HO-AM Prize 2015, Lifetime Achievement in the Arts, HO-AM Foundation, Seoul, Korea
+    Ha Chong Hyun Art Award, Korea
+- 
+  year: "2014"
+  description: 'Kimsooja, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, A Site-Specific Instillation for Intimate Cosmologies: The Aesthetics of Scale in an Age of Nanotechnology, 1st Cornell University Biennale Ithaca, New York, USA'
+- 
+  year: '2013 - 2014'
+  description: >
+    John Simon Guggenheim Memorial
+    Foundation Fellowship Award, USA
+- 
+  year: '2013 - 2012'
+  description: 'GSA Commission Work for a Site- Specific Video Projection on the border at Mariposa Main Entrance Port, Arizona, USA'
+- 
+  year: "2012"
+  description: |
+    'To Breathe-Olympics', a commission work for the IOC Olympics Museum in Lausane, supported by Samsung Electronics Co., Lausane, Switzerland
+    CEC ArtsLink, New York for the Solo Exhibition at Perm Contemporary Art Museum, Perm, Russia
+- 
+  year: "2011"
+  description: "A Site-Specific Video projection commissioned by 'The Bill & Melinda Gates Foundation', Seattle, Washington, USA"
+- 
+  year: "2010"
+  description: |
+    Cities on the Move, print edition Commissioned on the occasion of International Women's Day by Musée d'art contemporain du Val-de-Marne, France
+    'Earth-Water-Fire-Air', Co-commissioned multi channel video project by Hermes Foundation, Paris, France for a solo exhibition at Atelier Hermes, Seoul, Korea
+- 
+  year: "2009"
+  description: |
+    Commissioned work 'A Needle Woman' - Paris for the Nuit Blanche 2009, by the Hotel de Ville in Paris and Musée d'art contemporain du Val-de-Marne, France
+    Earth-Water-Fire-Air, Co-commissioned multi channel video project by MIAC, and Lanzaote Biennale, Ministry of Culture & Tourism, Lanzarote, Canary Islands, Spain
+    Commissioned Work 'An Album: Hudson Guild', More Art, New York, New York USA
+- 
+  year: "2008"
+  description: >
+    Grant Recipient, New York State Council
+    on the Arts, New York, USA
+- 
+  year: "2007"
+  description: |
+    Visual Art Award, Foundation for Contemporary Art, New York, USA
+    'Bottari Truck: Migrateurs', a performance video piece commissioned by Musée d'art conptemporain du Val-de-Marne, France
+- 
+  year: "2006"
+  description: "'To Breathe: A Mirror Woman', a site-specific installation commissioned by Museo de National Reina Sofía, Madrid for the solo exhibition, To Breathe - A Mirror Woman (Respirar - Una mujer espejo), at the Crystal Palace, Museo Nacional Centro de Arte Reina Sofía, Madrid, Spain"
+- 
+  year: "2005"
+  description: |
+    Korea Culture & Arts Foundation Grant, Seoul for Always a Little Further, The 51st Venice Biennale, Arsenale, Venice, Italy
+    Commissioned web video project by La Fabrica, Madrid for the exhibition INGENIO 400, Madrid, Spain
+- 
+  year: '2003 - 2004'
+  description: 'CEC Arts Link Grant, New York, New York, For the Lecture Series in Russia in conjunction with the Pro Arte Video Festival Hermitage Museum & Russian Museum, St. Petersburg, CCA, Moscow Lecture Program, and A Needle Woman, 7 Outdoor Video Projection, Yekaterinburg, Russia'
+- 
+  year: "2003"
+  description: |
+    Commissioned site specific installation by Consortium, Dijion, Sponsored by Fondation de France, Paris, and Olivietti Foundation, Rome for Nouveaux Commanditaires - Landscape Lighting Project & St. Bernard, Hospice Permanent Lighting Installation, St. Bernard, France
+    Commanditaires, Landscape Lighting Project, & St. Bernard Hospice Permanent Lighting Installation, St. Bernard, France, Commissioned by Consortium, Dijion, Sponsored by Fondation de France, Paris, and Olivietti Foundation, Rome, Italy
+- 
+  year: "2002"
+  description: |
+    Anonymous Was A Woman Foundation Award, New York, USA
+    Artist of the American Art Award, Whitney Museum of America, Sponsored by Cartier Co., New York, USA
+- 
+  year: "2001"
+  description: 'Korea Culture & Arts Foundation Award, Best Show of the Year 2000, for the solo exhibition, A Needle Woman - A Woman Who Weaves the World at Rodin Gallery, Samsung Art Museum, Seoul, Korea'
+- 
+  year: "2000"
+  description: |
+    Paradise Culture Foundation Award, Seoul, Korea
+    Commissioned work by ICC, Tokyo in conjunction with the solo exhibition A Needle Woman, At ICC, Tokyo, Japan
+- 
+  year: "1999"
+  description: >
+    Work commissioned by CCA Kitakyushu in
+    conjunction with the solo exhibition, A
+    Needle Woman, at CCA Kitakyushu, Japan
+- 
+  year: "1998"
+  description: |
+    Residency Award, World Views - at World Trade Center, New York, awarded by the Lower Manhattan Cultural Council, New York, USA
+    Grant Recipient, The Korean Culture & Art Foundation, Seoul, Korea
+- 
+  year: "1997"
+  description: "'Cities on the Move - 2727 km Bottari Truck', a performance video piece commissioned by Experimental Art Grant, The Korean Culture & Arts Foundation Paradise Culture Foundation, Seoul, Korea"
+- 
+  year: "1996"
+  description: 'The Korean Culture & Arts Foundation, Seoul, Korea'
+- 
+  year: '1992 - 1993'
+  description: 'Artist in Residence, P.S.1 Contemporary Art Center, New York, USA, supported by The Korean Culture & Arts Foundation, Seoul, Korea'
+- 
+  year: "1992"
+  description: >
+    The 11th Suk-Nam Fine Art Award, Seoul,
+    Korea
+- 
+  year: "1991"
+  description: >
+    Song-Eun Culture Fondation Award, Seoul,
+    Korea
+- 
+  year: "1984"
+  description: >
+    Lithography studio Scholarship, Ecole
+    National des Beaux-Art, Paris, awarded
+    by the French Government, France
+
+----
+
+Teaching:
+
+- 
+  year: "2020"
+  description: >
+    Artist Talk at TraverséesKimsooja, in
+    dialogue with Emmanuelle de Montgazon,
+    Curator, Musée Sainte-Croix, Poitiers,
+    France
+- 
+  year: "2019"
+  description: >
+    Artist Talk at YSP Chapel, Yorkshire
+    Sculpture Park, West Bretton, UK
+- 
+  year: "2018"
+  description: >
+    Artist Talk as part of INSIDE/OUT
+    lecture series, Leeds Beckett
+    University, Leeds, UK
+- 
+  year: "2017"
+  description: |
+    Artist Talk on the occassion of Asia Society Arts Award, Art Central, Hong Kong
+    Artist Talk on the occassion of Asia Corridor, East Asia Culture City 2017, Kyoto Art Center, Kyoto, Japan
+- 
+  year: "2016"
+  description: |
+    Galaxy was a Memory, Earth is a Souvenir: A Screening and Conversation with Kimsooja, The Cooper Union, New York, New York, USA
+    The Critical Dialogue Series, talk at the Tyler School of Art of Temple University, Philadelphia, Pennsylvania, USA
+    Teaching MA Program, School of Visual Arts, New York, USA
+- 
+  year: "2015"
+  description: |
+    Kimsooja - Dimensions of a Needle, talk at Leeum Auditorium, Samsung Museum of Art, Seoul, Korea
+    Artist talk at School of Visual Arts MFA Fine Arts, New York, New York, USA
+- 
+  year: "2014"
+  description: >
+    The Dimensions of a Needle, talk at
+    Cornell University, Ithaca, New York,
+    USA
+- 
+  year: "2013"
+  description: |
+    Artist Talk at The Graduate Center, CUNY, New York, USA
+    ArtTable artnet Artist Breakfasts, New York, USA
+    Artist Talk at Simon Fraser University, Vancouver, Canada
+    Artist Talk at University of Arizona School of Art, Tucson, Arizona, USA
+- 
+  year: "2012"
+  description: |
+    Artist Talk with Rene Morales at Miami Art Museum on the occasion of Solo Exhibition at MAM, Miami, Florida, USA
+    Artist Talk at Carnegie Mellon University, Pittsburgh, Pennsylvania, USA
+- 
+  year: "2011"
+  description: |
+    Artist talk at School of The Art Institute of Chicago, Chicago, Illinois, USA
+    Parsons Visiting Artists Lecture Series, Parsons the New School for Design, New York, New York, USA
+    Site Specific Screening of 'An Album: Hudson Guild' & Artist Talk with Eleanor Heartney & Jane Farver, SVA Theater, New York, New York USA
+    Screening of 'An Album: Hudson Guild' & Artist Talk with Mary Jane Jacob at Barney Auditorium NYU, New York, New York, USA
+    Artist talk with Robert Morgan on the occasion of solo exhibition at the University Museum of Contemporary Art, Amherst, Massachusetts, USA
+- 
+  year: "2010"
+  description: |
+    Artist talk at Musée d'art de Joliette, Joliette, Canada
+    Artist talk at Concordia University, Montréal, Canada
+    'Art Talk' at Tate Modern with Maxa Zoller, London, England, UK
+    Visiting Artist, Royal Academy of Arts, Oslo, Norway
+    Visiting Artist, Yale University Painting Department, New Haven, Connecticut, USA
+    Screening and Artist Talk on the occasion of Platform, Art Sunje, Seoul, Korea
+    Artist talk at Heinsa Temple, Hapcheon, Korea
+- 
+  year: "2009"
+  description: "Artists Panel Participant, Robert Ho Family Foundation's 'The Many Faces of Buddhism' Forum, Victoria & Albert Museum, London, England, UK"
+- 
+  year: "2008"
+  description: |
+    Visiting Artist, Ecole Nationale Superieure des Beaux-Arts, Paris, France
+    Visiting Artist, San Francisco Art Institute, San Francisco, California, USA
+    Key Note Speaker, The International Symposium of The Fabric Society of America, Honolulu, Hawaii, USA
+    Artist talk at Shiseido Art Gallery, Tokyo in conjunction with 'A Mirror Woman: The Sun & The Moon' solo exhibition, Japan
+- 
+  year: "2006"
+  description: >
+    Visiting Artist, School of The Art
+    Institute of Chicago, USA
+- 
+  year: "2005"
+  description: "Artist talk at MIT University in conjunction with the solo exhibition 'Seven Wishes and Secrets', MIT List Gallery, Cambridge, Massachusetts, USA"
+- 
+  year: "2004"
+  description: |
+    Artist talk at Rhode Island School of Design in conjunction with the Videos on Progress at the Rhode Island School of Design Museum, Providence, Rhode Island, USA
+    Artist talk at St. Petersburg as part of the Pro Arte Video Festival, Hermitage Museum & Russian Museum, CCA, Mosco Lecture Program, Moscow, and at NCCA, in conjunction with A Needle Woman 7 Outdoor Video Projection, Yekaterinburg, Russia
+    Artist talk at Asian Art Museum, Seattle, Washington, USA
+- 
+  year: "2003"
+  description: |
+    Artist talk at University of Hawaii, in conjunction with the installation 'A Mirror Woman: The Ground of Nowhere', Honolulu City Hall for the Crossings: 2003 Korea/Hawaii Exhibition, Hawaii, USA
+    Artist talk and Panel Discussion in conjunction with the solo exhibition Kim Sooja at Zacheta National Gallery of Contemporary Art, Warsaw, Poland
+- 
+  year: "2000"
+  description: >
+    Artist talk in conjunction with the solo
+    exhibition A Needle Woman, at ICC,
+    Tokyo, Japan
+- 
+  year: "1996"
+  description: |
+    Lecture at Hong-Ik University Art Dept., Seoul, Korea
+    Lecturer at Seoul Institute of Art, Seoul, Korea
+- 
+  year: "1993"
+  description: >
+    Artist talk at School of Visual Art, New
+    York, New York, USA
+- 
+  year: "1992"
+  description: >
+    Artist talk at Pratt Institute,
+    Brooklyn, New York, USA
+
+----
+
+Publiccollect:
+
+- 
+  year: ""
+  description: |
+    Novo Banco Contemporary Photography Collection, Portugal
+    Museum Het Valkhof, Nijmegen, Netherlands
+    Guggenheim Abu Dhabi, Abu Dhabi, United Arab Emirates
+    M+, Hongkong
+    Seoul Museum of Art (SeMA) Collection, Korea
+    Musée d'Art Contemporain, Lyon (FNAC), France
+    Musée MAC/VAL, Val de Marne, France
+    Hôtel de Ville, Paris, France
+    Museum of Modern Art, St. Etienne, France
+    Cité Nationale de l'Histoire de l'Immigration, Paris, France
+    Sammlung Hoffmann, Berlin, Germany
+    K21 Kunsthsammlung, Dusseldorf, Germany
+    Sammlung Goetz, Munich, Germany
+    Folkwang Museum, Essen, Germany
+    Degussa Co., Dusseldorf, Germany
+    National Museum of Contemporary Art - EMST, Athens, Greece
+    Museo d'Art Contemporanea Castello di Rivoli, Turin, Italy
+    The National Museum of Modern Art, Tokyo, Japan
+    Fukuoka Art Museum, Japan
+    Leeum - Samsung Museum of Art, Seoul, Korea
+    The National Museum of Modern and Contemporary Art, Gwacheon, Korea
+    Collection Maeil Dairies Co. Ltd, Seoul, Korea
+    Hana Bank Collection, Seoul, Korea
+    Kunstmuseum Lichtenstein, Vaduz, Lichtenstein
+    MUDAM, Musée d'Art Modern Grand-Duc Jean, Luxembourg
+    MUSAC - Museo de Arte Contemporáneo de Castilla y Léon, Spain
+    Centro de Artes Visuales Helga de Alvear, Cáceres, Spain
+    Kunstmuseum Bern, Switzerland
+    Pierre Huber Foundation, Geneva, Switzerland
+    Magasin 3, Stockholm Konsthall, Stockholm, Sweden
+    Art Gallery of Western Australia, Perth, Australia
+    Monsoon Collection, London, UK
+    Los Angeles County Museum of Art, California, USA
+    MIT List Visual Arts Center, Cambridge, Massachusetts, USA
+    Smith College Museum of Art, Massachusetts, USA
+    Whitney Museum of American Art, New York, USA
+    Bill & Melinda Gates Foundation, Seattle, Washington USA
+    Microsoft Co., Seattle, Washington, USA
+    University of Seattle, Seattle, Washington, USA
+    Western Bridge, Seattle, Washington, USA
+    National Museum of Women in the Arts, Washington, D.C., USA
+    TKF Foundation, Washington D.C, USA
+
+----
+
+Biocontents: [{"content":{"text":"<p>Born 1957, Daegu, Korea<br>Lives and works in New York and Seoul<\/p>"},"id":"b37a0796-f432-484e-b05f-1932c7eacafa","isHidden":false,"type":"text"}]
+
+----
+
+Uuid: S4mcgQkqFA43rqzh

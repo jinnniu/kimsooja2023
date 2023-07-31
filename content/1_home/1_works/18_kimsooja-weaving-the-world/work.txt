@@ -1,0 +1,61 @@
+Title: Kimsooja, Weaving the World
+
+----
+
+Workimgmain: - 01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["03.jpg","09.jpg","02.jpg","01.jpg","08.jpg","04.jpg","10.jpg","12.jpg","11.jpg","14.jpg","13.jpg","15.jpg","16.jpg","17.jpg","18.jpg","21.jpg","20.jpg","23.jpg","19.jpg","22.jpg","25.jpg","24.jpg","encounter_sculpture2.jpg","26.jpg"]},"id":"c14d39a8-c966-4f0b-8ab4-92c985833315","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations, Sewn, Objects
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Solo Exhibition at Kunstmuseum Liechtenstein, Vaduz, Liechtenstein
+
+----
+
+Workcredit: Photo by Aaron Wax
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01: Kimsooja, Thread Routes - Chapter IV, 2014, 16mm film transferred to HD Format, 5.1 sound, 27:48. Installation view at Kunstmuseum Liechtenstein, Liechtenstein. Courtesy of Kimsooja Studio. Photo by Aaron Wax.
+
+02 - 03: Left: Kimsooja, Thread Routes Chapter IV - Lightwaves, 2014/2016, HD Video, 5.1 sound, 27:48, Right: Kimsooja, Thread Routes - Chapter IV, 2014, 16mm film transferred to HD Format, 5.1 sound, 27:48. Installation view at Kunstmuseum Liechtenstein, Liechtenstein. Courtesy of Kimsooja Studio. Photo by Aaron Wax.
+
+04: Left: Kimsooja, Thread Routes - Chapter I , 2010, 16mm film transfered to HD Format, 5.1 sound, 29:31, Right: Kimsooja, Thread Routes Chapter I - Lightwaves, 2010/2016, HD Video, 5.1 sound, 29:31. Installation view at Kunstmuseum Liechtenstein, Vaduz. Courtesy of Art Basel Unlimited, Basel, Kukje Gallery, Seoul and Kimsooja Studio. Photo by Aaron Wax. Photo by Aaron Wax.
+
+05 - 07: Kimsooja, A Needle Woman, 1999 - 2001, 8 Channel Video Projection, 6:33, silent. Installation view at Kunstmuseum Liechtenstein, Vaduz. Courtesy of Kimsooja Studio. Photo by Aaron Wax.
+
+08 - 10: Kimsooja, Lotus: Zone of Zero, 2017, site-specific installation consisting of 656 lotus lanterns, Tibetan, Gregorian, and Islamic chants. Installation view at Kunstmuseum Liechtenstein, Vaduz. Courtesy of Kimsooja Studio. Photo by Aaron Wax.
+
+11 - 21: Kimsooja, A Laundry Woman, 2000, site specific installation consisting of 27 Korean Bedcovers, 5 bottaris, and 6 fans. Installation view at Kunstmuseum Liechtenstein, Vaduz. Collection of the Musee d’Art Contemporain, Lyon. Courtesy of Musee d’Art Contemporain, Lyon and Kimsooja Studio. Photo by Aaron Wax.
+
+22 - 23: Kimsooja, Encounter - Looking into Sewing, 2017, performative sculpture, used Korean bedcovers, mannequin, 165 x 80 (dia.) cm, unique. Installation view at Kunstmuseum Liechtenstein, Vaduz. Courtesy of Galerie Kewenig, Berlin and Kimsooja Studio. Photo by Aaron Wax.
+
+----
+
+Uuid: cU61ihwlnLblFakV

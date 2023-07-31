@@ -1,0 +1,45 @@
+Title: Portrait of Yourself
+
+----
+
+Workimgmain: - 06.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["06.jpg"]},"id":"9e26ef8a-c3a0-48a2-9d08-3855d096b39e","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Sewn
+
+----
+
+Timeline: 1985
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

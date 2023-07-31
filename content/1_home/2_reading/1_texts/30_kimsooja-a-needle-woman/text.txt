@@ -1,0 +1,63 @@
+Title: Kimsooja: A Needle Woman
+
+----
+
+Texttitle: [{"content":{"level":"h2","text":"<strong>Kimsooja: A Needle Woman<\/strong>"},"id":"76981214-b081-49d5-8278-0323a9462745","isHidden":false,"type":"heading"}]
+
+----
+
+Textautor: Morales, René
+
+----
+
+Textyear: 2012
+
+----
+
+Textcategory: Essay
+
+----
+
+Textimg:
+
+- >
+  rene-morales_2012_a-needle-woman-delhi.jpg
+
+----
+
+Textimgcaption: A Needle Woman, 1999 – 2001, video still from Delhi, 8 channel video projection, 6:33 loop, silent
+
+----
+
+Textcontents:
+
+- A woman stands on the street, immersed amid a torrent of passersby, utterly motionless -- a needle sewing through the fabric of humanity. With a simple, stoic gesture, Kimsooja vividly embodies the struggle to preserve a place for the individual within society, using her body as a conduit for critical questioning. This struggle is a perennial one, but by situating herself in an array of urban centers that span the planet, she imbues it with the tenor of contemporaneity: for if there is a single experience that can be said to exemplify the urgent conditions of today's world, it is the state of being engulfed by the "global city."
+
+- This first version of A Needle Woman was created between 1999 and 2001. Approximately six years later, a silent but momentous event occurred: For the first time in history, the world's urban populace outnumbered the rural one. [1]  Over the last 30 years, urban populations have reached staggering proportions, and their rates of growth are accelerating exponentially. In 1900, only 10% of the world's population lived in cities. Today the figure has climbed above 50%; by 2050, it will represent three-fourths of humanity. [2] 
+
+- A Needle Woman was produced just as the full realization of this explosion of urbanization reached a fever pitch, spilling across a variety of academic disciplines as well as art and popular media. The work is particularly emblematic of the directness with which the phenomenon tended to be addressed at the turn of the new millennium. With the benefit of a little more than ten years' hindsight, it is all the more striking for how it remains relevant to the discourse that developed in the wake of those confrontations.
+
+- One of the most important of these discursive evolutions involves the way in which urbanism has grafted onto globalization studies. It was the rise of mega-cities throughout the world that made it no longer necessary to abstractly theorize that globalization is happening. Indeed, urbanization is increasingly seen not as an after-effect of globalization, but as its primary driving force. [3]  Over the last three or four decades, the increased number and scale of cities capable of participating in the production and management of global flows of goods and capital have led to a vast expansion of those same flows. At the same time, they have produced significant populations of middle-class, cosmopolitan individuals, while mobilizing large numbers of migrant workers from the countryside as well as immigrants from poorer places. The result has been the development of cities bearing unprecedented levels of heterogeneity. The urbanization of the globe has turned out to be inseparable from the globalization of the urban.
+
+- The nuance and poetry with which A Needle Woman captures these complex dynamics belies the precision with which it communicates meaning. This is especially so with respect to the artist's deliberate selection of the eight sites that "pass through" the anonymous, solitary figure. The academic literature on global urbanism provides a useful entry point (one of many) through which to access the implications that arise from this particular grouping of cities. Viewed in this light, the work bears a particularly strong resonance with an important theoretical framework known as the "global city" paradigm, as well as with the critiques to which it has been subjected. Originally advanced by the urban scholar Saskia Sassen in the 1990s, this approach focuses on how specific urban centers interface with and influence the world economy, using a series of measures such as monetary exchanges, volume of trade, and the number of transnational corporations based in a given urban zone as a way of quantifying its degree of "structural relevance" within a hierarchy of cities. From this perspective, the inclusion of New York, London, and Tokyo in A Needle Woman would serve to represent the traditional command centers of the global economy. Shanghai would serve to indicate the elite class of ascendant hubs that have established themselves more recently as major financial players. Mexico City, Delhi, and Cairo might stand for the crucial "second-" and "third-tier" cities that have also managed to lay a significant claim on the global financial sphere, though at a lower level.
+
+- While there can be no doubt that the "global city" rubric has produced invaluable insights, in its earliest manifestations it met with heated criticism, especially from the direction of the "Global South" -- that is, from beyond Europe and North America. [4]  By prioritizing economic criteria, the methodology involved in this concept had the effect of placing limits on the types of questions that were asked. Indeed, by reducing a city's relevance to its contribution to the world's financial system, it had the effect of focusing the attention of researchers onto a limited number of cities -- perhaps 30 or 40, all but three or four of them in the developed world. Advocates of these critiques also remind us of the importance of more grounded and culturally oriented lines of investigation through which we might uncover valuable means for improving city life -- from the creative productions of Rio's favela architecture, to the vibrant informal economies of Mumbai, to the socially cohesive effects of local popular culture in Kinshasa.
+
+- With this debate as backdrop, A Needle Woman delivers a keen insight through the inclusion of an eighth site that paradigmatically represents the reverse side of the forces of global urban change: With a population that has escalated from 300,000 in 1950 to one that is estimated to top 23 million inhabitants by 2015, the city-region of Lagos exemplifies the lot of urban agglomerations that have witnessed astonishing growth in the context of severe poverty. [5] 
+
+- In human terms, mass urbanization has had its most powerful effects in the poorest parts of the world. Here again, the rate of the transformations is staggering: Today, about 70% of city dwellers live in developing countries, compared with less than 50% in 1970; by 2030, roughly four out of five urbanites will reside in the developing world. With much of this growth playing out against city infrastructures that remain ill-equipped to handle such expansion, unprecedented numbers have come to inhabit what are typically described as "slums." In the least developed countries, the proportion of slum residents approaches 80% of the populace; already, this figure represents one-third of the total global urban population. [6]  While it is important to resist the chronic tendency to reduce the complexity of informal settlements to a single, homogenized vision of Dickensian bleakness, it is difficult not to read such mind-boggling statistics without being struck by the sense that we are in the midst of a crisis.
+
+- In the face of these and other challenges, a pressing need has arisen to focus at least as much energy on understanding the specific and differentiated local repercussions of globalization as on identifying the resonant scenarios that it creates throughout the world. It has become vitally important, in other words, to survey this global age from the level of the street, the neighborhood, the city, where we may hope to find concrete ways both to maximize its potentials and to mitigate its most distressing symptoms.
+
+- It is precisely in this sense that A Needle Woman seems so well attuned to the exigencies of the global-urban era. The figure that appears in these images confronts head-on the fearsome power of the contemporary city. At the same time, through her stillness, she expresses the possibility of making peace with it. It is worth paying attention to the mixture of resoluteness and humanism with which she looks forward to the volatile century that stretches out before us.
+
+----
+
+Textcaption:
+
+[1] United Nations HABITAT Office, 2006 report.  > return to article >
+[2] Ricky Burdett and Deyan Sudjic, eds. The Endless City: The Urban Age Project by the London School of Economics and Deutsche Bank's Alfred Herrhausen Society, pg. 9. New York: Phaidon Press, 2007.  > return to article >
+[3] This paragraph is indebted to J. Miguel Kanai and Edward Soja, "The Urbanization of the World," in The Endless City, pgs. 54-69.  > return to article >
+[4] See Jennifer Robinson, "Global and World Cities: A View from off the Map" in International Journal of Urban and Regional Research, 26.3, September 2002, pgs. 531-554; as well as Kris Olds and Henry Wai-Chung, "Pathways to Global City Formation: A View from the Developmental City-State of Singapore" in Review of International Political Economy 11:3 August 2004, pgs. 489-521.  > return to article >
+[5] Mike Davis, Planet of Slums, pg. 15. London: Verso, 2006.  > return to article >
+[6] Davis, pg. 51.  > return to article >

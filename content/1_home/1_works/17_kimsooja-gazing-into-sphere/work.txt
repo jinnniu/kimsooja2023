@@ -1,0 +1,58 @@
+Title: Kimsooja - Gazing into Sphere
+
+----
+
+Workimgmain:
+
+- >
+  kimsooja_gazing-into-sphere_axel-vervoordt-2018_04.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["kimsooja_gazing-into-sphere_axel-vervoordt-2018_02.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_01.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_05.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_04.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_06.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_07.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_09.jpg"]},"id":"ef0ce848-b1a5-435d-a5a5-4ea980e7c64e","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Video
+
+----
+
+Timeline: 2018
+
+----
+
+Worklocatin: Solo Exhibition at Axel Vervoordt Gallery, Wijnegem, Belgium
+
+----
+
+Workcredit: Photo by Sebastian Schutyser
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01: Kimsooja, Gazing into Sphere, 2018, Site-specific installation in the Escher Gallery at Axel Vervoordt, Wijnegem. Courtesy of Culture City of East Asia 2017, Kyoto, Axel Vervoordt, Wijnegem, and Kimsooja Studio. Photo by Sebastian Schutyser
+
+02 - 03: Kimsooja, Encounter - A Mirror Woman, 2017, Folding mirror screen. Installation view in the Escher Gallery at Axel Vervoordt, Wijnegem. Courtesy of Culture City of East Asia 2017, Kyoto, Axel Vervoordt, Wijnegem, and Kimsooja Studio. Photo by Sebastian Schutyser
+
+04 - 06: Kimsooja, Gazing into Sphere, 2018, Site-specific installation in the Escher Gallery at Axel Vervoordt, Belgium. Courtesy of Culture City of East Asia 2017, Kyoto, Axel Vervoordt, Wijnegem, and Kimsooja Studio. Photo by Sebastian Schutyser
+
+07: Kimsooja, Fuego de Tierra / Fire of Earth, 2009, 9:37 loop, silent. Installation view in the Escher Gallery at Axel Vervoordt, Wijnegem. Courtesy of MMCA, Seoul, Korea and Kimsooja Studio.
+
+----
+
+Uuid: ZfAfiqsmZeWm0wtT

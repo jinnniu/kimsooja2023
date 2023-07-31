@@ -1,0 +1,49 @@
+Title: Mumbai: A Laundry Field
+
+----
+
+Workimgmain: - mumbai-a-laundry-field_01_8062_saic.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["mumbai-a-laundry-field_02_pano_saic.jpg","mumbai-a-laundry-field_01_8062_saic.jpg","mumbai-a-laundry-field_03_7962_saic.jpg","mumbai-a-laundry-field_04_8043_saic.jpg"]},"id":"915b7ee6-f2a2-412a-8d4a-f282ba720238","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Courtesy of the Sullivan Galleries, School of the Art Institute of Chicago.
+
+----
+
+Category: Installations, Video
+
+----
+
+Timeline: 2011
+
+----
+
+Worklocatin: Site specific installation at Sullivan Galleries, School of the Art Institute of Chicago, 2011
+
+----
+
+Workcredit: Photos by James Prinz.
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+Four channel video projection, sound, 10:25 min loop, 2007 - 2008
+
+Mumbai A Laundry Field, 2007 - 2008, 4 channel video projection, 10:25 loop, sound.
+
+----
+
+Additionalvideo: 

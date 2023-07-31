@@ -1,0 +1,55 @@
+Title: To Breathe - Leeum Museum of Art, 2021
+
+----
+
+Workimgmain: - file://xS4pik1jkT8tBgxc
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["file://so7ZVR5zDIojFhBN","file://xS4pik1jkT8tBgxc","file://XemqmkwdAgNiN6zu","file://UwvyKRXXO3gDt0qo","file://QVSoW85Mm86MjAuh"]},"id":"4001dc6a-b843-4754-9701-43f76d32c21f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2021
+
+----
+
+Worklocatin: Leeum Museum, Seoul, Korea
+
+----
+
+Workcredit:
+
+Photo by Seungbeom Hur
+commissioned by Leeum
+
+----
+
+Workdescription: To Breathe (2021) is a site-specific artwork installed in the museum’s rotunda, where diffraction grating film is used to refract sunlight that enters the circular space through its dome-shaped skylight, illuminating a series of window frames that enclose its central cavity. The diffraction grating film allows natural light to constantly transform in tune with the flow of time, changes in weather and movements of the sun throughout the four seasons, enveloping the interior spiral staircase and surrounding walls in prismatic light before reaching ground level, where it casts a circular splash of color. Breathing within the main axis of the museum that connects its four floors of galleries, this light converts the space into a sanctum. Another type of special reflective film that responds to soft light is installed to interact with the rhythm of the window frames along the spiral staircase. This reflective film yields rainbow spectrums and generates unique compositions according to viewers’ movements, resonating with Kimsooja’s ongoing investigation of painting and two-dimensionality. As light passes through the diffraction grating film, which is covered in nano-sized scratches that act as a prism, the interior space is filled with iridescent rays. Such refraction and breathing of the light awaken the audience’s sentiments and thoughts, allowing for both a metaphorical and embodied experience of the artist’s nonmaterial practice of “non-doing, non-making” with light painting. Transposed into light in To Breathe, Kimsooja’s artistic language transcends notions of materiality and delivers the breath of nature unto all beings within its embrace, from the moment the very first life took its first breath until the present, in the same way that light has always unconditionally sheltered and touched countless beings.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 06: Kimsooja, To Breathe, 2021, Site-specific installation with diffraction grating film, Courtesy of Leeum Museum of Art and Kimsooja Studio. Photo by Seungbeom Hur
+
+----
+
+Additionalvideo: 
+
+----
+
+Uuid: 7DvjbAQS6jdH353S

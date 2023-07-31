@@ -1,0 +1,48 @@
+Title: A Study on Body
+
+----
+
+Workimgmain: - 3.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg"]},"id":"e5473449-c0e9-4007-b20b-d7dd0c252ae1","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 1981
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Silkscreen Print on Paper
+34 x 34 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

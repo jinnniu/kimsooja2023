@@ -1,0 +1,48 @@
+Title: To Breathe - Bottari
+
+----
+
+Workimgmain: - to_breathe-bottari.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["to_breathe-bottari.jpg"]},"id":"ae721877-58e1-4ee8-9bef-63017a2bce19","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2013
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Duraclear Photographic Print in Lightbox
+118 x 88.5 x 16 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

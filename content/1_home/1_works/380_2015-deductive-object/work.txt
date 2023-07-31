@@ -1,0 +1,49 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - untitled_2015.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["untitled_2015.jpg"]},"id":"cf70311a-d82d-4388-ab0e-e462300ceb6c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2015
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+2001 / 2015
+Digital C-Print
+115.6 x 172.7 cm (image size: 95.3 x 152.4 cm)
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

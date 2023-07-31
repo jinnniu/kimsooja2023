@@ -1,0 +1,58 @@
+Title: Kimsooja at The 2nd Oku-Noto Triennale, Suzu, Japan
+
+----
+
+Workimgmain: - main-image.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["01.jpg","02.jpg","03.jpg","05.jpg","main-image.jpg"]},"id":"545d46de-73bc-400c-8b02-38da38df0b97","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2021
+
+----
+
+Worklocatin: Courtesy of Oku-Noto Triennale and Kimsooja Studio
+
+----
+
+Workcredit:
+
+Photo by Kichirō Okamura
+commissioned by Oku Noto Triennale
+
+----
+
+Workdescription:
+
+Kimsooja (b. 1957), a conceptual artist based in New York, Paris and Seoul, participates in the 2nd Oku-Noto Triennale with a presentation of two site-specific installations that convey the immaterial totality of life and art. Located at the northern tip of Japan’s Ishikawa Prefecture and surrounded by the sea on three sides, Suzu City was once a prosperous hub of maritime trade; in recent generations, however, it has become a dwindling town whose residents have largely resettled in other regions. By hosting the Oku-Noto Triennale, an art festival that unites local culture and contemporary art, the city seeks to revitalize its local communities and the region as a whole. To that end, Kimsooja’s site-specific works are installed in carefully chosen locations – a field located at the foot of a mountain on the Wanisaki coast and an old abandoned house – in order to form intimate associations with the city’s history and geography.
+
+To Breathe: Mirror (2021) consists of a series of mirror panels installed along the oceanfront that reflect the horizon against a mountainous backdrop. Throughout Kimsooja’s oeuvre, mirrors function as a medium for prolonged questioning and investigation of the conditions of painting, as well as an extension of her “needle” concept in which she seeks to patch up divisions of our times and recover the innate value of human beings. Newly presented at the Oku-Noto Triennale, To Breathe: Mirror resonates and breathes with the natural landscape of the Wanisaki coast. The work integrates both water and earth, reflecting the Other in order to negate the sea’s capacity to demarcate territorial borders according to the modern concept of nations and propose a message of mending and embracing both physical and psychological ruptures.
+
+To Breathe: Suzu (2021) introduces diffraction grating film to the windows of an abandoned house. Nano-sized scratches covering this thin film operate as prisms that filter natural light by refracting the sun's rays to produce small, fantastic rainbow spectrums. Unveiling a new light painting as a spatial intervention within a deserted house that has ceased to serve as a site of shelter and storage for local fishermen, this work constitutes a sincere endeavor to breathe regeneration and healing into the space. Viewers who experience the light painting on the house’s interior, or look through its windows to behold the iridescent trajectories of visible light outside, will feel a profound sense of connection by witnessing the water, forest and sky of this coastal landscape merge into a single artwork. In the spirit of supporting artistic collaboration even during a global pandemic, the 2ndOku-Noto Triennale runs from September 4 to November 6th, 2021.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 02: Kimsooja, To Breathe: Suzu, 2021, Site-specific installation with diffraction grating film, Courtesy of Oku-Noto Triennale and Kimsooja Studio. Photo by Kichirō Okamura
+03 - 05: Kimsooja, To Breathe: Suzu, 2021, Site-specific installation with diffraction grating film, Courtesy of Oku-Noto Triennale and Kimsooja Studio. Photo by Kichirō Okamura
+
+----
+
+Uuid: poKd1Q8K0byZb3jK

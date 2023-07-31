@@ -1,0 +1,45 @@
+Title: Geometry of Body
+
+----
+
+Workimgmain: - geometry_of_body.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["geometry_of_body.jpg"]},"id":"59b4a0c9-4e67-4e0a-8832-b28f8ae087b5","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

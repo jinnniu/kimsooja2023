@@ -1,0 +1,45 @@
+Title: Mandala: Chant for Auschuwitz
+
+----
+
+Workimgmain: - mandala_chant_poznan01.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["mandala_chant_poznan01.jpg"]},"id":"7b681717-11f8-4adc-8268-c1e69dc0af1b","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

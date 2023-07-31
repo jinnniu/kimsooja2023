@@ -1,0 +1,53 @@
+.is-show {
+  display: flex !important;
+  flex-direction: column;
+}
+
+.hiding {
+  visibility: hidden;
+}
+
+[data-open="false"] {
+  display: none;
+}
+
+[data-open="true"] {
+  display: block !important;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  right: 0;
+  // animation: 1s linear slideon;
+  @include hidescroll;
+  // text open
+  position: absolute;
+  top: 1rem;
+  z-index: 1000;
+}
+
+@keyframes slideon {
+  from {
+    right: -10rem;
+  }
+  to {
+    right: 0;
+  }
+}
+
+.text-clicked {
+  display: none;
+}
+
+.activebtn {
+  color: rgba(0, 0, 0, 1) !important;
+}
+
+.menu-active {
+  span {
+    color: #d9d9d9;
+  }
+}
+
+.drop-active {
+  color: #000 !important;
+}

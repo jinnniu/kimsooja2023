@@ -1,0 +1,15 @@
+title: Publications
+icon: 📚
+image:
+  query: false
+  back: black
+
+sections:
+  publicationsTable:
+    type: pages
+    template: book
+    search: true
+    layout: table
+    columns:
+      year:
+        value: "{{ page.bookyear }}"

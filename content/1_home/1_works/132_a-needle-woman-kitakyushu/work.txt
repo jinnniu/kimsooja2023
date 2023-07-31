@@ -1,0 +1,45 @@
+Title: A Needle Woman - Kitakyushu
+
+----
+
+Workimgmain: - anw-kitakyushu-99.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/144882371","caption":"A Needle Woman - Kitakyushu19996:33 loopsilent"},"id":"55170160-ddb5-4d4a-94f3-882a2b1c0c86","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 1999
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

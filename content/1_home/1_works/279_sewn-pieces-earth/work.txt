@@ -1,0 +1,45 @@
+Title: The Earth
+
+----
+
+Workimgmain: - earth.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["earth.jpg"]},"id":"1ae2359f-08b0-4d17-b20d-4d04f90fa454","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Sewn
+
+----
+
+Timeline: 1984
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,45 @@
+Title: Bottari - Throwing the Globe
+
+----
+
+Workimgmain: - 3.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/144879566","caption":"Bottari - Throwing the Globe, 2000<br>7:08 \/ loop<br>silent"},"id":"10260239-03f2-4961-81ed-c418d53838f1","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

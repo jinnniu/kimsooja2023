@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - deductive_object_taura_1997.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["deductive_object_taura_1997.jpg","deductive_object_taura_1997_2.jpg"]},"id":"d404a079-4536-4a33-9a36-d115117cc449","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1996
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

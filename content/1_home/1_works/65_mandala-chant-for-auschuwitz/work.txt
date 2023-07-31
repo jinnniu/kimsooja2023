@@ -1,0 +1,49 @@
+Title: Mandala: Chant for Auschuwitz
+
+----
+
+Workimgmain: - mandala_chant_poznan01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["mandala_chant_poznan01.jpg","mandala_chant_poznan02.jpg","mandala_chant_poznan04_4266.jpg","mandala_chant_poznan03.jpg"]},"id":"639d4dff-68eb-4440-a4e4-2811a33847bd","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: Installation at Poznan Biennial in Hitler's former office at Zamek, Poznan, 2010
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+Used clothes, shoes, toys, Tibetan Monk Chant. Installed at Hitler's former office at Zamek, Poznan.
+
+Installation photos by Adam Ciereszko.
+
+----
+
+Additionalvideo: 

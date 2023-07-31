@@ -1,0 +1,45 @@
+Title: Bottari - Drawing the snow
+
+----
+
+Workimgmain: - 4.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/144880004","caption":"Bottari - Drawing the Snow, 2001<br>6:23 \/ loop<br>silent"},"id":"8106c8e3-f26f-486b-a375-74c579d4f5fb","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2001
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

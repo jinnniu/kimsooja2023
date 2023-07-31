@@ -1,0 +1,45 @@
+Title: Lotus: Zone of Zero
+
+----
+
+Workimgmain: - brussels_lotus_2008_enlg.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["brussels_lotus_2008_enlg.jpg"]},"id":"7c41e085-9766-4ce4-9c7c-8d821527b4d0","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

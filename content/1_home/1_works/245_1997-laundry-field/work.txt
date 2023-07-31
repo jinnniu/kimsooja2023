@@ -1,0 +1,45 @@
+Title: A Laundry Field
+
+----
+
+Workimgmain: - laundry_field.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["laundry_field_3.jpg","laundry_field.jpg","laundry_field_4.jpg","laundry_field_2.jpg"]},"id":"00d5590c-0108-4f61-ab62-cafe9092b001","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1997
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

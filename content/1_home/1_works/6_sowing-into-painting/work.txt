@@ -1,0 +1,56 @@
+Title: Sowing Into Painting
+
+----
+
+Workimgmain: - 22.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","8.jpg","2.jpg","3.jpg","4.jpg","7.jpg","6.jpg","5.jpg","9.jpg","9a.jpg","11.jpg","12.jpg","10.jpg","14.jpg","15.jpg","13.jpg","16.jpg","17.jpg","19.jpg","21.jpg","20.jpg","18.jpg","23.jpg","22.jpg","24.jpg"]},"id":"3555b3c1-ea5b-49c6-9852-ae66625b2f7d","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations, Objects
+
+----
+
+Timeline: 2020
+
+----
+
+Worklocatin: Wanås Foundation - Wanås Konst, Sweden
+
+----
+
+Workcredit: Photo by Mattias Givell
+
+----
+
+Workdescription: The Wanås Foundation presents Sowing Into Painting a multidimensional project including site-specific installations, film, sculpture, and painting. Wana?s Konst is a unique cultural foundation in Southern Sweden, composed of a sculpture park and art galleries on the site of a medieval castle and an organic farm. Kimsooja’s exhibition incorporates the diversity of the location in newly-conceived works investigating the conceptual relationship between painting, agriculture and textiles.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 03: Kimsooja, Sowing into Painting, 2020. Sowing, Work in progress with two planted varieties of flax seeds (for flax seeds oil and linen) in Wanås Konst open fields. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Mattias Givell
+04 - 06: Kimsooja, Sowing into Painting, 2020. Blossoming, Work in progress with two planted varieties of flax seeds (for flax seeds oil and linen) in Wanås Konst open fields. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Elin Magnusson
+07 - 09: Kimsooja, Sowing into Painting, 2020. From flower to fruit, Work in progress with two planted varieties of flax seeds (for flax seeds oil and linen) in Wanås Konst open fields. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Martin Lang
+10 - 12: Kimsooja, Sowing into Painting, 2020. Seed Capsules and harvesting, Work in progress with two planted varieties of flax seeds (for flax seeds oil and linen) in Wanås Konst open fields. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Martin Lang
+13 - 15: Kimsooja, Meta-Painting, 2020. Various linen canvases stretched on wooden frame and bottaris made of linen canvases, used local clothes. Canvases 200 x 324 cm each, bottari dimensions variable. Installation view at Wanås Konst Art Gallery. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Mattias Givell
+16 - 17: Kimsooja, A Laundry Field, 2020. Site-specific installation consisting of 100 local Swedish embroidered bedsheets. Installation view at Wanås Konst Sculpture Park, Sweden. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Mattias Givell
+18 : Kimsooja, Thread Routes - Chapters I, II, IV, 2010, 2011, 2014. 16mm film transferred to HD Format, 5.1 sound. Installation view at Wanås Konst. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Mattias Givell
+19 - 21: Kimsooja, To Breathe, 2020. Site-specific installation with mirror panels and sound performance The Weaving Factory, 2004-2013, 5.1 channel, 9:14, loop. Installation view at Wanås Konst Hay Barn. Courtesy of Wanås Konst and Kimsooja Studio. Photos by Mattias Givell.
+22 - 24: Kimsooja, Deductive Objects, 1993-2020. Site-specific installation consisting of fabric filled into the existing holes of the century old hay barn wall. Installation view at Wanås Konst Hay Barn. Courtesy of the Wanås Konst and Kimsooja Studio. Photos by Mattias Givell.
+
+----
+
+Uuid: hOV13WaUf1XEncgq

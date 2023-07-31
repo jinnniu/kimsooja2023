@@ -1,0 +1,85 @@
+Title: To Breathe: Obangsaek
+
+----
+
+Workimgmain: - 12.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","2.jpg","3.jpg","4.jpg","6.jpg","5.jpg","8.jpg","9.jpg","10.jpg","7.jpg","11.jpg","12.jpg","14.jpg","13.jpg","16.jpg","15.jpg","19.jpg","20.jpg"]},"id":"49d2c39e-d7b1-4f77-ac32-20f1845b5d4b","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations, Objects
+
+----
+
+Timeline: 2015
+
+----
+
+Worklocatin: Exhibition at Gallery Tschudi, Zuoz, Switzerland
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01:  [Left] Mirror of Air, 2010, one of a trilogy of video projections, silent, 2:39 loop, [Right] To Breathe - The Flags, 2012, single channel video animation, silent, 40:41 loop, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+02:  To Breathe - The Flags, 2012, single channel video animation, silent, 40:41 loop, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+03: Deductive Object - Unfolding Bottari, 223 prints on Hahnemuhle paper divided into two used wooden boxes, 17.8cm x 22.2cm (print, each), 13.3cm x 44.5cm x 15.9cm (box, each), unique piece, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+04: Deductive Object: Obangsaek, 2014, wallpaper roll, 70 x 5 cm [dia.], Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+05: Deductive Object: Obangsaek, 2014, rolled carpet, 120 x 30 cm [dia.], Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+06: An Album: Hudson Guild, 2009, single channel projection, 31:39 min loop, sound, Commissioned by More Art, New York, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+07: [Left] Deductive Object: Obangsaek, 2014, rolled carpet, 120 x 30 cm [dia.], [Right] An Album: Hudson Guild, 2009, single channel projection, 31:39 min loop, sound, Commissioned by More Art, New York, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+08: Deductive Object: Obangsaek, 2014, carpet, 120 x 600 cm, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+09: Bottari, 2011, Used Korean bedcovers, used clothings, 52cm x 55cm x 55cm, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+10-11: To Breathe: Obangsaek, 2014, site-specific wallpaper installation, dimensions variable, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+12: Flag, 2006, Digital Print, 106cm x 54.6cm, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+13: The Seven Wishes , 2004, Portfolio of Seven Iris Prints, 114cm x 80.5cm (each), Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+14: [Left] Architecture of Vulnerability 2, 2013, digital C-Print, 47 x 71 cm, [Middle] Architecture of Vulnerability 3, 2013, digital C-Print, 47 x 71 cm, [Right] Architecture of Vulnerability 1, 2013, digital C-Print, 47 x 71 cm, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+15: Architecture of Vulnerability, 2010 - 2013, Duraclear Photographic Print in Lightbox, 45 x 58 x 16cm, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+16: Thread Routes - Chapter II, 2011, 16mm film transferred to HD Format, 5.1 sound, 23:40, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+17:  Mirror of Air, 2010, one of a trilogy of video projections, silent, 2:39 loop, Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+18: To Breathe: Zouz, 2014, Diffration grating film on window, site-specific installtion, dimensions variable Courtesy of Galerie Tschudi, Zuoz, Switzerland and Kimsooja Studio
+
+----
+
+Additionalvideo: 
+
+----
+
+Uuid: gBQ4QvtdUpPlpBPC

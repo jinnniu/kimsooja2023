@@ -1,0 +1,22 @@
+{
+  "name": "kimsooja2022",
+  "version": "1.0.0",
+  "description": "<img src=\"http://getkirby.com/assets/images/github/plainkit.jpg\" width=\"300\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "medium-zoom": "^1.0.8",
+    "sass": "^1.54.4"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^5.1.0"
+  }
+}

@@ -1,0 +1,45 @@
+Title: Bottari - An Island
+
+----
+
+Workimgmain: - 2014_kewenig.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["2014_kewenig.jpg"]},"id":"aeac5b2d-b886-4618-b0c2-566402ca9586","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: Installation at Kewenig Galerie, Palma, Majorca
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Bottari, 2014, Used Korean bedcover, used clothes, used wooden drawers, clay basin, dimensions variable, Courtesy of Kewenig Galerie, Palma and Kimsooja Studio
+
+----
+
+Additionalvideo: 

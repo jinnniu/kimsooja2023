@@ -1,0 +1,45 @@
+Title: Deductive Object - Blue Flag
+
+----
+
+Workimgmain: - 8.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["8.jpg"]},"id":"50e9347f-ff64-4738-8dae-592281954d21","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 1991
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

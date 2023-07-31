@@ -1,0 +1,52 @@
+Title: Bottari
+
+----
+
+Workimgmain:
+
+- >
+  bottari_galerie-tschudi_zuoz-10-years_2012_thumb.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["bottari-tricycle_galerie-tschudi_zuoz-10-years_2012_1.jpg","bottari-tricycle_galerie-tschudi_zuoz-10-years_2012_2.jpg","bottari_galerie-tschudi_zuoz-10-years_2012_thumb.jpg"]},"id":"c3326ad5-f914-4777-af93-00d6b428f542","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: Installation at Galerie Tschudi, Zuoz, Switzerland, 2012.
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+Bottari, used Korean bedsheets and clothes, dimensions variable
+
+Bottari Tricycle, used Chinese tricycle, used Korean bedsheets and clothes, 295 x 190 cm
+
+----
+
+Additionalvideo: 

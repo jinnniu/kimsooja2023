@@ -1,0 +1,45 @@
+Title: Bottari - Alfa Beach
+
+----
+
+Workimgmain: - 2.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/144878812","caption":"Bottari - Alfa Beach, 2001<br>6:18 \/ loop<br>silent"},"id":"8a6eb308-31e2-425e-9c34-53d48f088af4","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2001
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

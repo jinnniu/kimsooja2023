@@ -1,0 +1,45 @@
+Title: Deductive Object, 2016
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["2.jpg","1.jpg","3.jpg"]},"id":"bd7860f3-5e93-4875-8675-75f17c2891de","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects, Installations
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Art Basel | Hong Kong
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Site Specific Installation at Art Basel | Hong Kong, 2017
+
+----
+
+Workcaption: Kimsooja, Deductive Object, 2016, site specific installation consisting of painted welded steel, aluminum mirror panels, Sculpture 2.45 x 1.50 m, Mirror 8 x 8 m, Installation view at Art Basel | Hong Kong, 2017, Photo by Jason Bonello
+
+----
+
+Uuid: mD07hU0TLojk73ke

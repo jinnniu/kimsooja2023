@@ -1,0 +1,48 @@
+Title: Epitaph
+
+----
+
+Workimgmain: - epitaph.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["epitaph.jpg"]},"id":"da27bf12-20f9-4fe4-a9e6-78452218ceb5","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2002
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Digital C-Print
+121.9 x 152.4 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

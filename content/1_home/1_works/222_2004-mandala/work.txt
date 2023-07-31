@@ -1,0 +1,45 @@
+Title: Mandala: Zone of Zero
+
+----
+
+Workimgmain: - mandala_2.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["mandala_2.jpg"]},"id":"ce1ec417-b302-44be-98cc-3b1b4f65cc81","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2004
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,48 @@
+Title: Sewing Into Walking - Multi Channel Video Installation
+
+----
+
+Workimgmain:
+
+- >
+  sewingintowalking_video_installation_1994.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["sewingintowalking_video_installation_1994.jpg"]},"id":"3d84a9b5-9c64-4643-84de-5019bf63c314","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 1994
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

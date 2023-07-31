@@ -1,0 +1,61 @@
+Title: Traversées / Kimsooja
+
+----
+
+Workimgmain: - 2.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","2.jpg","3.jpg","6.jpg","4.png","5.jpg","7.jpg","9.jpg","8.jpg","11.jpg","10.jpg","12.jpg","13.jpg","14.jpg","15.jpg","16.jpg","18.png","17.jpg","19.png","21.jpg","20.jpg","23.png","22.jpg","24.png","25.png","26.png","27.png"]},"id":"07dfdac7-20c2-44eb-aa1c-2c2d70081c1f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video, Installations, Objects
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin: Inaugural biennale in the city of Poitiers, France
+
+----
+
+Workcredit: Photo by Jan Liegeois
+
+----
+
+Workdescription: Kimsooja presents more than ten site-specific installations throughout the city of Poitiers, France for the inaugural Traversées biennale.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 02: Kimsooja, To Breathe - Tour Maubergeon , 2019, site-specific installation with mirror panels. Installation view at Tour Maubergeon, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Jan Liegois.
+03 - 04: Kimsooja, Archive of Mind , 2019, participatory site-specific installation consisting of clay balls, 18m elliptical wooden table, and sound performance Unfolding Sphere, 2016. Installation view at Palais des ducs d'Aquitane, 2019. Courtesy of the City of Poitiers, Axel Vervoordt Gallery and Kimsooja Studio. Photos by Jan Liegois.
+05 - 06: Kimsooja, To Breathe - La Canopée , 2019, site-specific installation consisting of diffraction-grating film. Installation view at La Canopée, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Yann Gachet.
+07 - 08: Kimsooja, Bottari Truck , 2007, site-specific installation consisting of 1976 Peugeot 404 pickup truck, bottaris. Installation view at Chapelle Saint Louis, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Jan Liegeois (07) and Yann Gachet (08).
+09 - 10: Kimsooja, Planted Names , 2002, site-specific installation consisting of carpets woven with the names of people enslaved at Drayton Hall Plantation. Installation view at Chapelle Saint Louis, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Yann Gachet.
+11 - 12: Kimsooja, To Breathe - The Flags , 2019, site-specific installation consisting of mixed nationality flags. Installation view at Rue de Cathédrale, 2019. Courtesy of the City of Poitiers, Raffaella Cortese Gallery and Kimsooja Studio. Photos by Yann Gachet.
+13 - 15: Kimsooja, Encounter, A Mirror Woman, 2017, site-specific installation consisting of folding mirror screen. Installation view at Confort Moderne, 2019. Courtesy of the City of Poitiers, le Confort Moderne, Axel Vervoordt Gallery Kimsooja Studio. Photos by Jan Liegeois.
+16 - 18: Kimsooja, Bottari: 1999-2019 , 2019, site-specific installation consisting of shipping container painted the colors of obangsaek, containing all of the artist's personal posessions from her New York apartment. Installation view at Cathédrale Saint-Pierre, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Yann Gachet (16) and Sebastien Laval.
+19: Kimsooja, Thread Routes Chapter I, II, II, 2010-2012, 16mm film transferred to HD Format, 5.1 sound. Installation view at Musée Sainte-Croix, 2019. Courtesy of the City of Poitiers, the Musée Sainte-Croix and Kimsooja Studio. Photos by Yann Gachet.
+20 - 21: Kimsooja, production stills from Thread Routes Chapter VI , 2019, 16mm film transferred to HD Format, 5.1 sound, 28:20. Commission of the City of Poitiers. Courtesy of the City of Poitiers and and Kimsooja Studio. Photos by Thierry Depagne.
+22 - 24:  Kimsooja, Solarescope , 2019, site-specific lighting installation at Notre-Dame La Grande, Poitiers. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Yann Gachet
+25: Kimsooja, Bottari , 2017. Installation view at La Canopée, 2019. Courtesy of the Kewenig Gallery, City of Poitiers and Kimsooja Studio.
+26: Kimsooja, To Breathe , 2019, site-specific installation consisting of diffraction-grating film. Installation view at Sainte - Radegonde Church, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photo by Yann Gachet.
+27: Kimsooja, Mumbai : A Laundry Field , 2007. Installation view at the Maison de l'Architecture, 2019. Courtesy of Kewenig Gallery, the City of Poitiers and Kimsooja Studio. Photo by Yann Gachet.
+
+----
+
+Uuid: Wz1IHX3mKTjziS5t

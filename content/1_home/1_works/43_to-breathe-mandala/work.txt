@@ -1,0 +1,48 @@
+Title: To Breathe: Mandala
+
+----
+
+Workimgmain:
+
+- >
+  to-breathe-mandala_kewenig-palma_2014.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["to-breathe-mandala_kewenig-palma_2014.jpg"]},"id":"8b700f7f-030b-4129-8aae-a0160261f749","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Courtesy of Kewenig Gallery, Palma.
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: Installation at Kewenig Gallery, Palma
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: To Breathe: Mandala, 2014, Site-specific installation at Oratorio de Sant Feliu, Palma de Mallorca, Spain. To Breathe: Mandala, 2010, Single channel mixed media sound installation with The Weaving Factory, 2004, artist voice performance, 11:38 loop, jukebox speaker. Courtesy of Galerie Kewenig, Berlin & Mallorca and Kimsooja Studio
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,48 @@
+Title: A Needle Woman
+
+----
+
+Workimgmain:
+
+- >
+  needle-woman-8-channel_museum-of-fine-art-lausanne_blur-01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["needle-woman-8-channel_museum-of-fine-art-lausanne_blur-03.jpg","needle-woman-8-channel_museum-of-fine-art-lausanne_blur-01.jpg","needle-woman-8-channel_museum-of-fine-art-lausanne_blur-02.jpg","needle-woman-8-channel_museum-of-fine-art-lausanne_blur-04.jpg"]},"id":"27ccbe8b-18b7-435b-a25e-db09a9d55639","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video, Installations
+
+----
+
+Timeline: 2013
+
+----
+
+Worklocatin: Installation at Musée Cantonal des Beaux-Arts, Lausanne, 2013
+
+----
+
+Workcredit: Photo by Nora Rupp.
+
+----
+
+Workdescription: A Needle Woman, 1999 - 2001, 8 channel video projection, installation view Musée Cantonal des Beaux-Arts, Lausanne
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

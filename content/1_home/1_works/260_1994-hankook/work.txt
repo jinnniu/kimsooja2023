@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg"]},"id":"a8e71802-b09c-4928-bc25-e30f115bb3e9","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1994
+
+----
+
+Worklocatin: Installation at Women - The Difference Hankook Gallery, Seoul, Korea
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Deductive Object, 1994, cotton fabric, dimensions variable, Courtesy of Hankook Gallery, Seoul and Kimsooja Studio
+
+----
+
+Additionalvideo: 

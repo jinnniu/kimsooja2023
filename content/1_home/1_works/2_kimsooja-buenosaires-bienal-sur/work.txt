@@ -1,0 +1,58 @@
+Title: Kimsooja Buenosaires Bienal SUR
+
+----
+
+Workimgmain: - main.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["main.jpg","1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"]},"id":"5790b3f8-6b73-4fd3-a46f-b38498193209","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Installations, Objects, Video
+
+----
+
+Timeline: 2021
+
+----
+
+Worklocatin: New York apartment, installation view at MUNTREF, Buenoes Aires, Argentina
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Based in Seoul, Paris and New York, international conceptual artist Kimsooja (b. 1957) has for the past four decades oriented her practice in alignment with the totality of art and life. Kimsooja participates in BIENAL SUR 2021, an artistic endeavor that seeks to break down cultural barriers and connect the world in the pandemic era, through an exhibition titled KIMSOOJA BUENOS AIRES. Chapter 1: Kimsooja. The Encounter with the Other (2021.09.10-12.23), KIMSOOJA BUENOS AIRES. Chapter 2: Kimsooja. Nomad (2021.09.15-11.21) and Chapter 3 at Korean Cultural Center (CCC). This solo presentation comprises 26 works of video and film, including A Needle Woman, as well as large-scale installations, objects and photographs displayed from September 2 to December 15 in major museums and theaters across Buenos Aires as well as the Korean Cultural Center. The third edition of BIENAL SUR proposes a culturally open topography of art that respects the diversity of different cultures and addresses ecological awareness, ways of living, art politics and issues of transit and migration. Such themes resonate with Kimsooja’s longstanding artistic contemplation of the world’s order, cycles and borders and reflects her efforts to transcend various media with a consistent emphasis on compassion and humanity.
+
+Buenos Aires, the capital of Argentina and host city of BIENAL SUR, is a multicultural metropolis that has embraced immigrant populations from Europe, Africa and Asia throughout significant historical incidents including Spanish colonization, World Wars I and II and the Algerian War. Kimsooja installs several works around the city’s harbor, a place where immigrants to Buenos Aires first came ashore, revealing a new symbolic significance as they transpose the meaning of migration from the artist’s personal realm into one of universal empathy. Bottari Truck – Migrateures (2008) symbolically portrays the journey of an immigrant in Paris by wrapping and unwrapping a bottari (bundle) before departing; the concept of movement associated with bottari is visualized in the form of a container in recent works Bottari: 1999-2019 and its extended five-color (Obangsaek) container Bottari:2021; and a documentary film series, Thread Routes (2010-2019), poetically considers the universality of human culture as it merges natural landscapes with traditional textile cultures around the world. Kimsooja’s works actively engage with spaces that symbolize the city’s diversity and history of immigration, opening new possibilities for individuals of different backgrounds to coexist.
+
+The National University of Tres de Febero’s Museum of Immigration (MUNTREF), which was built to commemorate the arrivals of immigrants from Europe, Asia, Africa and Latin America in the late 19th century, features Bottari:2021 on its façade, while A Needle Woman (2005) appears inside. Archive of Mind, a participatory installation of dry clay balls set on a large elliptical table, invites audiences to join in a contemplative communal performance by holding the clay balls in their hands and rolling them across the table while listening to the sound of Kimsooja's murmuring voice in Unfolding Spheres (2016). As both discrete individuals and a collective community, the audience shares the materiality of the clay as well as the inner aesthetic journey of clearing one’s mind. The group of uniquely shaped clay balls are produced as the axes of encounters among numerous sets of intersecting hands and signify the meetings of all beings scattered throughout the cosmos, who coexist through connected relations. In To Breathe (2021), installed at the crosswalk that traverses the museum building from east and to west, one can metaphorically yet viscerally experience the artist’s dematerialized artworld of “non-doing, non-making” light painting, where visitors’ breath and refractions of light are transformed through diffraction grating film that illuminates the space with a rainbow light spectrum.
+
+New works presented at MUNTREF are also noteworthy, including new iterations of the artist’s representative bottari, which represent the movements and border crossings that envelop the world’s diversity, as well as To Breathe: the flags(2012), whereby local residents’ old clothes are wrapped in colorful fabrics of Obangsaek tones that are commonly found in everyday Argentine life and made into minimal bottari, thus connecting with and embracing multiple social contexts. Thread Routes (2010-2019) further conveys Kimsooja's perspective toward the links that connect global textile cultures, architecture, nature and handcrafts, allowing viewers to experience the visual connections between dyeing, embroidery, weaving, lacework, tile and pottery practices.
+
+The artist's Deductive Object series installed at the Museo Nacional de Bellas Artes suggests a new aesthetics of the readymade by loading carts with bottari made out of laundry bags, supplemented by A Needle Woman [Paris, 2009] and lightbox photos of the bottari series. Installed in the mirror room of the Museo Nacional de Arte Decorativo is To Breathe, a large mirror installation on the floor is paired with sound from The Weaving Factory (2004); the Korean Cultural Center presents Deductive Object, an Obangsaek carpet work, and Mandala: Zone of Zero; and the historical Margarita Xirgu Theatre screens To Breathe - Invisible Mirror, Invisible Needle (2005). By encountering Kimsooja’s works at culturally significant locations throughout Buenos Aires, audiences are encouraged to reflect on issues of migration and transit in the age of globalization, thereby constructing a visual platform of harmony and solidarity. This project marks the artist’s first large-scale exhibition in Latin America since 1997, when she participated in the Bienal de São Paulo with Cities on the Move - 11163 miles Bottari Truck.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 : Kimsooja, Bottari: 1999-2019, 2021, Site-specific installation consisting of shipping container painted the colors of obangsaek, containing all of the artist's personal possessions from her New York apartment, installation view at MUNTREF, Buenoes Aires, Argentina, Courtesy of the Bienal SUR 2021 and Kimsooja Studio
+
+----
+
+Uuid: 5lfpbumOgdQp8lts

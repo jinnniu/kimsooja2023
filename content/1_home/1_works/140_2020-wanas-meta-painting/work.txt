@@ -1,0 +1,57 @@
+Title: Meta-Painting : Installation at Wanas Konst Art Gallery, Wanas, Sweden
+
+----
+
+Workimgmain: - 4.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["4.jpg","5.jpg","6.jpg"]},"id":"2acbf6bb-5aa6-4745-9f23-f4442fc1b313","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2020
+
+----
+
+Worklocatin: Installation at Wanas Konst Art Gallery, Wanas, Sweden
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+In the Art Gallery space of the Wanas Foundation, Kimsooja installs a new series of large scale conceptual paintings made from raw stretched linen canvases. Relating to the Sowing into Painting planting project in the nearby fields, these works show the product of the textile process, embodying the full life cycle from seed to flax plant, then transformed into linen canvas and art object. The only intervention on the fabric is stretching them into monumental raw linen tableaus, thereby allowing them to function conceptually as installation and sculpture as a totality.
+
+These works reference the modernist philosophy of treating the painting as an object in and of itself. With this new painting series, Kimsooja expands on this philosophy by making the objects anthropologically site-specific to the surrounding area and culture, connecting the textiles to the social relations of their production and origin.
+
+These minimalist paintings link the materiality and questions on the structure of the canvases to Kimsooja's early work as a painter, as seen in sewn and painted works of the 80s and early 90s, to her continuously evolving later work as a conceptual artist using principles of non-doing and non-making. These interests are shown to be cyclically related much as the paintings are to the plants in the field outside, and to the linen canvases themselves.
+
+On the floor of the gallery, the artist will install several of her bottari sculptures, referencing bundles of household possessions made in Korea and elsewhere during times of migration or displacement. Rather than using the traditional silk bedcover, she will use the linen canvas to wrap and tie the bundle, thereby alluding to the sculpture as a three-dimensional tableau and self-contained world.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, Meta-Painting, 2020. Various linen canvases stretched on wooden frame and bottaris made of linen canvases, used local clothes. Canvases 200 x 324 cm each, bottari dimensions variable. Installation view at Wanås Konst Art Gallery. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Mattias Givell
+
+----
+
+Additionalvideo: 

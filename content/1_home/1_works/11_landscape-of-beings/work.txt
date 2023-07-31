@@ -1,0 +1,51 @@
+Title: Landscape of Beings
+
+----
+
+Workimgmain: - kimsoojatobreathe2019.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["kimsoojatobreathe2019.jpg","13.jpg","28.jpg","14.jpg","29.jpg"]},"id":"fd7e833f-36a9-4456-856e-306ac5700766","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin: Le Confort Moderne, as part of Traversées\Kimsooja, Poitiers, France
+
+----
+
+Workcredit: Photo by Yann Gachet
+
+----
+
+Workdescription: Installation at Landscape of Beings, Le Confort Moderne, Poitiers, France
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 : Kimsooja, To Breathe, 2019. Installation view at Confort Moderne, 2019. Courtesy of the City of Poitiers, le Confort Moderne, Axel Vervoordt Gallery, Galerie Tschudi and Kimsooja Studio. Photos by Yann Gachet, City of Poitiers.
+02 - 03: Kimsooja, Encounter: A Mirror Woman, 2019, site-specific installation consisting of folding mirror screen. Installation view at Confort Moderne, 2019. Courtesy of the City of Poitiers, le Confort Moderne, Axel Vervoordt Gallery and Kimsooja Studio. Photos by Jan Liegeois.
+04 : Kimsooja, Mandala: Zone of Zero, 2004-2010, Single channel mixed media sound installation, single jukebox speaker, Tibetan, Gregorian, and Islamic chants, 9:50 minutes, loop 81.3 (dia.) cm x 30.5 cm. Installation view at Confort Moderne, 2019. Courtesy of the City of Poitiers, le Confort Moderne, Galerie Tschudi and Kimsooja Studio. Photos by Yann Gachet, City of Poitiers.
+05 : Kimsooja, A Needle Woman, 2009, Single channel video, performed in Paris, 25 minutes, silent Commissioned by Nuit Blanche 2009, Paris. Site-specific installation with mirror floor. Courtesy of the City of Poitiers, le Confort Moderne, Fond municipal d’art contemporain (Paris) and Kimsooja Studio. Photos by Yann Gachet, City of Poitiers.
+
+----
+
+Uuid: wxLC5WvXJF74Mzor

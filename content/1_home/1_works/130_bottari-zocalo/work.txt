@@ -1,0 +1,45 @@
+Title: Bottari - Zocalo
+
+----
+
+Workimgmain: - 7.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/144881861","caption":"Bottari - Zocalo, 2000<br>3:19 \/ loop<br>silent"},"id":"b2ae5a79-495b-4b70-a9c8-3bc85bfb5026","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

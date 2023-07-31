@@ -1,0 +1,48 @@
+Title: Seven Wishes
+
+----
+
+Workimgmain: - reddeers.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["reddeers.jpg","hexagons.jpg","peacock.jpg","pinkswans.jpg","redyellowballoons.jpg","stripes.jpg","turtles.jpg"]},"id":"b6026ff0-32bd-4ed7-8901-c21daa03f7e2","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 2004
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Portfolio of 7 iris prints on Somerset Velvet Archival Paper
+80.5 x 114.1 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

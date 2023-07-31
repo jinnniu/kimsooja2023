@@ -1,0 +1,49 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","2.jpg","3.jpg"]},"id":"fdabf508-9155-499d-88e7-993beb74e53f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: Installation at Kim Sooja + Yang Pei Ming, Selfscape at Kunsthallen Brandts Klaedefabrick, Odense, Denmark
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03 Deductive Object, 2000, used korean bed covers and clothes, dimensions variable Courtesy of Kunsthallen Brandts Klaedefabrick, Odense and Kimsooja Studio
+
+----
+
+Additionalvideo: 

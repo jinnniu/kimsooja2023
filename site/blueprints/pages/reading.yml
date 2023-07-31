@@ -1,0 +1,11 @@
+title: Reading
+icon: 📁
+image:
+  query: false
+  back: black
+
+columns:
+  - width: 1/2
+    sections:
+      press:
+        type: pages

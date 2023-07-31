@@ -1,0 +1,11 @@
+title: Home
+icon: 🏠
+image:
+  query: false
+  back: black
+
+columns:
+  - width: 1/2
+    sections:
+      works:
+        type: pages

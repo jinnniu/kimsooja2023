@@ -1,0 +1,59 @@
+Title: Kimsooja: Thread Routes
+
+----
+
+Workimgmain: - tr_europe_01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["tr_peru_01.jpg","tr_peru_02.jpg","tr_peru_03.jpg","tr_peru_04.jpg","tr_peru_05.jpg","tr_peru_06.jpg","tr_india_01.jpg","tr_india_02.jpg","tr_india_03.jpg","tr_india_04.jpg","tr_europe_01.jpg","tr_europe_02.jpg","tr_europe_04.jpg","tr_europe_05.jpg","tr_europe_06.jpg"]},"id":"684ce23a-073e-4870-8759-c695136f15cf","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2015
+
+----
+
+Worklocatin: Exhibition at The Guggenheim Museum, Bilbao, Spain
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 06: Thread Routes - Chapter I, 2010, 16mm film transferred to HD Format, 5.1 sound, 29:31, instillation view at Guggenheim Bilbao, Courtesy of Guggenheim Bilbao and Kimsooja Studio
+
+07 - 10 Thread Routes - Chapter II, 2011, 16mm film transferred to HD Format, 5.1 sound, 23:40, instillation view at Guggenheim Bilbao, Courtesy of Guggenheim Bilbao and Kimsooja Studio
+
+11 - 15 Thread Routes - Chapter III, 2012, 16mm film transferred to HD Format, 5.1 sound, 16:34, instillation view at Guggenheim Bilbao, Courtesy of Guggenheim Bilbao and Kimsooja Studio
+
+16: Thread Routes - Chapter I, 2010, 16mm film transferred to HD Format, 5.1 sound, 29:31, instillation view at Guggenheim Bilbao, Video by Erika Ede, Courtesy of Guggenheim Bilbao and Kimsooja Studio
+
+17: Thread Routes - Chapter II, 2011, 16mm film transferred to HD Format, 5.1 sound, 23:40, instillation view at Guggenheim Bilbao, Video by Erika Ede, Courtesy of Guggenheim Bilbao and Kimsooja Studio
+
+18: Thread Routes - Chapter III, 2012, 16mm film transferred to HD Format, 5.1 sound, 16:34, instillation view at Guggenheim Bilbao, Video by Erika Ede, Courtesy of Guggenheim Bilbao and Kimsooja Studio
+
+----
+
+Additionalvideo: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/128289708","caption":""},"id":"b4caca0b-28c2-4323-bd70-4c97b1ea579a","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/player.vimeo.com\/video\/128286138","caption":""},"id":"64cb12a0-de71-4ea7-bad1-f13bae91e3a8","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/player.vimeo.com\/video\/128290875","caption":""},"id":"12a175f2-4002-444c-a10e-171526ffc433","isHidden":false,"type":"video"}]

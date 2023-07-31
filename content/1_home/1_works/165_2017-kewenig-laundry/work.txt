@@ -1,0 +1,45 @@
+Title: A Laundry Woman
+
+----
+
+Workimgmain: - 08.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["08.jpg"]},"id":"ff44a9f8-d58c-4c3d-b378-55206a1216d7","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kimsooja: Geometry of Breath, Kewenig Gallery, Berlin, Germany, 2017
+
+----
+
+Workcredit: Kimsooja, A Laundry Woman, 2017, site specific installation consisting of used artist's clothing, clothesline, clothespins, and bottari, Installation view at Kimsooja - Geometry of Breath at Kewenig Gallery, 2017, Photo by Stefan Müller
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

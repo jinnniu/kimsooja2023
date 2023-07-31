@@ -1,0 +1,45 @@
+Title: An Album: Havana
+
+----
+
+Workimgmain: - an-album-havana_2012.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143273012","caption":"An Album: Havana, 2007<br>6:57 \/ loop<br>silent"},"id":"5e510ed9-2209-4146-af39-41edee2a8345","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2007
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

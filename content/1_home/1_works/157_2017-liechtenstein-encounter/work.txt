@@ -1,0 +1,45 @@
+Title: Encounter - Looking into Sewing
+
+----
+
+Workimgmain: - 26.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["26.jpg"]},"id":"855fd21d-95b1-4278-8a9a-e819f828e2b1","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Sewn
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kunstmuseum Liechtenstein
+
+----
+
+Workcredit: Courtesy Kimsooja Studio and Kewenig Galerie, Berlin. Photo by Aaron Wax.
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Encounter - Looking into Sewing, 1998 - 2011, performative sculpture, used Korean bedcovers, mannequin, 165 x 80 (diameter) cm, unique piece, photo by Aaron Wax
+
+----
+
+Additionalvideo: 

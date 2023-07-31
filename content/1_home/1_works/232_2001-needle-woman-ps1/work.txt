@@ -1,0 +1,45 @@
+Title: Kimsooja: A Needle Woman
+
+----
+
+Workimgmain: - needle-woman_ps1-1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["needle-woman_ps1-2.jpg","needle-woman_ps1-3.jpg","needle-woman_ps1-1.jpg"]},"id":"8cb010dc-d3df-47f0-8cdb-284ddabe6d16","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2001
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

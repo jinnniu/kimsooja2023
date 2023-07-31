@@ -1,0 +1,45 @@
+Title: Cities on the Move: 2727 Kilometers Bottari Truck, Korea
+
+----
+
+Workimgmain: - cotm.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143269858","caption":"Cities on the Move: 2727 Kilometers Bottari Truck, Korea, 1997<br>7:03 \/ loop<br>silent"},"id":"a7967880-d736-4cbb-92b3-eb77c2ee560c","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 1997
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

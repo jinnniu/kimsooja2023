@@ -1,0 +1,45 @@
+Title: To Breathe: Mandala
+
+----
+
+Workimgmain: - busan_mandala.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["busan_mandala.jpg"]},"id":"710ee276-aa95-4828-88f4-39113972c8ea","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Courtesy Kimsooja Studio
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: Installation at Busan Biennial, Busan Museum of Art, Korea, 2014
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: To Breathe: Mandala, 2010, single jukebox with the artist's voice performance "The Weaving Factory" 2004, unique piece.
+
+----
+
+Additionalvideo: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/80290760","caption":""},"id":"e328830d-a8a0-4599-9f13-70d3c3299011","isHidden":false,"type":"video"}]

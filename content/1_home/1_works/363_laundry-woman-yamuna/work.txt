@@ -1,0 +1,48 @@
+Title: A Laundry Woman - Yamuna River, India
+
+----
+
+Workimgmain: - laundrywoman_fnlrgb.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["laundrywoman_fnlrgb.jpg"]},"id":"7dc46277-678d-464c-bbda-bc7fee614647","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Print
+
+----
+
+Timeline: 2007
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Giclée Print on Hahnemüele Paper
+61.6 x 86.4 cm (image size: 51.4 x 76.2 cm)
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

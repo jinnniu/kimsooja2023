@@ -1,0 +1,45 @@
+Title: A Mirror Woman - The Sun & The Moon
+
+----
+
+Workimgmain: - shiseido_gallery_2008_3ss.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["shiseido_gallery_2008_3ss.jpg"]},"id":"bd4dc927-8a77-4c98-8969-97e48bb46d13","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

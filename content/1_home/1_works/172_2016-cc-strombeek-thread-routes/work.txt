@@ -1,0 +1,50 @@
+Title: Thread Routes - Chapter II
+
+----
+
+Workimgmain: - 5.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["8.jpg","5.jpg","7.jpg","6.jpg"]},"id":"6a344a8c-4cb9-47f9-a010-409d48af196c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: Installation at Kimsooja, Weaving the World at CC Strombeek, Belgium
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04: Left:  Thread Routes - Chapter II, 2011, 16mm film transferred to HD Format, 5.1 sound, 23:40,
+Right: Thread Routes Chapter II - Lightwaves, 2011/2016, HD Video, 5.1 sound, 23:40, installation view at CC Strombeek, Photo by Sophie Nuytten, Courtesy of CC Strombeek and Kimsooja Studio
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,45 @@
+Title: Deductive Object - Golden Flag
+
+----
+
+Workimgmain: - 10.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["10.jpg"]},"id":"9fe137c4-eea7-4e62-957a-0390515b8a0c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 1991
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

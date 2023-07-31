@@ -1,0 +1,48 @@
+Title: Unfolding Bottari - Geometry of Possession
+
+----
+
+Workimgmain:
+
+- >
+  deductive_object_unfolding_bottari_2014.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["deductive_object_unfolding_bottari_2014.jpg"]},"id":"3586116d-8d7d-4e59-9eb4-d8316cc1f04f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

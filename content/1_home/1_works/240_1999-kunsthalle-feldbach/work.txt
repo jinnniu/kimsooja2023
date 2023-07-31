@@ -1,0 +1,49 @@
+Title: Bottari
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","2.jpg","3.jpg"]},"id":"64d23f6e-8f29-4440-a7c0-e9b8725b5706","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1999
+
+----
+
+Worklocatin: Installation at Kim Sooja + Jeannett Christensen, Inaugural Exhibition at Kunsthalle Feldbach, Feldbach, Austria
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03 Bottari, 1999, used korean bed covers and clothes, dimensions variable Courtesy of Kunsthalle Feldbach, Austria and Kimsooja Studio
+
+----
+
+Additionalvideo: 

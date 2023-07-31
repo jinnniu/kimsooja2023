@@ -1,0 +1,45 @@
+Title: Bottari - Chasing the Fog
+
+----
+
+Workimgmain: - 5.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/144879234","caption":"Bottari - Chasing the Fog, 2000<br>4:34 \/ loop<br>silent"},"id":"ead28086-12c9-4a3f-9d6e-0d1c0e065323","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

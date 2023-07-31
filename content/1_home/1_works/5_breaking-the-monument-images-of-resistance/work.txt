@@ -1,0 +1,62 @@
+Title: Breaking the Monument (Images of Resistance)
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["4.jpg","3.jpg","2.jpg","1.jpg","5.jpg","6.jpg"]},"id":"d05b785a-4a66-46a7-9a76-e9af96bcfce4","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects, Photo
+
+----
+
+Timeline: 2021
+
+----
+
+Worklocatin: Centro Galego de Arte Contemporanea, Santiago de Compostelle, Spain
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+25 February - 13 June 2021
+
+Curators: Santiago Olmo e Fernando Gómez de la Cuesta
+
+The power of images, symbols, icons, but also the political representation of history and its manipulations and omissions are matters that have been extensively addressed in the field of art theory and history.
+The new kind of monument is not the one that appears on a pedestal in a public place, it is no longer a question of a metope on a wall, a memorial plaque, a bust of a politician, an equestrian statue of a military leader, a sculpture of an evangelist, a tribute to a conqueror, nor those phallic monoliths that stand erect in our squares. The new kind of monument reflects more sibylline, subtle iconographies that are indiscriminately shared on social media, ingenious signs that are superficially attractive, pleasant looking symbols we assimilate almost without realising, with little or no conflict, but which start institutionalising in our interiors all those tyrannical, indiscriminate ideas that slowly achieve their devastating goals, sometimes in terms of noise, other times in terms of silence and concealment.
+
+Breaking the Monument is a selection of works from artists from very different backgrounds that, in diverse ways, attack the power of pre-established images, of all those that manipulate and condition us, that limit, condemn, censure and self-censure us. A group of creators, all women, whose approach is subtle, but also a full-on attack, based on iconoclasm and the subversion of symbols, new images of struggle and counter power, omission, exposure and conflict; an imaginary of defence, reaction and counter attack operating from the barricade and poetry; melting bronze, turning rubble into marble, creating new images of resistance from emotion and reason.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01: Kimsooja, Deductive Object, 2007; Encounter : Looking into Sewing, 1998-2013; Deductive Object (VI) (VII), 1996-2013. Installation view at Breaking the Monument, 2021, CGAC, Santiago de Compostelle, Spain. Courtesy of Kewenig Gallery, CGAC and Kimsooja Studio.
+02: Kimsooja, Deductive Object , 2007. Installation view at Breaking the Monument, 2021, CGAC, Santiago de Compostelle, Spain. Courtesy of Kewenig Gallery, CGAC and Kimsooja Studio.
+03: Kimsooja, Encounter : Looking into Sewing, 1998-2013; Deductive Object (VI) (VII), 1996-2013. Installation view at Breaking the Monument, 2021, CGAC, Santiago de Compostelle, Spain. Courtesy of Kewenig Gallery, CGAC and Kimsooja Studio.
+04: Kimsooja, Deductive Object (VI) (VII), 1996-2013. Installation view at Breaking the Monument, 2021, CGAC, Santiago de Compostelle, Spain. Courtesy of Kewenig Gallery, CGAC and Kimsooja Studio.
+05: Kimsooja, Encounter : Looking into Sewing, 1998-2013. Installation view at Breaking the Monument, 2021, CGAC, Santiago de Compostelle, Spain. Courtesy of Kewenig Gallery, CGAC and Kimsooja Studio.
+06: Kimsooja, Deductive Object, 2007; Deductive Object (VI) (VII), 1996-2013. Installation view at Breaking the Monument, 2021, CGAC, Santiago de Compostelle, Spain. Courtesy of Kewenig Gallery, CGAC and Kimsooja Studio.
+
+----
+
+Uuid: GgjnnDxZso1LLDdf

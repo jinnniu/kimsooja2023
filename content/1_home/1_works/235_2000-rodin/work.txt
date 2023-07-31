@@ -1,0 +1,49 @@
+Title: A Laundry Woman
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","2.jpg","3.jpg"]},"id":"59b2e94c-e35c-4ac9-b948-651c9d3e05cc","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: Installation at Kimsooja, A Needle Woman - A Woman Who Weaves the World, Rodin Gallery (Plateau Samsung Museum of Art), Seoul, Korea
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03 A Laundry Woman, 2000, used Korean bedcovers and clothing, dimensions variable, installation at the Kimsooja, A Needle Woman - A Woman Who Weaves the World, Rodin Gallery (Plateau Samsung Museum of Art), courtesy of Kimsooja Studio
+
+----
+
+Additionalvideo: 

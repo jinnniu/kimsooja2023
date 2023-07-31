@@ -1,0 +1,49 @@
+Title: Lotus: Zone of Zero, 2017
+
+----
+
+Workimgmain: - 11.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["12.jpg","11.jpg","13.jpg"]},"id":"dc87885c-51e6-4e53-8026-c0546e2c5d2c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kunstmuseum Liechtenstein
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, Lotus: Zone of Zero, 2017, site-specific installation consisting of 656 lotus lanterns, Tibetan, Gregorian, and Islamic chants, installation view at Kunstmuseum Liechtenstein, Vaduz, Liechtenstein, Photo by Aaron Wax, Courtesy of Galerie Kewenig, Berlin and Kimsooja Studio
+
+----
+
+Additionalvideo: 

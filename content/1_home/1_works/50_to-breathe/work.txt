@@ -1,0 +1,48 @@
+Title: To Breathe
+
+----
+
+Workimgmain:
+
+- >
+  thread-routes-chapter-1-and-2_kukje-gallery_2012.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["bottari-alfa-beach_kukje-gallery_2012.jpg","mumbai-a-laundry-field_kukje-gallery_2012_01.jpg","thread-routes-chapter-1_kukje-gallery_2012_01.jpg","mirror-of-wind-air-water_kukje-gallery_2012.jpg","an-album-havana_kukje-gallery_2012.jpg","mumbai-a-laundry-field_kukje-gallery_2012_02.jpg","thread-routes-chapter-2_kukje-gallery_2012_01.jpg","thread-routes-chapter-1-and-2_kukje-gallery_2012.jpg","thread-routes-chapter-2_kukje-gallery_2012_02.jpg","thread-routes-chapter-1_kukje-gallery_2012_02.jpg","to-breathe-invisible-needle-invisible-mirror_kukje-gallery_2012_02.jpg","to-breathe-invisible-needle-invisible-mirror_kukje-gallery_2012_01.jpg","to-breathe-invisible-needle-invisible-mirror_kukje-gallery_2012_03.jpg","to-breathe-invisible-needle-invisible-mirror_kukje-gallery_2012_04.jpg","to-breathe-invisible-needle-invisible-mirror_kukje-gallery_2012_06.jpg","to-breathe-invisible-needle-invisible-mirror_kukje-gallery_2012_05.jpg","to-breathe-invisible-needle-invisible-mirror_kukje-gallery_2012_07.jpg"]},"id":"131171f0-c2b8-4c54-b112-5cacdde84949","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: Solo exhibition at Kukje Gallery, Seoul, 2012
+
+----
+
+Workcredit: Photo by Sang Tae Kim.
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

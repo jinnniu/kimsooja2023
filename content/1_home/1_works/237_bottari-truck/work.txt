@@ -1,0 +1,45 @@
+Title: Bottari Truck
+
+----
+
+Workimgmain: - bottari_truck.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottari_truck.jpg"]},"id":"c3397a28-717f-4129-b4ad-6f6b12afbd79","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

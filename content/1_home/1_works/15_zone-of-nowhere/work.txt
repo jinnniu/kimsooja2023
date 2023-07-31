@@ -1,0 +1,54 @@
+Title: Zone of Nowhere
+
+----
+
+Workimgmain: - kimsooja_zone-of-nowhere_pica_030.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["kimsooja_mandala-zone-of-zero_pica_015.jpg","kimsooja_bottari_pica_004.jpg","kimsooja_bottari_pica_006.jpg","kimsooja_bottari_pica_003.jpg","kimsooja_bottari_pica_002.jpg","kimsooja_mandala-zone-of-zero_pica_016.jpg","kimsooja_zone-of-nowhere_pica_027.jpg","kimsooja_zone-of-nowhere_pica_030.jpg","kimsooja_zone-of-nowhere_pica_034.jpg","kimsooja_zone-of-nowhere_pica_032.jpg","kimsooja_zone-of-nowhere_pica_035.jpg","kimsooja_zone-of-nowhere_pica_037.jpg"]},"id":"51a2ba59-244c-4af0-9bbd-a8ba76a8071f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2018
+
+----
+
+Worklocatin: Solo Exhibition at Perth Institute of Contemporary Arts, Perth, Australia
+
+----
+
+Workcredit: Photo by Alessandro Bianchetti
+
+----
+
+Workdescription:
+
+To Breathe – Zone of Nowhere is a large-scale, site-specific installation of 30 colorful polyester flags, conceived by the artist especially for the void of PICA’s Central Galleries. The colors and symbols of multiple national flags are intermixed as a visual and symbolic breakdown of hierarchies, transcendence of boundaries, and blurring of the distinctions between different countries.
+
+This work expresses a wish for coexistence,for a utopian society in which individuals can unite in celebration of our distinctions and common humanity. It originates from the video To Breathe - The Flags (2012), commissioned by the International Olympic Committee on the occasion of the London 2012 Summer Olympics, which depicts the world’s national flags dissolving in a continuous loop; their iconic surfaces morphing into one another. They appear in alphabetical order by country, without hierarchy or political prejudice, in the hope of creating a visual experience whereby national difference and conflicts can be merged and harmonised.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 07: Kimsooja, To Breathe – Zone of Nowhere, 2017, Installation consisting of 30 polyester flags, 243 x 152 cm each. Installation view at Perth Institute of Contemporary Arts, Perth, 2018. Commissioned by Perth Institute of Contemporary Arts. Courtesy of Perth Institute of Contemporary Arts, Perth and Kimsooja Studio. Photos by Alessandro Bianchetti
+08 - 09: Kimsooja, Mandala: Zone of Zero, 2004 – 2010, single channel mixed media sound installation, jukebox speaker, three chants mixed with Tibetan, Gregorian, and Islamic, 9:50 loop. Installation view at Perth Institute of Contemporary Arts, Perth, 2018. Courtesy of Trish Clark Gallery, Auckland, New Zealand and Kimsooja Studio. Photos by Alessandro Bianchetti
+10 - 12: Kimsooja, Bottari, 2018, 4 Used Korean bedcovers and used clothes from Perth. Installation view at Perth Institute of Contemporary Arts, Perth, 2018. Courtesy of Trish Clark Gallery, Auckland, Perth Institute of Contemporary Arts, Perth and Kimsooja Studio. Photos by Alessandro Bianchetti.
+
+----
+
+Uuid: gdhQ7SnFTIEexUuQ

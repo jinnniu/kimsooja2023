@@ -1,0 +1,49 @@
+Title: A Laundry Woman
+
+----
+
+Workimgmain: - t4_crop.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["t6-edit.jpg","t4_crop.jpg"]},"id":"c6ddc81c-5150-4141-a94b-691d1241b335","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2004
+
+----
+
+Worklocatin: Installation at PREMAculTURE at Hydra School Project, Hydra Island, Greece
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 02  A Laundry Woman, 2004, korean bed covers, wire, clothespins, bottari bundle with used clothes and korean bedcover, dimensions variable. Courtesy of Kimsooja Studio. Photos by Gerassimos Domenikos.
+
+----
+
+Additionalvideo: 

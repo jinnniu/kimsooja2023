@@ -1,0 +1,48 @@
+Title: Kimsooja: Archive of Mind
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","2.jpg","3.jpg","4.jpg","5.jpg","6.jpg"]},"id":"5abed0af-fc25-4601-ac30-f2b43123157f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Installations, Objects
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin: Installation at Peabody Essex Museum
+
+----
+
+Workcredit: Photo by Bob Packert
+
+----
+
+Workdescription: Installation at Peabody Essex Museum, USA
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 06: Archive of Mind, 2019, site-specific participatory consisting of clay balls, elliptical wooden table, and sound performance Unfolding Sphere, 2006; installation at Peabody Essex Museum, photos by Bob Packert (1, 6) and Ken Sawyer (2, 3, 4, 5), Courtesy of Kimsooja Studio
+
+----
+
+Uuid: mQBx6Hwryvq4bNFz

@@ -1,0 +1,48 @@
+Title: A Homeless Woman - Delhi
+
+----
+
+Workimgmain: - delhi.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["delhi.jpg"]},"id":"31ccafac-81b3-4a9c-838d-2ab5b7dab020","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2000
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+C-Print
+90.5 x 134 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

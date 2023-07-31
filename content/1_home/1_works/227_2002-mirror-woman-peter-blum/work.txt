@@ -1,0 +1,45 @@
+Title: A Mirror Woman
+
+----
+
+Workimgmain: - mirror_woman_peter_blum_enlg.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["mirror_woman_peter_blum_enlg.jpg","mirror_woman_peter_blum_2.jpg"]},"id":"dfa63ab9-6bf1-4315-9100-ba40e41a76c7","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2002
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

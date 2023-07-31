@@ -1,0 +1,52 @@
+Title: Planted Names
+
+----
+
+Workimgmain: - 10.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["9.jpg","10.jpg"]},"id":"ed9b2019-18d7-4e81-8649-1f0cc85b2686","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin:
+
+Chapelle Saint Louis
+Kimsooja presents more than ten site-specific installations throughout the city of Poitiers, France for Traversées / Kimsooja.
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Dozens of names woven in white thread appear at the surface of two black carpets, in homage to those that were enslaved at the Drayton Hall plantation in South Carolina, United States. A symbol of the weavers’ arduous work and of the enslaved peoples’ labor, the carpets, through their ability to be moved, bent, or flattened, echo the maltreated bodies of the plantation workers. Located in the center of the Sacristy of the Chapel of Saint-Louis in Poitiers, Planted Names charts a path through memory—the path of the captives’ uncertain crossings. The carpet, according to art historian Sergio Bettini the “house of the one who has no house,” is for Kimsooja a heterotopic space. It is a place that is both bounded and multiple, at once a dwelling, a stela, and a site of commemoration.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 02: Kimsooja, Planted Names, 2002, site-specific installation consisting of carpets woven with the names of people enslaved at Drayton Hall Plantation. Installation view at Chapelle Saint Louis, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Yann Gachet.
+
+----
+
+Additionalvideo: 

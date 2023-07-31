@@ -1,0 +1,49 @@
+Title: A Laundry Field Site : Specific Installation at Wanas Konst Sculpture Park
+
+----
+
+Workimgmain: - 7.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["7.jpg","8.jpg","9a.jpg"]},"id":"9867fdde-db32-4bc4-b710-85b035d55c55","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2020
+
+----
+
+Worklocatin: Site Specific Installation at Wanas Konst Sculpture Park
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Kimsooja’s oeuvre is associated with traditional South Korean bedcovers, which she has used in several installations. In the sculpture park, she has instead chosen to work with old-fashioned white sheets that in Sweden are traditionally embroidered with a monogram or decorated with lace—objects that are a part of creating a home and that display care and reflection. Harald Szeeman has described the sheets in Kimsooja’s oeuvre as a theater for birth and death, our ephemeral condition. Extending her Laundry Woman series, they are like a hanging field of paintings, in the beech wood forest, while they simultaneously provide connections to the mundane.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, A Laundry Field, 2020. Site-specific installation consisting of 100 local Swedish embroidered bedsheets. Installation view at Wanås Konst Sculpture Park, Sweden. Courtesy of Wanås Konst and Kimsooja Studio. Photo by Mattias Givell
+
+----
+
+Additionalvideo: 

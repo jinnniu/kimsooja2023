@@ -1,0 +1,110 @@
+.info-detail {
+  @include hidescroll;
+  background-color: #ffff;
+  height: 100%;
+  overflow: scroll;
+  .table {
+    margin-bottom: 5rem;
+    margin-top: 0.7rem;
+    strong {
+      font-weight: bold;
+    }
+    .year {
+      width: 5rem;
+      padding-right: 1.3rem;
+    }
+  }
+  .bio {
+    width: 60%;
+    margin: auto;
+    h1 {
+      padding-bottom: 1rem;
+    }
+    &--main {
+      padding: 2rem 0 5rem 0;
+    }
+    .bio-title {
+      padding-top: 3rem;
+      text-align: center;
+      letter-spacing: 0.1rem;
+    }
+  }
+
+  .biblio {
+    width: 60%;
+    margin: auto;
+    &--main {
+      padding: 3rem 0;
+      h1 {
+        text-align: center;
+        margin-bottom: 5rem;
+      }
+      h2 {
+        padding-top: 2rem;
+        padding-bottom: 0.7rem;
+      }
+      ul {
+        padding-bottom: 0.3rem;
+        li {
+          padding-top: 0.2rem;
+          em {
+            font-style: italic;
+          }
+        }
+      }
+    }
+  }
+}
+
+// info
+.contact-container {
+  width: 100%;
+  height: 100vh;
+  overflow-y: scroll;
+  margin-bottom: 3rem;
+  @include hidescroll;
+
+  .newsletter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 30%;
+    a {
+      font-size: 1.4rem;
+      line-height: 2rem;
+      &:hover {
+        color: #d9d9d9 !important;
+      }
+    }
+  }
+
+  .contact {
+    display: flex;
+    flex-direction: column;
+    z-index: 11;
+    margin-bottom: 3rem;
+    h1 {
+      margin: 3rem 0;
+      text-align: center;
+    }
+    &--detail {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 3rem;
+      justify-content: space-evenly;
+      padding: 0 2rem;
+      padding-bottom : 3rem;
+      p a:hover {
+        color: #d9d9d9;
+      }
+      &__items {
+        width: auto;
+        text-align: center;
+        .studio {
+          margin-bottom: 1rem;
+        }
+      }
+    }
+  }
+}

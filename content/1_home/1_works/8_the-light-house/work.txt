@@ -1,0 +1,56 @@
+Title: The Light House
+
+----
+
+Workimgmain: - 7.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["7.jpg","3.jpg","1.jpg","2.jpg","5.jpg","4.jpg","8.jpg"]},"id":"ed94066f-0f3d-42a4-921f-4f453b30b7bc","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2020
+
+----
+
+Worklocatin: Boghossian Foundation, Brussels, Belgium
+
+----
+
+Workcredit: Photo by Jan Liegeois
+
+----
+
+Workdescription:
+
+Boghossian Foundation, Villa Empain, Brussels, Belgium
+October 22, 2020 - January 31, 2021
+Curator: Louma Salamé
+
+The Boghossian Foundation explores manifestations of light in art and the sensations it causes. The exhibition The Light House invites the public to experience a succession of personal and collective experiences with light, mostly immersive, through the works of 21 major contemporary artists, spanning nearly 60 years of artistic production.
+
+Apart from the neon works, each of the guest artists, from Japan, South Korea, Palestine, Morocco, the United States and Belgium, has produced pieces or installations specially designed for this exhibition. The Light House offers a circuit which revolves around five themes: celestial light, murky light, the experience of colour, in praise of shadow, neon lights and light bulbs.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 09: Kimsooja, To Breathe, 2020. Site specific installation with diffraction grating films. Installation view at The Light House, 2020-2021, Boghossian Foundation, Villa Empain, Brussels, Belgium. Courtesy of Boghossian Foundation, Axel Vervoordt Gallery and Kimsooja Studio. Photos by Jan Liegeois
+
+----
+
+Uuid: 2wuJMgQwI7EKYU6w

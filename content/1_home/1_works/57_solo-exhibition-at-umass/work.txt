@@ -1,0 +1,55 @@
+Title: Solo exhibition at UMASS
+
+----
+
+Workimgmain: - umass_a-needle-woman.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["umass_a-beggar-woman.jpg","umass_a-needle-woman.jpg"]},"id":"b73e7d19-321d-43a7-bb15-4c86e4ff6602","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2011
+
+----
+
+Worklocatin: Video installation at Fine Arts Center, University of Massachusetts Amhurst, 2011
+
+----
+
+Workcredit: Photos by Stephen Petegorsky
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+01: (Left to right:)
+
+A Laundry Woman - Yamuna River, 2000, single channel video, 10:30 loop, silent
+
+A Needle Woman - Kitakyushu, 1999, single channel video, 6:33 loop, silent
+
+A Beggar Woman - Lagos, 2001, single channel video, 8:18 loop, silent.
+
+02: A Needle Woman, 1999 - 2001, 4 channel video projection: Tokyo, Delhi, Lagos, New York, 6:33 loop, silent.
+
+----
+
+Additionalvideo: 

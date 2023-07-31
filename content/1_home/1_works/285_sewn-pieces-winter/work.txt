@@ -1,0 +1,45 @@
+Title: L'Hivre
+
+----
+
+Workimgmain: - winter.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["winter.jpg"]},"id":"309a96ed-309f-4d4f-b3aa-731f52e940c6","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Sewn
+
+----
+
+Timeline: 1988
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

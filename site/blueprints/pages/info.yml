@@ -1,0 +1,41 @@
+title: Info
+icon: ℹ️
+image:
+  query: false
+  back: black
+
+columns:
+  - width: 1/3
+    sections:
+      biobiblio:
+        label: Biography / Bibiliography
+        type: pages
+  - width: 1/3
+    sections:
+      contact:
+        type: fields
+        fields:
+          contactlist:
+            label: Contact
+            type: structure
+            columns:
+              studio:
+                width: 1/3
+              contactinfo:
+                width: 2/3
+            fields:
+              studio:
+                type: text
+              contactinfo:
+                type: textarea
+  - width: 1/3
+    sections:
+      newsletter:
+        type: fields
+        fields:
+          newsletterTitle:
+            label: Newsletter Button
+            type: textarea
+          newsletterinfo:
+            label: Newsletter Mail
+            type: textarea

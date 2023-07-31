@@ -1,0 +1,57 @@
+Title: Kimsooja: Earth - Water - Fire - Air
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg","1.jpg","2.jpg"]},"id":"1da8f47d-13c5-479a-a036-aa1fac3681fd","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2015
+
+----
+
+Worklocatin: Exhibition at XIV Bienal de Fotografía de Córdoba
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01: Aire de Tierra / Air of Earth, 2009, 06.25 loop, sound, Fuego de Aire / Fire of Air, 2009, 08:11 loop, silent, Tierra de Agua / Earth of Water, 2009, 07:09 loop, silent (left to right), instillation view at XIV Bienal de Fotografía de Córdoba Commissioned by Lanzerote Biennale and Hermes Foundation, Paris, Courtesy of La Fabrica, Madrid and Kimsooja Studio
+
+02: Aire de Fuego / Air of Fire, 2009, 05:02 loop, sound, Agua de Tierra / Water of Earth, 2009, 05:53 loop, silent, Fuego de Tierra / Fire of Earth, 2009, 09:37 loop, silent (left to right), instillation view at XIV Bienal de Fotografía de Córdoba Commissioned by Lanzerote Biennale and Hermes Foundation, Paris, Courtesy of La Fabrica, Madrid and Kimsooja Studio
+
+03: Aire de Tierra / Air of Earth, 2009, 06.25 loop, sound, Fuego de Aire / Fire of Air, 2009, 08:11 loop, silent, Tierra de Agua / Earth of Water, 2009, 07:09 loop, silent (left to right), instillation view at XIV Bienal de Fotografía de Córdoba Commissioned by Lanzerote Biennale and Hermes Foundation, Paris, Courtesy of La Fabrica, Madrid and Kimsooja Studio
+
+----
+
+Additionalvideo: 
+
+----
+
+Uuid: gGlCVpksC4TauzE7

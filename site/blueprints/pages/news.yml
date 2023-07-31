@@ -1,0 +1,12 @@
+title: News
+icon: 🗞
+image:
+  query: false
+  back: black
+
+sections:
+  newsTable:
+    type: pages
+    template: article
+    search: true
+    layout: table

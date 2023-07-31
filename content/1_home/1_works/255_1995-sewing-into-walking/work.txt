@@ -1,0 +1,45 @@
+Title: Sewing Into Walking - Dedicated to the victims of Kwangju
+
+----
+
+Workimgmain: - sewing_into_walking.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["sewing_into_walking.jpg","sewing_into_walking_2.jpg"]},"id":"272d5d8f-96c4-4179-829f-cf8dbf48c389","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1995
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

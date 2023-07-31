@@ -1,0 +1,51 @@
+Title: A Needle Woman, 1999 - 2001
+
+----
+
+Workimgmain: - a-needle-woman-1999-2001_comp.png
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["a-needle-woman-kitakyushu3.jpg","a-laundry-woman_yamuna-river.jpg","a-needle-woman-1999-2001_comp.png"]},"id":"92614728-1566-4835-8934-c65024616b68","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: Exhibition at Miami Art Museum, 2012
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+A Needle Woman, 1999 - 2001, 8 channel video projection, 6:33 loop, silent
+
+A Laundry Woman - Yamuna River, India, 2000, single channel video projection, 10:30 loop, silent
+
+A Needle Woman - Kitakyushu, 1999, single channel video projection, 6:33 loop, silent
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,48 @@
+Title: Earth - Water - Fire - Air
+
+----
+
+Workimgmain:
+
+- >
+  earth_water_fire_air_power_plant_installation.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["earth_water_fire_air_power_plant_installation.jpg"]},"id":"ae376d10-d581-4f97-b6dd-6d55c6bfe35a","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

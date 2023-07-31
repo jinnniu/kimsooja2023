@@ -1,0 +1,48 @@
+Title: Encounter – A Mirror Woman
+
+----
+
+Workimgmain:
+
+- >
+  kimsooja_gazing-into-sphere_axel-vervoordt-2018_02.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["kimsooja_gazing-into-sphere_axel-vervoordt-2018_06.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_02.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_07.jpg","kimsooja_gazing-into-sphere_axel-vervoordt-2018_04.jpg"]},"id":"f668920f-b88d-418e-9aea-e193aa061601","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2018
+
+----
+
+Worklocatin: Installation at Axel Vervoordt Gallery
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Kimsooja, Encounter - A Mirror Woman, 2017, Folding mirror screen. Installation view in the Escher Gallery at Axel Vervoordt, Wijnegem. Courtesy of Culture City of East Asia 2017, Kyoto, Axel Vervoordt, Wijnegem, and Kimsooja Studio. Photo by Sebastian Schutyser
+
+----
+
+Additionalvideo: 

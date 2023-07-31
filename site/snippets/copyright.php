@@ -1,0 +1,1 @@
+<span class="copyright"><?= $site->copyright(), ' - ', date("Y") ?></span>

@@ -1,0 +1,19 @@
+title: Texts
+icon: 🖋
+image:
+  query: false
+  back: black
+
+sections:
+  textTable:
+    type: pages
+    template: text
+    search: true
+    layout: table
+    image:
+      cover: true
+    columns:
+      category:
+        value: "{{ page.textCategory }}"
+      year:
+        value: "{{ page.textYear }}"

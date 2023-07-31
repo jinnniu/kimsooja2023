@@ -1,0 +1,45 @@
+Title: TO BREATHE - FLAGS
+
+----
+
+Workimgmain: - 6.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["6.jpg","5.jpg","2.jpg","4.jpg","1.jpg","3.jpg","9.jpg","7.jpg","8.jpg","10.jpg"]},"id":"15bc0856-2f4d-4ba9-b59e-173c182952e6","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: Installation at the Contemporary Art Trail, Aix-en-Provence, France, 2012
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Kimsooja, To Breathe - The Flags, 2012, series of site specific print installations for the Contemporary Art Trail 2012 Aix-en-Provence, France, dimensions variable, photo by Elizabeth Carecchio
+
+----
+
+Additionalvideo: 

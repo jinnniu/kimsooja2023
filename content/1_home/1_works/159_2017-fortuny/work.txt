@@ -1,0 +1,51 @@
+Title: Archive of MInd
+
+----
+
+Workimgmain: - 01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["02.jpg","06.jpg","03.jpg","01.jpg","05.jpg","04.jpg","09.jpg","08.jpg","07.jpg"]},"id":"25ca4449-2a48-4e6b-a4f2-6e3adffe252a","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Performative Installation at Intuition, Palazzo Fortuny, Venice, Itally
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, Archive of Mind, 2017, participatory site specific installation consisting of clay balls, elliptical wooden table, and sound performance Unfolding Sphere, 2006, installation at Intuition at Palazzo Fortuny, Venice, Italy, Photo by , Photograph by Georg Malfertheiner, Courtesy of Axel Vervoordt Gallery, Antwerp and Kimsooja Studio
+
+04 - 09: Kimsooja, Archive of Mind, 2017, participatory site specific installation consisting of clay balls, elliptical wooden table, and sound performance Unfolding Sphere, 2006, installation at Intuition at Palazzo Fortuny, Venice, Italy, Photo by , Photograph by Jean-Pierre Gabriel, Courtesy of Axel Vervoordt Gallery, Antwerp and Kimsooja Studio
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,49 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg","2.jpg","1.jpg"]},"id":"d92966f8-79fc-4298-a7e0-dbf080c4d20d","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1992
+
+----
+
+Worklocatin: Installation at MOMA PS1 Open Studios
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03 Deductive Object, 1992, used korean bed covers and clothes, dimensions variable, Courtesy of PS1 Contemporary Art Center, New York and Kimsooja Studio
+
+----
+
+Additionalvideo: 

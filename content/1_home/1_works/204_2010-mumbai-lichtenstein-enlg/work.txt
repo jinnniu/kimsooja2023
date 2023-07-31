@@ -1,0 +1,45 @@
+Title: Mumbai: A Laundry Field
+
+----
+
+Workimgmain: - mumbai_laundry_field_lichtenstein01.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["mumbai_laundry_field_lichtenstein01.jpg"]},"id":"1d776068-1f25-41a9-83ad-eaecb05779f3","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

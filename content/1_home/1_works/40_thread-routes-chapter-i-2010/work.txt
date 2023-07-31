@@ -1,0 +1,49 @@
+Title: Thread Routes - Chapter I, 2010
+
+----
+
+Workimgmain: - total_art_2014.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["total_art_2014.jpg"]},"id":"21ba436a-abee-4ebe-86f3-21acb69ecb6b","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin: Installation at Total Art at the National Museum of Women in the Arts in Washington D.C., USA, 2014
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Kimsooja, Thread Routes – Chapter 1, 2010, still from 16mm film transferred to HD format, 26.51 min, sound installation at Total Art at the National Museum of Women In the Arts, Washington D.C., USA
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 
+
+----
+
+Uuid: iat8ICJQU95EMMms

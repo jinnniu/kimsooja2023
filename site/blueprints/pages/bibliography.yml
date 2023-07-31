@@ -1,0 +1,23 @@
+title: bibliography
+icon: 📝
+image:
+  query: false
+  back: black
+
+sections:
+  biblio:
+    type: fields
+    fields:
+      bibliomain:
+        label: bibliography
+        type: structure
+        columns:
+          year:
+            width: 1/3
+          description:
+            width: 2/3
+        fields:
+          year:
+            type: text
+          description:
+            type: textarea

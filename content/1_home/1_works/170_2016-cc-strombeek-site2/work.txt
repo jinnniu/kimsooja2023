@@ -1,0 +1,51 @@
+Title: Thread Routes - Chapter II, Site II
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["3.jpg","4.jpg","2.jpg","1.jpg","10.jpg"]},"id":"9b90766f-0708-4b26-990f-43535f803430","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: Installation at Kimsooja, Weaving the World, at CC Strombeek, Belgium
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04: Thread Routes - Chapter II, Site II, 2016, site-specific installation at CC Strombeek, Photo by Sophie Nuytten, Courtesy of CC Strombeek and Kimsooja Studio
+
+05: Thread Routes - Chapter II, Site II, 2016, drawing for site-specific installation at CC Strombeek, Courtesy of CC Strombeek and Kimsooja Studio
+
+----
+
+Additionalvideo: 

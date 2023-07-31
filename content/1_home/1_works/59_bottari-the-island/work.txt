@@ -1,0 +1,48 @@
+Title: Bottari: The Island
+
+----
+
+Workimgmain: - bottari_venice_01_2117.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["bottari_venice_01_2117.jpg","bottari_venice_04_2053.jpg","bottari_venice_03_2115.jpg","bottari_venice_02_2039.jpg","bottari_venice_05_2158.jpg"]},"id":"625cb3c6-8856-4070-baa8-8c43624391cb","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Courtesy Axel Vervoordt Foundation and Raffaella Cortese Gallery, Milan.
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2011
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: Photos by Jaeho Chong.
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+Site specific 8 Bottari installation at Palazzo Fortuni, Venice, 2011
+Bottari: The Island, 2011, Used Japanese clothes, used Korean bedcovers, Dimensions variable, Site specific 8 Bottari installation at Palazzo Fortuni, Venice, Installation view from TRA-Edge of Becoming, Palazzo Fortuni, Venice.
+
+----
+
+Additionalvideo: 

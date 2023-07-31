@@ -1,0 +1,45 @@
+Title: Bottari
+
+----
+
+Workimgmain: - 8.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["8.jpg"]},"id":"69cbf54f-c0ad-44cc-99eb-dc3ede5a401c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: 
+
+----
+
+Timeline: 
+
+----
+
+Worklocatin: Installation at Kimsooja: Geometry of Breath, Kewenig Gallery, Berlin, Germany, 2017
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Kimsooja, Bottari, 2017, used bedcovers and clothing from Michael Kewenig, 48 x 57 (dia.) cm,Installation view at Kimsooja - Geometry of Breath at Kewenig Gallery, 2017
+
+----
+
+Additionalvideo: 

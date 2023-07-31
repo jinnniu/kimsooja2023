@@ -1,0 +1,49 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["2.jpg","1.jpg","3.jpg"]},"id":"4f4ebd18-5683-4dcf-af5e-8cbe3449436e","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1995
+
+----
+
+Worklocatin: Installation at Tiger's Tail at National Museum of Contemporary Art, Kwacheon, Korea
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03 Deductive Object, 1995, used korean bed covers and clothes, dimensions variable Courtesy of National Museum of Contemporary Art, Kwacheon and Kimsooja Studio
+
+----
+
+Additionalvideo: 

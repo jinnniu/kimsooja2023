@@ -1,0 +1,45 @@
+Title: Beggar Woman: Times Square
+
+----
+
+Workimgmain: - beggar_woman_times_sq.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["times_sq_01.jpg","times_sq_02c.jpg","times_sq_02.jpg","times_sq_01c.jpg","times_sq_04.jpg","times_sq_03.jpg","times_sq_04c.jpg"]},"id":"f466663e-658a-4f0f-9f9f-fafefb4cbe85","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2005
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Beggar Woman: Times Square. Friday, March 11, 2005, 2-3pm, Times Square, NYC (Broadway and 44th street). Planned in conjunction with The 59th Minute, a Creative Time project. Photos by Alon Koppel and Charlie Samuels.
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

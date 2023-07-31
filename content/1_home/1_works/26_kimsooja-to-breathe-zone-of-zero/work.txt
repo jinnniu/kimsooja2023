@@ -1,0 +1,51 @@
+Title: Kimsooja: To Breathe - Zone of Zero
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg","2.jpg","3.jpg","4.jpg","6.jpg","5.jpg"]},"id":"a4c324c2-e7b9-4c30-b554-92a854320c7b","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: CAC Málaga, Spain
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Installation at CAC Málaga, Spain
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04: Lotus: Zone of Zero, 2016, site-specific installation at CAC Málaga consisting of 708 lotus lanterns, Tibetan, Gregorian, and Islamic chants, photo by José Luis Gutiérrez, Courtesy of CAC Málaga and Kimsooja Studio
+
+05 - 06: To Breathe - The Flags, 2012, single channel video animation, silent, 40:41 loop, photo by José Luis Gutiérrez, Courtesy of CAC Málaga and Kimsooja Studio
+
+----
+
+Uuid: DRNnFfJNQ5vh3B03

@@ -1,0 +1,49 @@
+Title: Bottari
+
+----
+
+Workimgmain: - 01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["03.jpg","04.jpg","01.jpg","05.jpg","02.jpg","06.jpg"]},"id":"75959ee9-3da2-48ed-8a15-4cc0f86f0b96","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2016
+
+----
+
+Worklocatin: Installation at 20 Bienal De Arte Paiz, Guatemala
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 06: Bottari, 2016, site-specific installation consisting of Used bedcovers, clothing, and objects from Guatemala, installation at 20 Bienal de Arte Paiz, Guatemala, Courtesy of Fundación Paiz and Kimsooja Studio
+
+----
+
+Additionalvideo: 

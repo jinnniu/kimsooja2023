@@ -1,0 +1,50 @@
+Title: Bottaris
+
+----
+
+Workimgmain: - 2.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["2.jpg"]},"id":"cec512a2-c3d7-4630-80b5-0511b7717bf4","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2001
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+1997 / 2001
+Duraclear Photographic Print in Light Box
+Large edition: 188.5cm x 128 x 25.5cm
+Small edition: 95.5cm x 65 x 20.5cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,49 @@
+Title: Bottari
+
+----
+
+Workimgmain: - bottari_2009.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottari_2009.jpg"]},"id":"cbda7187-091c-4eed-b674-1eba6ada75a8","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+2009 / 2012
+Digital C-Print
+56.8 x 76.2 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

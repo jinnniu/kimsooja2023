@@ -1,0 +1,45 @@
+Title: Le Bleu
+
+----
+
+Workimgmain: - lebleu.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["lebleu.jpg"]},"id":"14a352f4-4c00-4a8b-bf4f-d6849e50c80f","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Sewn
+
+----
+
+Timeline: 1987
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,45 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - deductive_object_ps1_1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["deductive_object_ps1_1.jpg","deductive_object_ps1_4.jpg","deductive_object_ps1_6.jpg","deductive_object_ps1_3.jpg","deductive_object_ps1_7.jpg","deductive_object_ps1_2.jpg","deductive_object_ps1_5.jpg"]},"id":"1045c5a5-6c08-4320-bd89-d2203ebe80b9","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1992
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

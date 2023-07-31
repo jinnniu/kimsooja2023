@@ -1,0 +1,78 @@
+@mixin closedetail {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  z-index: 100;
+  .btn {
+    cursor: pointer;
+  }
+}
+
+.closedetail {
+  @include closedetail;
+  width: calc(96% - 2rem);
+  padding: 1rem 0;
+  background-color: #fff;
+  // .btn {
+  //   padding-right: 1.5rem;
+  // }
+}
+
+.container--texts__items--detail .closedetail {
+  @include closedetail;
+  width: 1.3rem;
+  height: 1.3rem;
+  border-radius: 50%;
+  right: 0;
+  padding: 2rem;
+}
+
+.btn {
+  width: 1.3rem;
+  height: 1.3rem;
+  background: url("/assets/img/back.svg") no-repeat;
+  background-size: contain;
+}
+
+// entering btn
+#menubutton {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	margin: 3rem 0 0 2rem;
+	transition: transform 0.5s ease-in-out;
+}
+
+#menubutton.is-hiding {
+  transform: rotate(0.38turn);
+}
+
+// menubar btn
+#menu-container #menu-icon {
+  width: 2.3rem;
+  height: 2.3rem;
+  align-self: flex-start;
+  margin-left: 2rem;
+  svg {
+    transition: transform 0.5s ease-in-out;
+    transform-origin: center center;
+    transform-box: fill-box;
+    &:hover {
+      cursor: pointer;
+      transform: rotate(0.38turn);
+    }
+  }
+}
+
+#menu-container.moving {
+  width: 14rem;
+  .toggling {
+    margin-left: 2.5rem;
+    transform: rotate(0.38turn);
+  }
+}

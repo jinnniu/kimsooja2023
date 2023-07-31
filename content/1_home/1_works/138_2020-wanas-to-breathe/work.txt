@@ -1,0 +1,56 @@
+Title: To Breathe : Site Specific Installation at Wanas Konst haybarn, Wanas, Sweden
+
+----
+
+Workimgmain: - 10b.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["10.jpg","11.jpg","12.jpg","13.jpg","14.jpg","15.jpg"]},"id":"913d7915-2d60-4199-b0e5-eb0318e26e42","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2020
+
+----
+
+Worklocatin: Site Specific Installation at Wanas Konst haybarn, Wanas, Sweden
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+In the centuries-old hay barn, Kimsooja presents To Breathe, a mirrored floor installation, reflecting and inverting the space. The high vaulted characteristic ceiling and its myriad of supporting beams are converted into a deep chasm, creating a disorienting effect as one walks across its surface. This installation comes out of an inquiry into mirrors as a conceptual investigation going back over twenty years in Kimsooja's practice, since the 1999 Venice Biennale.
+
+
+On the other side of the building, which is more than 50 meters long, she has worked with stuffing fabrics in cracks and holes in the stone wall, tracing back to her Deductive Object made in conjunction with her residence at MoMA PS1 1993. Her works both occupy the room and leave it empty-the entire space becomes an experience, with this experience being her artwork. She allows the sensorial and conceptual dynamics latent in the architecture to come forward, inviting visitors to look far away and up close.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, To Breathe, 2020. Site-specific installation with mirror panels and sound performance The Weaving Factory, 2004-2013, 5.1 channel, 9:14, loop. Installation view at Wanås Konst Hay Barn. Courtesy of Wanås Konst and Kimsooja Studio. Photos by Mattias Givell.
+
+04 - 06: Kimsooja, Deductive Objects, 1993-2020. Site-specific installation consisting of fabric filled into the existing holes of the century old hay barn wall. Installation view at Wanås Konst Hay Barn. Courtesy of the Wanås Konst and Kimsooja Studio. Photos by Mattias Givell.
+
+----
+
+Additionalvideo: 

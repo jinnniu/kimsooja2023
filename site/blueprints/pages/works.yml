@@ -1,0 +1,29 @@
+title: Works
+icon: 📁
+image:
+  query: false
+  back: black
+
+columns:
+  - width: 1
+    sections:
+      workingPages:
+        type: pages
+        template: work
+        layout: cards
+        image:
+          cover: true
+  - width: 1
+    sections:
+      pageTable:
+        type: pages
+        template: work
+        search: true
+        layout: table
+        image:
+          cover: true
+        columns:
+          category:
+            type: tags
+          year:
+            value: "{{ page.timeline }}"

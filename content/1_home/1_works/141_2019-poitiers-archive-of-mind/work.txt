@@ -1,0 +1,52 @@
+Title: Archive of Mind
+
+----
+
+Workimgmain: - 3.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["4.png","32.png","3.jpg"]},"id":"14f8dd70-c465-47c9-8b6d-692db9508293","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin:
+
+Palais des ducs d'Aquitaine
+Kimsooja presents more than ten site-specific installations throughout the city of Poitiers, France for Traversées / Kimsooja.
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Echoing the banquets that once took place in the salle des pas perdus of the Palace of the dukes of Aquitaine, Kimsooja has placed a large elliptical table in this room, installed with spheres of clay that are produced over time by visitors. The material is transformed into spheres in the palm of their hands, as they press, cover, and roll the clay—a set of gestures reminiscent of those required to make a bottari, the traditional korean bundle. Consisting of earth and water, each ball resembles a planet, forming stellar constellations as they multiply. As the globe takes shape, all the gestures gather towards the center, the mind enters a state of meditation and “materiality is transformed into immateriality and void” according to the artist. Rolling and polishing the clay becomes a ritual, like religious myths about the origin of the world where clay was the receptacle for divine breath, the raw matter of the human body. Sounds evoking cosmic movements rise, as the sound of the clay balls rolling intertwines with the hoarse sound of the artist’s gargle. Kimsooja combines two vectors of sound: the horizontal trajectory of the clay spheres and the vertical trajectory of the water flowing through the human body. Symbolically these sounds represent a cross, an intersection, a space of encounter, exchange, and sharing.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, Archive of Mind, 2019, participatory site-specific installation consisting of clay balls, 18m elliptical wooden table, and sound performance Unfolding Sphere, 2016. Installation view at Palais des ducs d'Aquitane, 2019. Courtesy of the City of Poitiers, Axel Vervoordt Gallery and Kimsooja Studio. Photos by Jan Liegois.
+
+----
+
+Additionalvideo: 

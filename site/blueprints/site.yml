@@ -1,0 +1,57 @@
+title: Site
+
+tabs:
+  # content tab
+  content:
+    columns:
+      main:
+        width: 1/3
+        sections:
+          published:
+            headline: Pages
+            image: icon
+            type: pages
+            options:
+              template: true
+              status: true
+      detail:
+        width: 1/3
+        sections:
+          footer:
+            type: fields
+            fields:
+              copyright:
+                type: text
+      gitversioning:
+        width: 1/3
+        sections:
+          changes:
+            type: git
+            headline: Git Status
+      enteringvideos:
+        width: 1/3
+        type: fields
+        fields:
+          enteringvideo:
+            label: Entering Videos
+            type: files
+            layout: list
+      selectvideo:
+        type: fields
+        fields:
+          horizonvideo:
+            width: 1/3
+            label: Web - Horizontal Video (16:9 ratio, max 30MB)
+            type: files
+            layout: cards
+          verticalvideo:
+            width: 1/3
+            label: Mobile - Vertical Video (9;16 ratio, max 30MB)
+            type: files
+            layout: cards
+
+  # seo tab
+  seotab: seo
+  # policy tab
+  policy:
+    extends: sections/policy

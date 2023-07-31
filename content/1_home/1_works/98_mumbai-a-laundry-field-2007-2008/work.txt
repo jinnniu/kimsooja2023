@@ -1,0 +1,50 @@
+Title: Mumbai: A Laundry Field
+
+----
+
+Workimgmain: - mumbai_train.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143658090","caption":""},"id":"d300db43-4cad-4e6f-8289-272c8760892b","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/player.vimeo.com\/video\/143659160","caption":""},"id":"ae689238-ec80-473b-9d3d-8ca6474b88e2","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/player.vimeo.com\/video\/143659844","caption":""},"id":"efd5e32a-659a-43b0-9afe-ea5445331234","isHidden":false,"type":"video"},{"content":{"url":"https:\/\/player.vimeo.com\/video\/143660172","caption":""},"id":"8800d6bf-26a3-4f31-94b3-eb3351f92dd6","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2007
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Mumbai: A Laundry Field
+2007 - 2008
+10:25 / loop
+sound
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

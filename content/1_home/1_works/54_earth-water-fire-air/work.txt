@@ -1,0 +1,45 @@
+Title: Earth - Water - Fire - Air
+
+----
+
+Workimgmain: - ewfa_8504_russia_2012.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["ewfa_8504_russia_2012.jpg"]},"id":"ef733866-3297-4db0-88ac-fbd2ac414a84","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: Installation at PERM Museum of Contemporary Art, Russia
+
+----
+
+Workcredit: Installation photo by Aleksey Gushchin
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 8 Channel Video Projection, silent. Installation view at PERM Museum of Contemporary Art, Russia, 2012.
+
+----
+
+Additionalvideo: 

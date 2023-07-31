@@ -1,0 +1,45 @@
+Title: Bottari Tricycle
+
+----
+
+Workimgmain: - bottari-tricycle_glstrand_2012.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottari-tricycle_glstrand_2012.jpg"]},"id":"36d2a4cb-7968-4994-b2cb-68bb13880fdd","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Courtesy of GLStrand, Copenhagen.
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: Installation at GLStrand, Copenhagen, 2012
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

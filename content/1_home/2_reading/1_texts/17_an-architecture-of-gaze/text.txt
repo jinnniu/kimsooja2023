@@ -1,0 +1,53 @@
+Title: An Architecture of Gaze
+
+----
+
+Texttitle: [{"content":{"level":"h2","text":"An Architecture of Gaze"},"id":"0dc9d9dc-4b56-4758-a6d1-6378140b7db6","isHidden":false,"type":"heading"}]
+
+----
+
+Textautor: Jaeho, Chong
+
+----
+
+Textyear: 2015
+
+----
+
+Textcategory: Essay
+
+----
+
+Textimg: - cornell_needle_01.jpg
+
+----
+
+Textimgcaption: A Needle Woman: Galaxy was a Memory, Earth is Souvenir, 2014, 46 x 4.5(diameter) feet, mixed media installation, photograph by Jaeho Chong
+
+----
+
+Textcontents:
+
+- A silent figure stands with its back facing the viewer, poised motionless against the ebb and flow of the anonymous crowd, unsheltered and without a want. Standing in front of A Needle Woman, a performance/video work (1999-2009) by the acclaimed artist Kimsooja, we see a body which, without doing anything, becomes a measure of time and space. As the artist's body weaves ceaselessly through the crowd, it shifts in and out of our field of vision. For a fleeting moment we experience our body transposed into hers, and through the borrowed gaze of the artist we confront our own impermanence in the face of time.
+
+- Her most recent work, similarly titled, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir, carries this experience forward in a new form of practice. It is the result of a close collaboration between Kimsooja, the nanoscientist Ulrich Wiesner, and myself, an architect, on the occasion of the Cornell University's inaugural art biennial organized by Stephanie Owens, director of the Cornell Council for the Arts. Sited at the heart of the university's Arts Quad, the 46 foot high 4.5 foot diameter custom-fabricated steel structure is fleshed out with transparent acrylic panels that have been individually coated in iridescent nanopolymer. Under a raking light, each of these panels transforms the entire pavilion into a radiant spectrum of color as the molecularly engineered 'block copolymer,' produced by Hiroaki Sai and Ferdinand Kohle from the Wiesner Group, refracts various wavelengths of light dependent on the angle from which it is viewed. The interior of the floor is mirrored, doubling and extending the sky into the ground.
+
+- Cornell has a long history of commissioning site-specific art works. Perhaps those best known came out of the seminal 1969 Earth Art show curated by Willoughby Sharp, which brought together a group of young artists, including Hans Haacke, Richard Long, Robert Smithson, Dennis Oppenheim, and Günther Uecker, to produce new works on campus. Many of these artists treated the earth itself as a canvas and as sculptural material, just as today Kimsooja sees the earth as a "readyused" object – an idea akin to Duchamp's readymades, or Piero Manzoni's 1961 Socle Du Monde. In fact, much like Duchamp's attitude, Kimsooja's work resists human desire and adoration for visual pleasure, never making anything, but creating new thoughts for any given object or phenomenon. However, drawing such a formalistic relationship between the two artists in using found objects has its limits. For instance, the idea of the needle employed by Kimsooja, in her own words, is "a medium, a mystery, a reality, a hermaphrodite, a barometer, a moment, and Zen," which is much closer to a state of empathy than to a rationale of apathy. It echoes the spirit of Arte Povera, whose attitude, according to Germano Celant, is "intent upon retrieving the factual significance of the emerging meaning of human life."
+
+- What then, led an artist who refuses to 'make' objects to conceive a 46-foot tall 'sculpture'? At the first meeting between the collaborators, Kimsooja was presented with a small vial containing an iridescent substance. Generally known as 'structural color,' and characterized by Ulrich Wiesner as 'block copolymer,' this chemically grown chain of monomers produce a continuous banding of molecules with light-refracting qualities similar to those found on the wings of butterflies or the shells of beetles. When examined under an electron microscope, it appears as a striated fabric. Needless to say, Kimsooja's sustained interest in used fabrics as a tableau of life finds another scale of reality here. Such a profound consistency between nanoscientific phenomena and her artistic practice allows her to work within an invisible realm outside the register of human senses and to bring reality closer to our own experience – a practice to which she has always been committed.
+
+- "Interconnected to observations in art-making," she says, "nano-techniques are an inverse expression of our perspective of the universe (cosmology)." The former constantly sharpens our gaze towards a single point, infinitely dividing and redefining space almost to the point of eliminating interiority, while the latter moves toward the limits of exterior space, beyond geometric imagination. Architecture, whose purpose includes the preservation of interiority through geometry, frames this vast scope of space at a scale conducive to a direct bodily experience. To this end, the physical form of the pavilion has little relevance as a sculptural object, but rises out of a necessity of finding an instrument to bridge the visible and the invisible.
+
+- The form of a needle is not without its own architectural history. The Egyptian obelisk, for example, functioned as a religious axis between man and the cosmos for many centuries. Some known as 'Cleopatra's Needle,' these sacred structures embody early Egyptian creation myths that explained the rising and setting of the sun – the solar cycle – through the metaphor of birth and consummation of life closely associated with solar deities, namely the sun god Ra. As such, light and time had already emerged as symbolic channels between man and celestial order in the shape of a needle.
+
+- In effect, it is neither the nanomaterial, the architecture, nor the artistic intention that reveals the invisible, but the subtle yet perpetual cosmic motion reflected in the change of light. Material seizes such an instance. The molecular structure on the skin of the pavilion physically unwraps light, enabling a person's gaze to weave through the undulating depths of visual surface – a phenomenon perfectly mirroring the dynamic reciprocity between the standing figure and the gazing subject in the artist's video work. The 'needle,' in turn, anchored perpendicular to the ground, parallels our bodies and emerges as an object of non-violence. A stream of consciousness that once took the form of a brushstroke on the surface of a canvas is abstracted over the years in Kimsooja's practice as first a needle, then a body, a camera lens, and finally a luminous void. A gaze is all that remains.
+
+- More than a symbol of, or a testament to, the confluence of art and science, A Needle Woman: Galaxy was a Memory, Earth is a Souvenir opens the ontological dimension between our fleeting existence and the cosmos by rendering all of our gaze – an emphatic gesture of human subjectivity – instrumental to the relational structure between distance, time, matter, and memory: a void at the tip of a needle point.
+
+----
+
+Textcaption: — From Space: Issue 566, January 2015
+
+----
+
+Uuid: VtsNtLDqpUGmCpH4

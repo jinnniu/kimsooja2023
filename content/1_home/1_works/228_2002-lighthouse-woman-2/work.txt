@@ -1,0 +1,45 @@
+Title: A Lighthouse Woman
+
+----
+
+Workimgmain: - lighthouse_woman_green.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["lighthouse_woman_blue.jpg","lighthouse_woman_red.jpg","lighthouse_woman_green.jpg","lighthouse_woman_pink.jpg","lighthouse_woman_yellow.jpg","lighthouse_woman_orange.jpg"]},"id":"457c0d0e-874b-46d2-85c7-ae035a5c10e8","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2002
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

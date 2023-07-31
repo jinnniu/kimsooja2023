@@ -1,0 +1,52 @@
+Title: Bottari Truck - Migrateurs
+
+----
+
+Workimgmain: - 7.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["7.jpg","42.jpg","8.jpg"]},"id":"b52dc660-6bc7-429f-a537-2dcc991a3f95","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2019
+
+----
+
+Worklocatin:
+
+Chapelle Saint Louis
+Kimsooja presents more than ten site-specific installations throughout the city of Poitiers, France for Traversées / Kimsooja.
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: Echoing her performance, Cities on the Move: 2727 Kilometers Bottari Truck, in which she travelled through South Korea, Kimsooja sits at the top of a truck full of bottaris—“bundles” in Korean—as she traverses the streets from Vitry to Paris. During her symbolic journey she encounters many places marked by the history of immigration in France, such as the Church of Saint-Bernard, where the struggle of undocumented migrants began in 1996. With her bottaris loaded with clothes found at Emmaüs, Kimsooja, like a “needle woman,” sews metaphorical threads between cultures. The clothes she transports become invisible bodies, representative of the different populations living in the area, and carrying within them the memories of lives and absences. As the bottari, echoes the life of the artist, who has been a nomad since her early childhood, it also reveals the universal tension between perpetual displacement and the desire to preserve an element of familiarity. With her back to the camera, her long hair swaying to the movement of the truck, and her black clothes contrasting with the brightly colored fabrics, Kimsooja travels motionless. Her body seems to be gradually disappearing, carrying with it the permanent instability of the human condition.
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, Bottari Truck, 2007, site-specific installation consisting of 1976 Peugeot 404 pickup truck, bottaris. Installation view at Chapelle Saint Louis, 2019. Courtesy of the City of Poitiers and Kimsooja Studio. Photos by Jan Liegeois (01) and Yann Gachet (02 and 03).
+
+----
+
+Additionalvideo: 

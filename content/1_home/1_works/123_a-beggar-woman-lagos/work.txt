@@ -1,0 +1,45 @@
+Title: A Beggar Woman - Lagos
+
+----
+
+Workimgmain: - abw-lagos-01.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143650916","caption":"A Beggar Woman - Lagos, 2001<br>8:50 \/ loop<br>silent"},"id":"3d200643-8f4e-437f-b1c1-8d164f3c71a3","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2001
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

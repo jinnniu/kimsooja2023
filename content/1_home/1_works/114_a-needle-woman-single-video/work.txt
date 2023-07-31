@@ -1,0 +1,45 @@
+Title: A Needle Woman
+
+----
+
+Workimgmain: - needle_woman_paris_2009_barbes2.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/143274995","caption":"A Needle Woman, 2009<br>25:00 \/ loop<br>silent<br>Performed and filmed in Paris, 2009, Commissioned by Nuit Blanche Paris 2009"},"id":"f87e1645-a08d-4a6e-9d43-67b50f73d823","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2009
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

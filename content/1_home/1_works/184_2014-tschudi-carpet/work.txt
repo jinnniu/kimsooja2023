@@ -1,0 +1,48 @@
+Title: Deductive Object: Obangsaek
+
+----
+
+Workimgmain: - deductive_object_obangeak_carpet_1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["deductive_object_obangeak_carpet_2.jpg","deductive_object_obangeak_carpet_1.jpg"]},"id":"af86edde-b791-41cb-b11d-ed8aaa8100cf","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2014
+
+----
+
+Worklocatin:
+
+Carpet, 2014
+Site specific installation at Kimsooja, To Breathe: Obengsaek,Gallery Tschudi, Zuoz, Switzerland, 2014 - 2015
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: Deductive Object: Obangsaek, 2014, carpet installation, 120cm x 600cm.
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,45 @@
+Title: Lotus: Zone of Zero
+
+----
+
+Workimgmain: - lille_1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["lille_2.jpg","lille_1.jpg"]},"id":"0eba0696-d16d-4952-85d6-8d12fc4e8c18","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2003
+
+----
+
+Worklocatin: Lotus: Zone of Zero, 2003. Palais Rameau, Lille
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 307 lotus lanterns, 6 speakers, sound from Tibetan, Gregorian, and Islamic chant.
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

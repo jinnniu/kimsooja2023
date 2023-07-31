@@ -1,0 +1,45 @@
+Title: A Mirror Woman - The Sun & The Moon
+
+----
+
+Workimgmain: - sunmoon_eclipse.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["sunmoon_deepwater.jpg","sunmoon_eclipse.jpg","shiseido_gallery_2008_3ss.jpg","sunmoon_reflection.jpg","sunmoon_waterwithrock.jpg"]},"id":"854559c0-e540-41f9-87b4-2381fff1c9df","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations, Photo
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: Video installation, Shiseido Gallery, Tokyo, 2008
+
+----
+
+Workcredit: Photo by Tadahisa Sakurai
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: This project was possible with the generous support of Shiseido Co., Ltd.
+
+----
+
+Additionalvideo: 

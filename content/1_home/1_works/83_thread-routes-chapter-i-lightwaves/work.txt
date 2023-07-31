@@ -1,0 +1,45 @@
+Title: Thread Routes Chapter I - Lightwaves
+
+----
+
+Workimgmain: - tr1lightwaves.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/196486428","caption":"Thread Routes Chapter I - Lightwaves, 2010 \/ 2016<br>29:31<br>sound"},"id":"30111b17-da4b-4b89-bdab-f55f5ecc2023","isHidden":false,"type":"video"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video
+
+----
+
+Timeline: 2010
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

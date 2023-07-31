@@ -1,0 +1,49 @@
+Title: An Album: Hudson Guild
+
+----
+
+Workimgmain: - hudson.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["hudson.jpg"]},"id":"c7c3261f-86f4-4907-a14a-7bfb36de3ece","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+2009 / 2017
+Digital Flex Print
+152.4 x 101.6 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,49 @@
+Title: Deductive Object
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["4.jpg","2.jpg","1.jpg","3.jpg"]},"id":"65433977-d6c1-4ab5-ba54-8b1e89f9182a","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 1993
+
+----
+
+Worklocatin: Installation at Ise Art Foundation, New York
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 04 Deductive Object, 1993, used korean bed covers and clothes, dimensions variable, Courtesy of Ise Art Foundation, New York and Kimsooja Studio
+
+----
+
+Additionalvideo: 

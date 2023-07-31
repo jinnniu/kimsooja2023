@@ -1,0 +1,52 @@
+Title: A Needle Woman   &   Bottari - Alfa Beach
+
+----
+
+Workimgmain:
+
+- >
+  st-etienne_a-needle-woman_installation_view_0108.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["st-etienne_a-needle-woman_installation_view_0108.jpg","st-etienne_bottari-alfa-beach_installation_view_6639.jpg"]},"id":"5fb90a39-e7e1-4ec1-b2df-949f581832f2","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: Installation at Musée d'Art Moderne de Saint Etienne, 2012
+
+----
+
+Workcredit: Photos by Yves Bresson
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+A Needle Woman, 2005, 6 channel video projection, 10:40 loop, silent.
+
+Bottari - Alfa Beach, 2001, single channel video projection, 6:18 loop, silent.
+
+----
+
+Additionalvideo: 

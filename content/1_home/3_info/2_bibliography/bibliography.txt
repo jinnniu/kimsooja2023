@@ -1,0 +1,693 @@
+Title: Bibliography
+
+----
+
+Bibliomain:
+
+- 
+  year: "2021"
+  description: |
+    - Kim, Honghee - "보따리로 감싸고 자수로 엮어낸 여성성… 공통된 키워드는 ‘관계맺기'"* - The Kyunghyang daily news, March 2021*
+    - Lee, Yeonjae - "김수자, 문화인류학적 탐구를 이어가는 바늘 여인"* - Contemporary Art Forum, June 2021*
+  0: '"content":{"list":"content","text":"<ul><li>Ryu,&nbsp;Byoung&nbsp;Hak&nbsp;-&nbsp;\"}'
+  1: level":"h2
+  2: "text":false
+  3: 2021":"id
+- 
+  year: "2020"
+  description: |
+    - Yun, Nanji : "아우름과 떠남의 미학: 김수자의 보따리" *- Monthly Art Magazine, November 2020, pp. 66-69*
+    - Mark Rappolt : "Kimsooja, The New Normal" *- ArtReview Asia, Summer 2020, pp.48-55*
+    - Yeon Shim Chung, Sunjung Kim, Kimberly Chung, Keith B. Wagner : "Korean Art from 1953: Collision, Innovation, Interaction, " *- Published by Phaidon, 2020, 360p.*
+    - Doris, von Drathen : "Kimsooja, SCHAUENDES DENKEN" *- Kunstforum International,Bd. 267, May 2020, Artist monograph, pp.199- 211*
+    - Kim, Boggi : "A Needle Woman Weaves the World, a special interview with Kimsooja" *- art in culture, January 2020, pp. 44-67*
+    - Amine, Haase : "Die Stadt und Die Kunst" *- Kunstforum International Bd. 265, January-February 2020, pp.292- 295*
+    - Myriam, Boutoulle : "Portrait d'artiste : Kimsooja tisse sa toile" *- Connaissance des Arts, January 2020, pp. 50-55*
+  0: '"5b40e7bb-2494-4e84-9384-8d781a3a9c0d":{"&nbsp;-&nbsp;<em>Kimsooja:&nbsp;Interviews<\/em><\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018,&nbsp;pp&nbsp;118&nbsp;-&nbsp;126<\/em><\/li><\/ul>":"id"\ubcf4\ub530\ub9ac\ub85c&nbsp;\uac10\uc2f8\uace0&nbsp;\uc790\uc218\ub85c&nbsp;\uc5ee\uc5b4\ub0b8&nbsp;\uc5ec\uc131\uc131\u2026&nbsp;\uacf5\ud1b5\ub41c&nbsp;\ud0a4\uc6cc\ub4dc\ub294&nbsp;\u2018\uad00\uacc4\ub9fa\uae30"ec890a41-59ac-4c9a-b8c8-bd846a3055eb"artiste&nbsp;:&nbsp;Kimsooja&nbsp;tisse&nbsp;sa&nbsp;toile\"isHidden"}'
+  1: isHidden":"type
+  2: "heading":false
+  3: content":"text
+- 
+  year: "2019"
+  description: |
+    - Andy Saint Louis : "Mirror image: Kimsooja’s self-reflective installations take over the French city of Poitiers" *- Wallpaper, October 2019*
+    - Emma, Lavigne (Cur.), Emmanuelle, de Montgazon (Cur.) : "Encounter with a City - Traversžes Kimsooja" *- Exhibition Catalogue published by Silvana Editoriale, 2019, pp. 15-19*
+    - Agnes, Berecz (Ed.) : "2000 : Kimsooja Bottari Truck" *- 100 Years 100 Artworks, A History of Modern and Contemporary Art published by Prestel, 2019, p.172-173*
+    - Rebecca, Morill (Ed.)  : "Kimsooja" *- Great Women Artists published by Phaidon, 2019, p. 216*
+    - Valžrie, Duponchelle : "Quand lõart fluide de Kimsooja traverse Poitiers" *- Le Figaro, December 25, 2019, p. 22*
+    - Emmanuelle, Lequeux : "Avec Kimsooja, Poitiers se laisse traverser par lõart contemporain" *- Le Monde, December 24, 2019*
+    - Andy, Saint Louis  : "Mirror Image" *- Wallpaper, November 2019, pp. 153 - 156*
+    - Moon, So-Young : "Transforming a city's memories" *- Korea Joongang Daily, October 23, 2019, p.6*
+    - "H - Habseliges Staunen, Kimsooja" *- Kunstforum International Bd. 259, March-April 2019*
+  0: '"<ul><li>Kim,&nbsp;Honghee&nbsp;-&nbsp;\":{"type":"list","content":"text"}'
+  1: |
+    \"&nbsp;<\/li><li><em>The&nbsp;Kyunghyang&nbsp;daily&nbsp;news,&nbsp;March&nbsp;2021<\/em><\/li><\/ul>"},"id":"69924a88-9399-4d46-91d4-4f11488adaa7","isHidden":false,"type":"list"},{"content":{"text":"<ul><li>Lee,&nbsp;Yeonjae&nbsp;-&nbsp;\"\uae40\uc218\uc790,&nbsp;\ubb38\ud654\uc778\ub958\ud559\uc801&nbsp;\ud0d0\uad6c\ub97c&nbsp;\uc774\uc5b4\uac00\ub294&nbsp;\ubc14\ub298&nbsp;\uc5ec\uc778\"<\/li><li><em>Contemporary&nbsp;Art&nbsp;Forum,&nbsp;June&nbsp;2021<\/em><\/li><\/ul>"},"id":"67f7a726-1e9e-44cc-836a-d0e22026a4e2","isHidden":false,"type":"list"},{"content":{"level":"h2","text":"2020"},"id":"eb8d6a8e-86b2-48e8-87a2-d8ed1366f9bb","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li>Yun,&nbsp;Nanji&nbsp;-&nbsp;\"\uc544\uc6b0\ub984\uacfc&nbsp;\ub5a0\ub0a8\uc758&nbsp;\ubbf8\ud559:&nbsp;\uae40\uc218\uc790\uc758&nbsp;\ubcf4\ub530\ub9ac\"<\/li><li><em>Monthly&nbsp;Art&nbsp;Magazine,&nbsp;November&nbsp;2020,&nbsp;pp.&nbsp;66-69<\/em><\/li><\/ul>"},"id":"2ec37f15-1c2c-4d29-9dea-efee25bab159","isHidden":false,"type":"list"},{"content":{"text":"<ul><li>Mark&nbsp;Rappolt&nbsp;-&nbsp;\"Kimsooja,&nbsp;The&nbsp;New&nbsp;Normal\"<\/li><li><em>ArtReview&nbsp;Asia,&nbsp;Summer&nbsp;2020,&nbsp;pp.48-55<\/em><\/li><\/ul>"},"id":"2468a493-6cbf-42cd-a950-6fee74c2571b","isHidden":false,"type":"list"},{"content":{"text":"<ul><li>Yeon&nbsp;Shim&nbsp;Chung,&nbsp;Sunjung&nbsp;Kim,&nbsp;Kimberly&nbsp;Chung,&nbsp;Keith&nbsp;B.&nbsp;Wagner&nbsp;-&nbsp;\"Korean&nbsp;Art&nbsp;from&nbsp;1953:&nbsp;Collision,&nbsp;Innovation,&nbsp;Interaction,&nbsp;\"<\/li><li><em>Published&nbsp;by&nbsp;Phaidon,&nbsp;2020,&nbsp;360p.<\/em><\/li><\/ul>"},"id":"dc591ba5-9e76-4a8a-9bb8-cc9d0ae6edec","isHidden":false,"type":"list"},{"content":{"text":"<ul><li>Doris,&nbsp;von&nbsp;Drathen&nbsp;-&nbsp;\"Kimsooja,&nbsp;SCHAUENDES&nbsp;DENKEN\"<\/li><li><em>Kunstforum&nbsp;International,Bd.&nbsp;267,&nbsp;May&nbsp;2020,&nbsp;Artist&nbsp;monograph,&nbsp;pp.199-&nbsp;211<\/em><\/li><\/ul>"},"id":"30881b2f-f96e-415d-8fce-8f47efbbf407","isHidden":false,"type":"list"},{"content":{"text":"<ul><li>Kim,&nbsp;Boggi&nbsp;-&nbsp;\"A&nbsp;Needle&nbsp;Woman&nbsp;Weaves&nbsp;the&nbsp;World,&nbsp;a&nbsp;special&nbsp;interview&nbsp;with&nbsp;Kimsooja\"<\/li><li><em>art&nbsp;in&nbsp;culture,&nbsp;January&nbsp;2020,&nbsp;pp.&nbsp;44-67<\/em><\/li><\/ul>"},"id":"707d5d4b-59d5-441e-832c-8268ead7abcf","isHidden":false,"type":"list"},{"content":{"text":"<ul><li>Amine,&nbsp;Haase&nbsp;-&nbsp;\"Die&nbsp;Stadt&nbsp;und&nbsp;Die&nbsp;Kunst\"<\/li><li><em>Kunstforum&nbsp;International&nbsp;Bd.&nbsp;265,&nbsp;January-February&nbsp;2020,&nbsp;pp.292-&nbsp;295<\/em><\/li><\/ul>"},"id":"e1d598dc-42c1-47ec-a909-f78be160370e","isHidden":false,"type":"list"},{"content":{"text":"<ul><li>Myriam,&nbsp;Boutoulle&nbsp;-&nbsp;\"Portrait&nbsp;d':"<\/li><li><em>Connaissance&nbsp;des&nbsp;Arts,&nbsp;January&nbsp;2020,&nbsp;pp.&nbsp;50-55<\/em><\/li><\/ul>
+  2: "id":false
+  3: >
+    4e20f611-78fa-4d96-bc55-67611a533648":"isHidden
+- 
+  year: "2018"
+  description: |
+    - Hanru, Hou (Cur.) : "The Street. Where the World is Made" *- Exhibition Catalogue published by Quodlibet, 2018, vol 2 pp 423 - 424, 433 - 434, 439*
+    - Meyer-Stoll, Christiane (Ed.) : "Kimsooja: Interviews and Works" *- Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018*
+    - Hwang, In : "Sewing into Walking, an interview from 1994" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 15 - 18*
+    - Park, Young Taik : "From Plane to Three Dimensions: A Bundle, an interview from 1996" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 20 - 26*
+    - Obrist, Hans Ulrich : "Wrapping Bodies and Souls, an interview from 1997" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 28 - 33*
+    - Obrist, Hans Ulrich : "Nothing is In-Between, an interview from 1998" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 35 - 39*
+    - Matt, Gerald : "A Meditation on Art and Life, an interview from 2002" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 41 - 54*
+    - Jacob, Mary Jane : "Essential Empathy, an interview from 2002 and 2003" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 56 - 61*
+    - Bourriaud, Nicolas : "Eastern and Western Thinking, an interview from 2003" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 63 - 68*
+    - Santori, Flaminia Gennari : "The Impermanence of Existence, an interview from 2003" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 70 - 73*
+    - Sand, Olivia : "Artists Can Set Things in Motion, an interview from 2006" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 75 - 80*
+    - Kapš, Petra : "A One-word Name is an Anarchist’s Name, an interview from 2006" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 82 - 89*
+    - Rubio, Oliva María : "Breathing and Mirroring, an interview from 2006" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 91 - 98*
+    - Pasini, Francesca : "Wrapping as Three-dimensional Sewing, an interview from 2006" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 100 - 103*
+    - Gordon, Barbara Kelly : "A Laundry Woman, an interview from 2008" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 105 - 109*
+    - Kim, Sunjung : "My Body as a Tool, an interview from 2008" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 111 - 116*
+    - Ryu, Byoung Hak : "To Be Born, Love, Suffer and Die, an interview from 2010" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 118 - 126*
+    - Zoller, Maxa : "Woman/Needle, an interview from 2010" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 128 - 139*
+    - Maerkle, Andrew : "Points of Convergence, an interview from 2011" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 141 - 149*
+    - Giovando, Chiara : "The Unaltered Reality of the World, an interview from 2012" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 151 - 154*
+    - Gautherot, Franck : "A Place to Be, an interview from 2013" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 156 - 164*
+    - Augaitis, Daina : "Ways of Being, an interview from 2013" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 166 - 180*
+    - Loocke, Thomas Van : "In Response to Violence and Inhumanity, an interview from 2015" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 182 - 185*
+    - Sans, Jérôme : "A Journey through Immobility, an interview from 2017" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 187 - 192*
+    - Hanru, Hou : "Create a New Light, an interview from 2017" - Kimsooja: Interviews, *Exhibition Catalogue published by Verlag der Buchhandlung Walther König in association with Kunstmuseum Liechtenstein, 2018, pp 194 - 207*
+    - Sand, Olivia : "Contemporary Voices from the Asian and Islamic Art Worlds" *- Published by Skira, 2018, pp 322 - 329*
+    - Sollins, Susan : "Being an Artist: Artist Interviews with Art 21" *- Published by Art21, 2018, pp 55 - 59*
+    - Mendolicchio, Herman Bashiron : "Walking. The creative and mindful space between one step and another." - Interartive, *Online Art Publication, 2018*
+    - Lescaze, Zoë : "13 Artists On: Immigration" - T, *New York Times Style Magazine, June 2018*
+    - Rmandic, Dunja : "Gestures of the possible?: Kimsooja’s ‘Zone of Nowhere’ at PICA" - Art Monthly, *Online Art Publication, April 2018*
+    - Coram, Melanie : "Life, times unwrapped" - The West Australian, *February 2018*
+  0: '"type":{"<ul><li>Zoller,&nbsp;Maxa&nbsp;-&nbsp;\":"&nbsp;-&nbsp;<em>Kimsooja:&nbsp;Interviews<\/em><\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018,&nbsp;pp&nbsp;128&nbsp;-&nbsp;139<\/em><\/li><\/ul>"Mirror&nbsp;image:&nbsp;Kimsooja\u2019s&nbsp;self-reflective&nbsp;installations&nbsp;take&nbsp;over&nbsp;the&nbsp;French&nbsp;city&nbsp;of&nbsp;Poitiers\"id"}'
+  1: list":"content
+  2: "level":false
+  3: h2":"text
+- 
+  year: "2017"
+  description: |
+    - "Create a New Light: A Conversation between Kimsooja and Hou Hanru, 2017" - Kimsooja: Archive of Mind, *Exhibition Catalogue published by National Museum of Modern and Contemporary Art, Korea, 2017*
+    - Madoff, Steven Henry : "The Task of Being-Together" - Kimsooja: Archive of Mind, *Exhibition Catalogue published by National Museum of Modern and Contemporary Art, Korea, 2017*
+    - Kim, Sung Won : "Archetype of Mind" - Kimsooja: Archive of Mind, *Exhibition Catalogue published by National Museum of Modern and Contemporary Art, Korea, 2017*
+    - Suh, Younghee : "Geometry of Mind and of Body" - Kimsooja: Archive of Mind, *Exhibition Catalogue published by National Museum of Modern and Contemporary Art, Korea, 2017*
+    - "Artists’ Artists: Kimsooja" - Frieze Masters, *Art Magazine #Issue 6, October 2017*
+    - "ANTIDORON. The EMST Collection" *- Exhibition Catalogue published by EMST in association with documenta 14, 2017, pp. 96 - 97*
+  0: '"2019":{"f0ff27be-8174-439f-9923-b1d4719f21c0":"isHidden"Encounter&nbsp;with&nbsp;a&nbsp;City&nbsp;-&nbsp;Travers\u017ees&nbsp;Kimsooja\"type"}'
+  1: >
+    id":"bb3b5240-a745-4acc-83dd-58557c546875
+  2: "isHidden":false
+  3: type":"heading
+- 
+  year: "2016"
+  description: |
+    - D’Acosta, Sema : "Concordia" - Kimsooja: To Breathe - Zone of Zero, *Exhibition Catalogue published by CAC Malaga, 2016*
+    - Tsai, Sylvia : "'Weaving & We' Hangzhou Triennial of Fiber Art and Parallel Events" - Asia Art Pacific, *Online Art Publication, October 14, 2016*
+    - So-young, Moon : "'Kimsooja works to Connect Dots" - Korea Joongang Daily, *Online Publication, July 28, 2016*
+    - Van de Ende, Elaine : "Kimsooja weeft de wereld in CC Strombeek" - Magazine H Art, *Monthly Art Publication, December 15, 2016*
+    - Dubois, Colette : "Kimsooja: Weaving the World" - Flux News, *Online Art Publication, December 17, 2016*
+    - Van Den Ende, Elaine : "Kimsooja Maakt Een Monument Voor De Slachtoffers Van Brussel" - H Art, *Online Art Publication, November 24, 2016*
+    - Art September 2016, *Monthly Art Magazine, September 2016, pp. 50 - 53*
+    - "Interview with Kimsooja" - Neighbor, *International Art Design and Style Magazine, September 2016*
+    - Rinder, Lawrence : "Architecture of Life" *- Exhibition Catalogue published by University of California, Berkeley Art Museum & Pacific Film Archive, 2016*
+    - Turner, Caroline and Jen Webb : "Art and Human Rights: Contemporary Asian Contexts" *- Published by Manchester University Press, 2016, pp. 75, 115 - 120*
+    - "Remember Licide" *- Exhibition Catalogue published by Städtische Galerie, Nordhorn, 2016*
+    - "Bharti Keher: Matter" *- Exhibition Catalogue published by the Vancouver Art Gallery, and Black Dog Publishing, 2016, p. 111*
+    - "Kimsooja - To Breathe" *- Exhibition Catalogue and DVD published by Centre Pompidou Metz and Apres Editions, 2016*
+    - "Materiality and Immateriality Viewed Through Duality" - Space, *Monthly Architecture Magazine, 50th Anniversary Issue, 2016*
+    - "Heimat - Identifikation Im Wandel" - Curated by Christiane Erdmann and Stefanie Blumenbecker, *Exhibition Catalogue published by Künstlerverein Walkmühle, 2016*
+    - "Pasión: Colección Carmen Riera" *- Exhibition Catalogue published by Ayuntamiento de Málaga, 2016*
+  0: '"content":{"list":"content"2000&nbsp;:&nbsp;Kimsooja&nbsp;Bottari&nbsp;Truck\"text"}'
+  1: 'text":"<ul><li>Andy&nbsp;Saint&nbsp;Louis&nbsp;-&nbsp;\'
+  2: '"<\/li><li><em>Wallpaper,&nbsp;October&nbsp;2019<\/em><\/li><\/ul>":false'
+  3: >
+    id":"2d2d00a7-5d5d-4ca3-9e97-8827979d2ca3
+- 
+  year: "2015"
+  description: |
+    - Dogramaci, Burcu - "Heimat: Eine Künstlerische Spurensuche" *- Published by Böhlau Wien Köln Weimar, 2015*
+    - "Art_Textiles" *- Exhibition Catalogue published by The Whitworth, The University of Manchester, 2015*
+    - Lagdameo, Jennifer Baum - "Korean Artist Kimsooja Breathes Life (and Light) into the Centre Pompidou-Metz" - Artsy, *Online Art Publication, November 9, 2015*
+    - Nathan, Emily - "Kimsooja Harnesses Light and Color at Centre Pompidou Metz" - Artnet, *Online Art Publication, November 26, 2015*
+    - Van Loocke, Thomas - "Kimsooja 'To Breathe' in Centre Pompidou Metz" - Art Dependence Magazine, *Online Art Publication, December 15, 2015*
+    - "Nada Temas, Dice Ella: Fear Nothing She Says" *- Exhibition Catalogue published by Acción Cultural Española, AC/E Ediciones Anómalas, 2015*
+    - Lagnado, Lisette and other authors - "Exhibition Histories: Cultural Anthropophagy, The 24th Bienal de Sao Paulo 1998" *- Published by Afterall Books, 2015*
+    - "Aus Der Sammlung" *- Published by Kunstmuseum Liechtensteint, 2015*
+    - "Proportio" - Curated by Daniela Ferretti and Axel Vervoordt, *Exhibition catalogue, published by Axel & May Vervoordt Foundation in association with MER. Paper Kunsthalle, Ghent (BE), 2015*
+    - Bellet, Harry - "Art Basel - Review" - The Guardian, *Online Publication, July 3, 2015*
+    - Breerette, Genevieve - "La Biennale de Venise Féminise la Création" - M Culture, *Online Publication, June 13, 2015*
+    - Ko, Hanae - "Kimsooja Wins Samsung's Ho-Am Prize for the Arts" - Asia Art Pacific, *Online Art Publication, June 9, 2015*
+    - Van Den Ende, Elaine - "Kimsooja Sets Weaving Exhibition at Axel Vervoordt" - H Art, *Art Magazine, Issue #142, June 2015, p. 22*
+    - "Land Sea Sky: Revisiting Spatiality in Video Art" *- Exhibition Catalogue published by Media Art Asia Pacific, 2015, pp. 22 - 23*
+    - Chong, Jaeho - "An Architecture of Gaze" - Space, *Monthly architecture magazine, Issue 566, January 2015, pp. 116 - 118*
+    - Heine, Stefanie - "Breathing Machines: Inspiration and Interdependence in Contemporary Art Installations" - Die Kunst der Rezeption, *published by Aisthesis Verlag Bielefeld, 2015, pp. 72 - 85*
+  0: '"isHidden":{"<ul><li>Maerkle,&nbsp;Andrew&nbsp;-&nbsp;\":"&nbsp;-&nbsp;<em>Kimsooja:&nbsp;Interviews<\/em><\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018,&nbsp;pp&nbsp;141&nbsp;-&nbsp;149<\/em><\/li><\/ul>"Kimsooja\"id"}'
+  1: type":"list
+  2: "content":false
+  3: 'text":"<ul><li>Emma,&nbsp;Lavigne&nbsp;(Cur.),&nbsp;Emmanuelle,&nbsp;de&nbsp;Montgazon&nbsp;(Cur.)&nbsp;-&nbsp;\'
+- 
+  year: "2014"
+  description: |
+    - Quinlivan, Davina - "The Place of Breath in Cinema" *- published by Edinburgh University Press pp. 15 - 17, 25*
+    - Lee, Jun-kwang - "Celadon: Colored by Nature" - Leeum 10th Anniversary Exhibition: Beyond and Between, *Exhibition catalogue, published by Leeum, Samsung Museum of Art, 2014, pp. 30 - 35*
+    - Karaim, Reed - "Mariposa Land Port of Entry" - Architect: The Magazine of the American Institute of Architects, *Monthly architecture magazine, October 2014, pp. 160 - 169*
+    - Bui, Phong - "Experiments with Truth: Gandhi and Images of Nonviolence" - The Brooklyn Rail, *Monthly art magazine, November 2014, p. 53*
+    - "Busan Biennale 2014 Main Exhibition: Inhabiting the World" - Curated by Sou Hyeun Kim, *Exhibition catalogue, published by Busan Biennale Organizing Committee, Yeonje-Gu, Busan, 2014, pp. 76-77*
+    - "Water Light from Gangjeong" - Curated by Okreal Kim, *Exhibition catalogue, published by Dalseong Cultural Foundation, 2014, pp. 8, 34-37, 106*
+    - Lee, Kenshu - "Voyage to Biennale: 50 Years of Korean Contemporary Art in Overseas Biennales" - Curated by Ken Shu Lee, *Exhibition catalogue, published by Busan Biennale Organizing Committee, Yeonje-Gu, Busan, 2014, pp. 48-53*
+    - Helenstein, Josef and Joseph N. Newland - "Experiments with Truth: Gandhi and Images of Nonviolence" - The Menil Collection, Houston, *Exhibition catalogue, published by The Menil Collection, Houston. Distributed by Yale University Press, New Haven and London, 2014, pp. 233-235*
+    - "Nalens Oye: Samtidsbroderi - The Needle's Eye: Contemporary Embroidery" - Curated by Frode Sandvik, Anne Britt Ylvisaker, Anne Kjellberg, and Knut Astrup Bull, *Exhibition catalogue, published by Nasjonalmuseet for kunst, arkitekur og design and Kunstmuseenie i Bergen, 2014, p. 80*
+    - Quattrone, Raffaele - "In Itinere: Arte Contemporanea in Transformazione" *- Published by EQUIPéCO, pp. 40, 122-123*
+    - Bisseling, Isabel, Dennis Bouma, Femke Hogendijk, Eveline Holsappel, Marie Stel, and Mirjam Westen - "Catalogus Threads Tentoonstelling" *- Exhibition catalogue, published by Museum Arnhem, 2014, pp. 38-39*
+    - Romanow, Joanna Kleinberg - "Drawing Papers 188: Thread Lines" - Curated by Joanna Klienberg Romanow, *Exhibition catalogue, published by Edward Hallam Tuck Publication Program, 2014, pp. 21, pl. 14*
+    - "The Unanswered Question. ikele2" - Curated by Rene Block, *exhibition catalogue, published by TANAS in 2014*
+    - Babias, Marius, and Rene Block - "The Unanswered Question. Iskele2" *- exhibition catalogue, published by N.B.K., 2014, p. 210*
+    - Jetzer, Gianni, and Chris Sharp - "Le Mouvement Performing the City: 12th Swiss Sculpture Exhibition ESS-SPA Biel/Bienne" *- exhibition catalogue, published by DISTANZ Verlag, 2014, pp. 258-259*
+    - Blood, Peggy and Lee Ransaw - "Below the Surface: Ethnic Echoes in America's Modern and Contemporary Art" *- published by Kendall Hunt Publishing, August 2014, pp. 21 - 30*
+    - Jacob, Mary Jane, David Morgan, Diana Augaitis, and Kimsooja - "Kimsooja: Unfolding" *- exhibition catalogue, published by Hatje Cantz, February 2014*
+    - Laurence, Robin - "Kimsooja" - Border Crossing, *Art Magazine, 2014, pp. 92 - 93*
+  0: '"<\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Silvana&nbsp;Editoriale,&nbsp;2019,&nbsp;pp.&nbsp;15-19<\/em><\/li><\/ul>":{"cc91da5c-8e7f-4844-9f48-283ef55ab7b3":"isHidden"Quand&nbsp;l\u00f5art&nbsp;fluide&nbsp;de&nbsp;Kimsooja&nbsp;traverse&nbsp;Poitiers\"type"}'
+  1: >
+    id":"ae92fad2-8473-40fc-8676-0d42c238b775
+  2: "isHidden":false
+  3: type":"list
+- 
+  year: "2013"
+  description: |
+    - Kim, Seungduk - "Centripetal Acceleration" - Kimsooja, To Breathe: Bottari, *Exhibition Catalogue published by Les Presses Du Reel in association with the Korean Pavilion at the 55th Venice Biennale, 2013*
+    - Gautherot, Franck - "A Place to Be—A Conversation with Kimsooja" - Kimsooja, To Breathe: Bottari, *Exhibition Catalogue published by Les Presses Du Reel in association with the Korean Pavilion at the 55th Venice Biennale, 2013*
+    - Suh, Young-Hee - "Contemplating a System of Horizontals and Verticals" - KIMSOOJA Unfolding, *Exhibition Catalogue published by Hatje Cantz Verlag in association with Vancouver Art Gallery, 2013*
+    - Wendt, Selene - "Sewing into Life" - KIMSOOJA Unfolding, *Exhibition Catalogue published by Hatje Cantz Verlag in association with Vancouver Art Gallery, 2013*
+    - "Kimsooja: Ways of Being, a conversation between Daina Augaitis and Kimsooja" - KIMSOOJA Unfolding, *Exhibition Catalogue published by Hatje Cantz Verlag in association with Vancouver Art Gallery, 2013*
+    - Morgan, David - "Kimsooja and the Art of Place" - KIMSOOJA Unfolding, *Exhibition Catalogue published by Hatje Cantz Verlag in association with Vancouver Art Gallery, 2013*
+    - Jacob, Mary Jane - "Essential Empathy" - KIMSOOJA Unfolding, *Exhibition Catalogue published by Hatje Cantz Verlag in association with Vancouver Art Gallery, 2013*
+    - "Art Field: Viewable" - Art in Culture, *Monthly art and culture magazine, February 2013, pp. 182*
+    - "2013 Korean Pavilion Kimsooja To Breathe: Bottari" - Art in Asia, *Bimonthly art magazine, May/June 2013, pp. 38-54*
+    - Heartney, Eleanor - "A Needle Woman Connecting with the Universe" - Art in Asia, *Bimonthly art magazine, May/June 2013, pp. 55-57*
+    - Byoung-hak, Ryu - "To be Born, Love Suffer and Die: Kimsooja Interview by Ryu Byoung-hak" - Art in Asia, *Bimonthly art magazine, May/June 2013, pp. 58-61*
+    - Kim, Seungduk - "Like a Long Breath of Art: An Interview with Seungduk Kim" - Art in Asia, *Bimonthly art magazine, May/June 2013, pp. 62- 68*
+    - Simon, Amy - "The 55th Venice Biennale" - LOFT the Scandinavian Bookazine, *Quarterly magazine, Volume 2, 2013, pp. 29*
+    - Bodin, Claudia - "Die Welt in Venedig : Südkorea" - art das Kunstmagazin, *Monthly German Art Magazine, Published by Gruner + Jahr AG & Co KG, Hamburg, Germany, 2013, pp. 39*
+    - Ko, Hanae - "A Pavilion Transformed" - ArtAsiaPacific Almanac 2013, *ArtAsiaPacific Publishing LLC, New York 2013, Issue No. 83. pp. 94-99*
+    - "Special Feature - The Korean Pavilion - Kimsooja - To Breathe: Bottari" - Wolganmisool Inc., *Monthly Art Magazine, July 2013, pp. 88-91*
+    - Ebony, David - "KIMSOOJA - Works and Process" - The Brooklyn Rail, *Monthly Art Magazine, November 2013*
+    - "News Brief: Kimsooja Retrospective" - Asian Art News, *Bimonthly art magazine, Volume 23 Number 6, November/December 2013, pp. 32*
+    - Pini, Francesca - "Nelle Segrete Stanze dei Padiglioni" - Sette, *Weekly magazine, 2013, p. 44*
+    - Ko, Hanae - "Kimsooja: A Pavilion Transformed" - ArtAsiaPacific Almanac 2013, *Bi-monthly art magazine, Issue 83, May - June 2013, p. 95*
+    - Kim, Jae-seok - "Preview: 55th La Biennale Di Venezia" - Art in Asia, *Monthly art magazine, Published by ArtMediaArt, Seoul, 2013, with Support of Arts Council Korea, 2013, pp. 29-37*
+    - "2013 Korean Pavilion Kimsooja To Breathe: Bottari" - Art in Asia, *Monthly art magazine, Published by ArtMediaArt Seoul, 2013, with Support of Arts Council Korea, 2013, pp. 38-68*
+    - "Korea: Bottari of Light, Covering the Whole Korean Pavilion" - Art in Asia, *Monthly art magazine, 2013, pp. 68-69*
+    - Fisher, Jennifer and Jim Drobnick - "Exhibition Review: 55th Venice Biennale" - Journal of Curatorial Studies, *Art magazine, Volume 3 Issue 1 February 2014, pp. 131-132*
+    - Chinnery, Colin - "Chine Japon Corée - Le conte de trois avant-gardes" - Art Now, *Ongoing catalog of contemporary art, Published by Taschen, Germany, 2013, pp. 506-511*
+    - Seo, Jung-im - "Interview II: Seungduk Kim&Kimsooja. Korean Pavilion at the Venice Bienniale as a bottari" - Article, *Monthly journal of contemporary art, Issue 19, 2013, pp.156-157*
+    - "Kimsooja" - 2013 California-Pacific Triennial - curated by Dan Cameron, *DelMonico Books, Published by Prestel Publishing, 2013, pp. 106-109*
+    - Moszynska, Anna - "Sitings - Public Sculpture" - Sculpture Now, *World of art series, Published by Thames & Hudson Ltd., London, 2013, pp. 200*
+    - "Viewable - Dongwook Kim The 55th Venice Biennale 2013" - Art in Culture, *Monthly art magazine, 2013, pp. 200*
+    - "Kimsooja" - Art in Asia, *Bi-monthly art magazine, Special Edition Issue 25, 2013. Published by ArtMediaArt, Seoul, 2013, with Support of Arts Council Korea, 2013, pp. 36-37*
+    - Mee-yoo, Kwon - "Kim Soo-ja to grace 2013 Venice Biennale" - Korea Times, *Korean newspaper, January 2013*
+    - Woo-young, Lee - "Cloth Artworks to Represent Korea at Venice Biennale" - Korea Herald, *Korean newspaper, January 2013*
+    - "Korea: Bottari of Light, Covering the Whole Korean Pavilion" - Art in Asia, *Bimonthly art magazine, July/August 2013, pp. 68 - 69*
+    - Caputo, Francesca - "To Breathe: Bottari. Un Caleidoscopi Spazio-Temporale" - Esporte, *Quarterly art magazine, July 2013, pp. 96 - 99*
+    - Lee, Sohl - "An Anomaly in the Palace of Self-Worlds" - Space Magazine, *Architecture magazine, August 2013.*
+    - Kee, Joan - "Contemporary Korean Art: Tansaekhwa and the Urgency of Method" *- Published by the University of Minnesota Press, 2013, pp. 32, 282 - 286*
+  0: '"content":{"list":"content"Avec&nbsp;Kimsooja,&nbsp;Poitiers&nbsp;se&nbsp;laisse&nbsp;traverser&nbsp;par&nbsp;l\u00f5art&nbsp;contemporain\"text"}'
+  1: 'text":"<ul><li>Agnes,&nbsp;Berecz&nbsp;(Ed.)&nbsp;-&nbsp;\'
+  2: '"<\/li><li><em>100&nbsp;Years&nbsp;100&nbsp;Artworks,&nbsp;A&nbsp;History&nbsp;of&nbsp;Modern&nbsp;and&nbsp;Contemporary&nbsp;Art&nbsp;published&nbsp;by&nbsp;Prestel,&nbsp;2019,&nbsp;p.172-173<\/em><\/li><\/ul>":false'
+  3: >
+    id":"b83fbb31-e0ec-48df-aacd-eb239416390a
+- 
+  year: "2012"
+  description: |
+    - Buffet, Laurent - "Discordances, debordements, interruptions: l'art de rompre les rythmes et d'enrayer les flux" - Art et ville Contemprarine: Rythmes et flux, *Published by Pub De L'Universite de St Etienne, 2013, pp. 32 - 36*
+    - Maiko, Hara - "Kimsooja" - Women In-Between: Asian Woman Artists 1984-2012, *Exhibition Catalogue, Published by Fukuoka Asian Art Museum, Japan, 2012, pp. 126-127*
+    - Hou, Hanru - "Zizhiqu (Autonomous Regions), Strategies of Self-made Spatial Production in the Age of Revolt, Insurgency and Occupation" - Zizhiqu, Autonomous Regions, *Exhibition Catalogue, Published by Guangzhou Times Museum, 2012, pp. 18-19, 136-137*
+    - Van Tomme, Niels - "Where Do We Migrate To?" - Where Do We Migrate To?, *Exhibition Catalogue, Published by The Center For Art, Design and Visual Culture, University of Maryland Baltimore County, 2012, pp. 18-19, 11-18*
+    - Malsch, Friedemann - "Korean Artists Today 101: Kimsooja" - Art in Asia, *Monthly art magazine, Published by ArtMediaArt, Seoul, 2012, with Support of Arts Council Korea, 2012, pp. 36-37*
+    - Quattrone, Raffaele - "Modernity and Art Field: What Will be After Society?" - Equipeco, *Quarterly Italian art magazine, Issue 33, 2012, pp. 30-35*
+    - Kim, Miki Wick - "Kimsooja" - Korean Contemporary Art, *Published by Prestel Publishing, 2012, pp. 106-109*
+    - Dalida, Maria Benfield - "Kimsooja, The Performance of Universality" - Art and Social Justice Education, Culture as Commons, *Published by Routledge, New York, 2012, pp. 12, 51, 62-64, 188*
+    - Quan, Enyong - "Cultural Identity in Korean Contemporary Installation Art" - China National Fine Arts, *Monthly Art Magazine, 2012, pp. 146-149*
+    - Jin, Whui-yeon - "Bespeaking History and Reality" - Coexisting Differences, Women Artists in Contemporary Korean Art, *Published by Arts Council Korea and Hollym International, USA, 2012, pp. 34-47*
+    - Mello, Laeticia - "The Pilgrimage of Our Own Existance" - Art Al limite, *Monthly Art Magazine, Published by Arte Al Limite, Chile, 2012, pp. 30-38*
+    - Meyer-Stoll, Christiane (Ed.) - "Kimsooja" - Parabol, the in transit issue, *Curated Art Magazine, Austria, 2012, pp. 30-33*
+    - Fabre, Alexia - "Parcours #5 De La Collection MAC/VAL" - Vivement Demain, *Published by MAC/VAL, France, 2012, pp. 74-75*
+    - Hamon, Christel (Ed.) - "Mixite, metissage et Confrontation, Loeuvre et le Monde" - Arts Plastiques, *Published by Centre National d'Enseignement a Distance, France, 2012, pp. 94-95*
+    - Lee, Sook Jin - "Life Woven by Breathe, Our Body is A Weaving Factory" - Joongang Sunday, *Weekly culture magazine, Sept 2, 2012, pp. 16-19*
+- 
+  year: "2011"
+  description: |
+    - Choi, YoonJung - "Kimsooja's , Sacred Ritual" *- Exhibition Catalogue published by Daegu Art Museum, Korea, 2011*
+    - Lee, JinKyung - "Nomadism: Elements of Nomadic Life and Art" *- Exhibition Catalogue published by Daegu Art Museum, Korea, 2011*
+    - Bak, SangHwan - "Cultural Memory, Cultural Archetype and Communication" *- Exhibition Catalogue published by Daegu Art Museum, Korea, 2011*
+    - Yang, HoeSeok - "Shamanism as an Archetype of East Asian Culture" *- Exhibition Catalogue published by Daegu Art Museum, Korea, 2011*
+    - Choi, YoonJung - "Interview with Kimsooja" *- Exhibition Catalogue published by Daegu Art Museum, Korea, 2011*
+    - Young, Hee Suh - "Kimsooja: Contemplation on top of the Horizontal and Vertical System"
+    - Bloemheuvel, Marente and van Kooten, Toos (curators) - "Wind Flower, Perceptions of Nature" - Published by Kroeller-Muller Museum, Germany, October 2011, *pp. 11*
+    - Clark, Robin (Ed.) and Davies, Hugh M (forward) - "Phenomenal: California Light, Space, Surface (catalogue for the exhibition)" - Published by University of California Press, Berkeley and Los Angeles, California, September 2011, *pp. 74*
+    - Robinne, Gregoire (Ed.) - "FIAC Aux Tuilleries" - Published by Editions Dilecta, Paris 2011, *pp. 34*
+    - Jourdain, Beatrice and Lambouche, Anne-Isabelle - "FIAC 2011 Grand Palais et Cour Carree du Louvre Catalogue" - Published by Reed Expositions, Paris, November 2011, *pp. 381*
+    - Nincs, Anne-Marie (Ed.) - "Wanting to See Lucidity Inward Views (catalogue for Le Mois de la Photo a Montreal 2011" - Published by Le Mois de la Photo a Montreal 2011, *pp. 28-33, 196, 209, 266, 278, 323*
+    - "Korea Media Art: Sixth Sense Massage (catalogue for the exhibition)" - Published by Nabi Press 2011, *pp. 174-193*
+    - "Investigations of a Dog" - Published by iefimerida.gr, August 24, 2011
+    - Pohl, John. 3-D Experience is Really Unreal - "The Gazette, Montreal. September 3, 2011"
+    - Carasin, Chiara (Ed.) - "Fondazione Bevilacqua La Masa 2002>2010" - Published by Comune di Venezia, Mousse Publishing, Italy 2011, *pp. 256, 257*
+    - Carasin, Chiara - "BLM from Project to Reality" - Foundazione Bevilacqua La Masa 2002>2010 Published by Comune di Venezia, Mousse Publishing, Italy 2011, *pp. 52, 53*
+    - Vettese, Angela - "Not A Place But A System - Foundazione Bevilacqua La Masa 2002>2010 " - Published by Comune di Venezia, Mousse Publishing, Italy 2011, *pp. 62,63*
+    - Kim, Youngna - "Needle Woman, Kimsooja, Korean Artists Today" - Published by Arts Council Korea, Korea, June 2011, *pp. 218-225*
+    - Perec, Georges - "Question that which has Forever Ceased to Amaze Us" - Published by Corraini Edizioni, Italy, May 2011, *Terre Vulnerabili A Growing Exhibition (catalogue for the exhibition)*
+    - Flay, Jennifer. Jourdain, Beatrice. Lamouche, Anne-Isabelle - "Grand Palais et Carree du Louvre FIAC 2011, Catalogue" - Published by Reed Expositions, Paris, November 2011
+    - Etgar, Raphie (Cur.), Ofir, Einat (Ed.), Westend - "Catalogue for the Exhibition at Museum on The Seam" - Published by Keter Press Enterprises, Jerusalem 2011, *pp. 132-137*
+    - Gruson, Luc (Dir.) - "La Collection d'art Contemporain" - Published by Montag, Paris, 2011, *Catalogue for the Exhibition, J'ai Deux Amours, at La Cite nationale de l'histoire de l'immigrationpp, pp. 76, 77*
+    - Golinski, Hans Gunter - "Spurensuche" -  Published by Kunstmuseum Bochum, 2011, *Buddhas Spur, Zeitgenossische Kunst aus AsienCatalogue for the exhibition at Kunstmuseum Bochum, pp. 15, 100-103, 173*
+    - Baumstark, Brigitte - "Uberlegungen Zum Thema Kunst-Stoff, Catalogue for the exhibition at Stadtische Galerie Karlsruhe" - Published by Stadtische Galerie Karlsruhe 2011, *pp. 42, 43*
+    - Yoon, Eui Hyang - "A Study on the Femininity and Cultural Identity in Kimsooja’s Works" *- MA Thesis for Dept of Fine Arts at Hongik University, Seoul, Korea, June 2011*
+  0: '"isHidden":{"<ul><li>Giovando,&nbsp;Chiara&nbsp;-&nbsp;\":"&nbsp;-&nbsp;<em>Kimsooja:&nbsp;Interviews<\/em><\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018,&nbsp;pp&nbsp;151&nbsp;-&nbsp;154<\/em><\/li><\/ul>"Mirror&nbsp;Image\"id"}'
+  1: type":"list
+  2: "content":false
+  3: 'text":"<ul><li>Rebecca,&nbsp;Morill&nbsp;(Ed.)&nbsp;&nbsp;-&nbsp;\'
+- 
+  year: "2010"
+  description: |
+    - Ahn Soyeon - "Contemplation on the Origin of Life" *- Monthly Art Magazine, February 2010*
+    - Kim, Sung-Won - "About Nothingness: being nothing and making nothing"
+    - Rubio, Oliva Maria - "Tierra - Agua - Fuego - Air/Earth - Water - Fire - Air" - Published by Nation Museum of Contemporary Art Korea and KAN Co., 2010, *pp. 8 - 13*
+    - Finessi, Beppe (editor) - "Inventario: Everything Is A Project" - Maurizio Corraini Srl, Milan 2010, *pp. 19*
+    - Kim, Youngna - "Construction and Deconstruction of the Myth: Four Contemporary Korean Woman Artists" - Yegyeong, Korea, March 2010, *20th Century Korean Art 2: A Period of Change and Challenge. pp. 268-271*
+    - Jacob, Mary Jane and Grabner Michelle - "The Studio Reader" - University of Chicago Press, USA 2010, *pp. 86, 87*
+    - Ryu, Byoung-hak - "Special Interview: Kimsooja" - aMart Publications, Art in Culture, February 2010, *pp. Cover, 30, 126-137*
+    - Ahn, Soyeon - "Artist Review: Kimsooja" - Wolganmisool Inc., Monthly Art Magazine, February 2010, *pp. 26, 28, 96-105*
+    - Tae-woo, Hur - "Co-existing: Kimsooja" - Asiana Airlines, Korea, Asiana CultureStyleView, February 2010, *pp. cover, 1-3*
+    - Hegyi, Lorand - "Isole mai trovate (Islands Never Found)" - Silvana Editoriale, Italy 2010, *pp. 92, 93*
+    - Auther, Elissa - "String, Felt, Thread: The Hierarchy of Art and Craft in American Art" - University of Minnesota 2010, *Conclusion, Fiber, Craft, and Contemporary Art, pp. 163, 166, 169, 172*
+    - Havilah, Lisa - "Edge of Elsewhere" - Campbelltown Arts Centre, Australia, January 2010, *pp. 125-131, 139*
+    - Kim, Kyung - "Harper's Bazaar Talk" - The Hearst Company, NY, USA, February 2010, *Harper's Bazaar, pp. 139-141*
+    - Toyoda, Keiko - "Art Tells the Times: Works by Women Artists" - Shiseido Gallery, Japan 2010, *pp. 13, 14*
+    - Lee, Joon; Kim, Bong-ryol; Ahn, Sang-soo; Yim, Seock-jae; Choi, Joon-sik; Lee, Dae-hyung; Rajchman, John - "Yeobaek (Korean Beauty)" - Korean Culture and Information Service, Korea, October 2010, *pp. 36, 37, 245*
+    - Yoonjo, Kam (chief curator) - "Rainbow Asia: Pearl of the World, East Asia Art Exhibtion" - Seoul Arts Center, Korea, November 2010, *pp. 94-97*
+    - Coppard, Abbie (editor) - "GSK Contemporary Aware Arts Fashion Identity" - Damiani Editore, Bologna, Italy, November 2010, *pp. 94-97*
+    - Park, Hye-Jun - "L'Art Conceptuel En Coree Du Sud D'Aujourd'hui" - Universite Paris-Sorbonne, Paris 2010, *pp. 4*
+  0: |
+    "<\/li><li><em>Great&nbsp;Women&nbsp;Artists&nbsp;published&nbsp;by&nbsp;Phaidon,&nbsp;2019,&nbsp;p.&nbsp;216<\/em><\/li><\/ul>":{"6e78e4c0-dfc3-4237-8939-3143af197b98":"isHidden"Transforming&nbsp;a&nbsp;city's&nbsp;memories\"type"}
+  1: >
+    id":"add84bac-f3b4-4cab-8a3c-22eee9f8e859
+  2: "isHidden":false
+  3: type":"list
+- 
+  year: "2009"
+  description: |
+    - Brochard, Ingrid (ed.). - "A House Is Not A Home, catalogue for the exhibition" - Published by Editions Be Contemporary, Paris, 2009, *pp. 62, 63.*
+    - Ahmady, Leeza - "Art Asia, International Asian Contemporary Art, Truly Truthful Exhibition" - Art Asia LLC, December 2009, *pp. 24, 25*
+    - Zacharopoulou, Katerina - "For The Things Missing" - Agra, Greece, 2009, *Era of Images, pp. 29-44*
+    - Wookee, Jhin - "Spreading Out the Bottari to Embrace the Whole World, Buddhism and Culture" - Korean Buddhism Promotion Foundation, Korea, 2009, *pp. 53-57*
+    - Molok, Nikolai - "Against Exclusion, 3 Moscow Biennale of Contemporary Art 2009" - The Moscow Biennale Art Foundation, 2009, *pp. 106, 107*
+    - Zelevansky, Lynn (article by Starkman, Christine) - "Your Bright Future: 12 Contemporary Artists From Korea" - MOFAH and Yale University Press, New Haven, CT, USA, 2009, *Longing for Places Everywhere, pp. 10, 41, 42, 51-55, 122-129*
+    - Ditner, Judy - "Dress Codes, The Third ICP Triennial of Photography and Video" - ICP, New York, USA, 2009, *pp. 92-95*
+    - Burke, Gregory - "Universal Code, Art and Cosmology in the Information Age" - The Power Plant, Toronto, 2009, *pp. 22, 110, 111, 128*
+    - Hegyi, Lorand (curator) - "Essential Experiences" - RISO, Museo d'art Contemporanea, Electa, Italy, 2009, *pp. 26-29, 118, 119*
+    - Lambron, Marc - "A House is Not a Home" - KD Presse, Paris, 2009, *pp. 33, 62, 63*
+    - Guzman, Kristine - "Mi Vida: From Heaven To Hell. Life Experiences in Art From MUSAC Collection" - Mucsarnok/MUSAC, Budapest, 2009, *pp. 11, 78-81*
+    - Sollins, Susan - "Art 21: Art in the Twenty-First Century (Television series companying book)" - Studley Press, MA, USA, October 2009, *pp. 11, 132-145*
+    - Hideki, Nakamura - "The 4th Fukuoka Asian Art Triennale 2009 (Exhibition Catalogue)" - Fukuoka Asian Art Museum, Japan, September 2009, *pp. 36, 37, 139, 140, 176*
+    - Durand - Labayle, Valerie - "Parcours 3, 2009-2010 Je Reviendrai (Exhibition Catalogue)" - MAC/VAL, France, March 2009, *pp. 8, 12, 156-159*
+    - Ferrando, Laura - "5a Bienal Internacional de Arte Textil (Exhibition Catalogue)" - Buenos Aires, April 2009, *pp. 30, 31*
+    - Weir, Kathryn - "The View From Elsewhere (Exhibition Catalogue)" - Sherman Contemporary Art Foundation, March 2009, *pp. 12, 13, 26, 86*
+    - Hegyi, Lorand - "Fragile Fields of Empathy (Exhibition Catalogue)" - Skira, Italy, May 2009, *pp. 84*
+    - Vinken, Barbara - "Das Untragbare Kleid" - Kunstforum International, Germany, June-July 2009, *pp. 281*
+    - Malsch, Friedemann - "Dynamic Eye 101 Faces of Korean Art Today, Art in Asia" - ArtMediaArt Inc., Korea, July-August 2009, *pp. 49*
+    - Vervoordt, Axel (editor) - "In-Finitum" - Verevoordt Foundation, in assoc. with MER, Paper Kunsthalle, Ghent, 2009, *pp. 69, 94*
+    - Kim, Sae-Mi - "Special Feature, Top 100 Asian Artists" - Art in Asia, *Published by ArtMediaArt Inc, The Republic of Korea 2009. pp 44*
+    - Masters, H. G. & Ng, Elaine W. - "Five Artists for 2008" - ArtAsiaPacific Almanac 2009, *ArtAsiaPacific Publishing LLC, New York 2009, pp 89, 95, 118, 120, 156*
+    - Bourgeois, Caroline - "Un Certain Etat Du Monde?" - A Selection of Works From The Francois Pinault Foundation, *Published in Milan: Skira Editore 2009, pp. 114-115*
+    - Larsen, Lars Bang - "11th Cairo Biennale & PhotoCairo4" - Frieze, *Published in England: Frieze Publishing Ltd. April 2009, pp. 111*
+  0: '"content":{"list":"content"H&nbsp;-&nbsp;Habseliges&nbsp;Staunen,&nbsp;Kimsooja\"text"}'
+  1: 'text":"<ul><li>Val\u017erie,&nbsp;Duponchelle&nbsp;-&nbsp;\'
+  2: '"<\/li><li><em>Le&nbsp;Figaro,&nbsp;December&nbsp;25,&nbsp;2019,&nbsp;p.&nbsp;22<\/em><\/li><\/ul>":false'
+  3: >
+    id":"f993e8c5-3113-4e82-9c29-353ec95780b9
+- 
+  year: "2008"
+  description: |
+    - Becker, Carol - "Walking, Standing, Sitting Like a Duck: Three Instances of Invasive, Reparative Behavior" - Congregation, *Published by Routledge, September 2008, Volume 13. No. 3,  pp. 139-145*
+    - Jacob, Mary Jane - Knockin' on Heaven’s Door, Kunstmuseum Liechtenstein, *Published by Autoren and Kunstmuseum, Liechtenstein 2008, pp. 21 & 23*
+    - Verhagen, Marcus - "Slow Time" - Art Monthly, *Published by Britannia Art Publications Ltd, London, July-August 2008, pp.9-12*
+    - Vervoordt, Axel - "Academia, Qui es-tu?" - MER Paper Kunsthalle, *Published by Axel Vervoordt in association with MER Paper Kunsthalle, Ghent 2008, plates 92, 93. & page 88*
+    - Herkenhoff, Paulo - "Kimsooja, A Needle Woman in Rio de Janeiro: History of the eye" - Atlas Américas, *Published by Contracapa, Rio de Janeiro 2008, pp.73-78 & 130-132*
+    - Yee, Lydia - "Two-way Street, Performance" - Street Art Street Life, From the 1950s to Now, *Published by Aperture Foundation, New York, 2008, pp. 76, 77, 108*
+    - Beccaria, Marcella - "Kimsooja" - The Castle The Collection, *Published by Skira Editore 2008, pp. 310, 311*
+    - Goodman, Jonathan - "Asian Dub Photography" - Archivio Art Fondazione, *Published by Skira Editore, Italy 2008, pp. 76-81 & 208-210*
+    - "Year of the Asian Biennales, Gwangju Biennale 2008" - Wolganmisool Magazine, *Wolganmisool Publishing. October 2008, pp. 118-119 & 140-141*
+    - Lee, Joon - "Void in Korea" - Art in Asia, *Published by AMart Inc, Republic of Korea. January/February 2008*
+    - Becker, Carol - "Walking, Standing, Sitting Like a Duck" - Congregation, Performance Research, *Published by Routledge Journals, Taylor & Francis Ltd. September 2008, pp. 142-143*
+    - Shin, Misa - "Chapter II The Working Method of the Art World" - The Art Industry, In Search of the Ultimate Commodity, *Bigaku Shuppan, Tokyo 2008, pp. 23-34*
+    - "Micro-Narratives- Temptation of Small Realities" - Catalogue for the exhibition at the Musee d'Art Moderne, *Published in Milan: Skira Editore 2008, pp. 114-115*
+    - Heartney, Eleanor - Art & Today, *Published in London: Phaidon. 2008, pp. 314-319*
+    - Genocchio, Benjamin - "A Walk on the Wild Side, And Then Some" - The New York Times, *New York, February 10, 2008*
+    - Ludwig, Traci Dutton - "Art and the mirrored self" - The Scarsdale Inquirer, *New York, February 8, 2008, pp. 17-18*
+    - Michael, Douglas - "Neuberger exhibit explores modern city life" - The Record-Review, *New York, February 1, 2008, pp. 19*
+    - Gouveia, Georgette - "The Moment becomes Art" - The Journal News, *New York, January 20, 2008, pp. 1E, 6E*
+    - Gouveia, Georgette - "People-watching as art form" - The Journal News, *New York, February 21, 2008, pp. 1D-2D*
+    - "Self / Other" - Catalogue for the exhibition at the National Museum of Modern Art, Tokyo, *Published in Tokyo: National Museum of Modern Art, 2008, pp. 44-45*
+    - Sand, Olivia - Re-Imagining Asia: A Thousand Years of Separation, *Published in London: Saqi. 2008, pp.230-233*
+    - Jacob, M.J. - "Kimsooja" - Erranti / Wanderers: nella videoarte contemporarea / in contemporary video art, *Catalogue for the exhibition at the Magazzini del Sale, published in Milan: Silvana Editoriale Spa, 2008, pp. 120-125*
+    - Morgan, Robert C - "Survey" - Tema Celeste, *Volume 125 January – February 2008, p.28*
+    - Lee, Kyu Hyon - "Unforgettable Artist Unforgettable Building" - Chosun Daily News, Culture, *Seoul, January 15, 2008*
+  0: '"isHidden":{"<ul><li>Gautherot,&nbsp;Franck&nbsp;-&nbsp;\":"&nbsp;-&nbsp;<em>Kimsooja:&nbsp;Interviews<\/em><\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018,&nbsp;pp&nbsp;156&nbsp;-&nbsp;164<\/em><\/li><\/ul>","id":"9ab42ea9-cddb-4889-b95b-58c26fbc280e"}'
+  1: type":"list
+  2: "content":false
+  3: 'text":"<ul><li>Emmanuelle,&nbsp;Lequeux&nbsp;-&nbsp;\'
+- 
+  year: "2007"
+  description: |
+    - Chadwick, Whitney - "Worlds Together, Worlds Apart" - Women, Art, and Society, Fourth Edition, *Published in London: Thames & Hudson Ltd. 2007, pp. 462-463, 485-486 and cover*
+    - Pollack, Barbara - "Kimsooja: Wrapping the World" - Art News, *February 2007, pp.120-123*
+    - Smith, Roberta - "Blurring Time and Place in Venice" - The New York Times, *New York, August 15, 2007, pp.E1 & E5*
+    - Godfrey, Mark - "Out of the Past" - ArtForum, *September 2007, pp.398-401*
+    - Morgan, Robert C - "Artempo: Where Time Becomes Art" - The Brooklyn Rail, *New York, July / August 2007, p.29*
+    - Reindl, Uta M - "Kimsooja Mumbai A Laundry Field" - Kunstforum International, *Berlin, June-July 2007*
+    - Vervoordt, Axel & Mattijs Visser - "Artempo: Where Time Becomes Art" - Catalogue for the exhibition at Palazzo Fortuny, *published in Ghent: Axel Vervoordt in association with Mer. Paper Kunsthalle. 2007*
+    - Kee, Joan - "What is Feminist About Contemporary Asian Women’s Art?" - GlobalFeminisms, New Directions in Contemporary Art, *Catalogue for the exhibition at the Brooklyn Museum published in New York; Merrell 2007, pp.113-114*
+    - Morgan, Robert - Art Into Ideas, *published in Korea: JRM 2007, p.244 and cover*
+    - Bourgeois, Caroline - "Kimsooja" - Passage Du Temps Collection Francois Pinault Foundation, *Catalogue for the exhibition at Tri Postal. Published in Milan: Skira Editore 2007, pp.136-137*
+    - Szeeman, Harald - "Kimsooja" - Scenes and Sequences, *Catalogue for the exhibition at Aargauer Kunsthaus Aarau published in Aarau: Künster und Autoren 2007, pp.118-121*
+    - Meyer-Stoll, Christiane - "Kimsooja" - Auszeit, Kunst und Nachhaltigkeit, *Catalogue for the exhibition at Kunstmuseum Liechtenstein published in Germany: Verlag für moderne Kunst Nürnberg 2007, pp.154-159*
+    - Vozmediano, Elena - "Kimsooja Vision fugaz" - El Cultural, *Madrid, May 17, 2007, p.35*
+    - Drobnick, Jim - "Kimsooja: Electric Chants" - Listening Awry, *Catalogue for the exhibition at McMaster Museum of Art, published in Hamilton: McMaster Museum of Art, 2007, pp.15-20*
+    - Dewan, Deepali - "Post Object: Reconsidering the Object in Contemporary Art Practice" - Post Object, *Catalogue for the exhibition at the Doris McCarthy Gallery, published in Toronto: Doris McCarthy Gallery, University of Toronto Scarborough 2007, pp14-16,18*
+    - Hoegsberg, Milena - "Kimsoooja" - Manifesting Emptiness, *Catalogue from the exhibition at The School of the Art Institute of Chicago published in Chicago: SAIC 2007, p.7*
+    - Chantala, Francois - "The Origins of the collection: Kimsooja, Alighiero Boetti, Beitriz Milhazes" - Monsoon Art Collection, *Catalogue published in London: Monsoon Collection 2007, p.22*
+    - "Kimsooja" - Tina B, *Catalogue from the Prague Contemporary Art Festival published in Prague: Vernon Fine Art Int. spol. s.r.o. 2007, pp.34-35*
+    - Adolphs, Volker - "Passages and Places – The City" - Going Staying, *Catalogue from the exhibition at Kuntmuseum Bonn published in Bonn: Herausgegben vom 2007, pp.106-111*
+    - Busto, Andrea - Il Velo, *Catalogue published in Milan: Silvana Editoriale Spa 2007, p.151*
+    - Smith, Trevor - "Kimsooja: Sewing Into Walking Kyungju" - CIGE 2007 – Special Exhibition, *Catalogue for the exhibition Memories on E-Motion, publishedin Beijing: Wang Yihan 2007, pp.4-16*
+    - Hallmark, Kara Kelley - "Kimsooja" - Encyclopedia of Asian American Artists, *published in Westport, CT: Greenwood Press. 2007, pp.205-208*
+    - Drobnick, Jim - "Kimsooja" - Equatorial Rhythms, *Catalogue for the exhibition atThe Stenersen Museum published in Oslo: Du store verden! 2007, pp.50-55*
+    - San Perdro, Abraham - "Kimsooja el viaje interior (global)" - Belio, *Volume 24. pp.45-50*
+    - Lee Joon - Void in Korean Art, *Catalogue from the exhibition at the Leeum Museumpublished in Korea: Leeum 2007, pp.59-60*
+    - Guenin, Hélene - "Kimsooja" - A L’Horizon De Shangri-La, *Catalogue for theexhibition at Frac Lorraine published in Lorraine: Frac Lorraine 2007, pp.28-31*
+    - Giovannotti, Micaela - "Witnessing The Moment" - The Prague Contemporary Art Festival, *Catalogue published in Prague :Tina B 2007, pp.34-35*
+    - Kölbl, Alois - "Crossing Cultures: Gestures of Infinity" - Globus, *March 2007, p.3*
+    - Smith, Trevor - "Where I Work Kimsooja" - Art Asia Pacific, *September – October 2007, p.188*
+    - Scheuermann - "Von Barbara, Die Wäscher von Mumbai" - Kölner Stadt-Anzeiger, *August 2 2007*
+    - Vergine, Lea - "When Trash Becomes Art" - Skira Editorie, *Published in Milan: Skira Editorie S.p.A. 2007, p.9*
+  0: '"<\/li><li><em>Le&nbsp;Monde,&nbsp;December&nbsp;24,&nbsp;2019<\/em><\/li><\/ul>":{"isHidden":"type"The&nbsp;Street.&nbsp;Where&nbsp;the&nbsp;World&nbsp;is&nbsp;Made\"list"}'
+  1: >
+    id":"d3fd4a56-93ba-4894-9ee6-15bc92aa1f72
+  2: "isHidden":false
+  3: type":"list
+- 
+  year: "2006"
+  description: |
+    - Von Drathen, Doris - "Concrete Metaphysics" - Kimsooja, *Catalogue from the SoloExhibition at Magasin 3 Stockholm Konsthall, Stockholm, published inStockholm: Magasin 3 Stockholm Konsthall, 2006, pp.31-41*
+    - Praun, Tessa - "South Korea vs. New York – Living with Two Cultures" - Kimsooja, *Catalogue from the Solo Exhibition at Magasin 3 Stockholm Konsthall,Sweden, published in Stockholm: Magasin 3 Stockholm Konsthall, 2006, pp.13-22*
+    - Rubio, Oliva María - "Kimsooja: Less is More" - Kimsooja To Breathe-A Mirror Woman, *Catalogue from the Exhibition at the Palacio de Cristal, Parquedel Retiro, Madrid, published in Madrid: Museo Nacional Centro de ArteReina Sofía, 2006*
+    - Vettese, Angela - "To Breathe" - Kimsooja, To Breathe, *Catalogue from theExhibition at the La Fenice Opera Theater and Bevilacqua La Masa Foundation, Venice, published in Milian: Carta, 2006, pp.24-29*
+    - Pasini, Francesca - "Making Space" - Kimsooja, To Breathe, *Catalogue from theExhibition at the La Fenice Opera Theater and Bevilacqua La MasaFoundation, Venice, published in Milian: Carta, 2006, pp.30-43*
+    - Heartney, Eleanor - "Living in the Present, Connecting with the Universe" - Kimsooja, To Breathe, *Kimsooja, Catalogue from the Exhibition at the LaFenice Opera Theater and Bevilacqua La Masa Foundation, Venice,Milian: Carta, 2006, pp.46-55*
+    - Morgam, David - "The Discipline of Looking" - Kimsooja, To Breathe, *Catalogue from the Exhibition at the La Fenice Opera Theater and Bevilacqua LaMasa Foundation, Venice, published in Milian: Carta, 2006, pp.56-69*
+    - Bourriaud, Nocolas - "Interview" - Kimsooja, To Breathe, *Catalogue from theExhibition at the La Fenice Opera Theater and Bevilacqua La MasaFoundation, Venice, published in Milian: Carta, 2006, pp.70-79*
+    - Szeemann, Harald - "Excerpt" - Kimsooja, To Breathe, *Catalogue from the Exhibition at the La Fenice Opera Theater and Bevilacqua La MasaFoundation, Venice, published in Milian: Carta, 2006, pp.80-84*
+    - Matt, Gerald - "Interview" - Kimsooja, To Breathe, *Catalogue from the Exhibition atthe La Fenice Opera Theater and Bevilacqua La Masa Foundation,Venice, published in Milian: Carta, 2006, pp.84-111*
+    - Goodman, Jonathan - "Conditions of Anonymity" - Kimsooja, To Breathe, *Catalogue from the Exhibition at the La Fenice Opera Theater and Bevilacqua La Masa Foundation, Venice, published in Milian: Carta, 2006, pp.112-131*
+    - Nakamura, Keiji - "Kimsooja’s A Needle Woman" - Kimsooja, To Breathe, *Catalogue from the Exhibition at the La Fenice Opera Theater and Bevilacqua La Masa Foundation, Venice, published in Milian: Carta, 2006, pp.132-139*
+    - Kapš, Petra - "A One-Word Name is an Anarchist’s Name" - Likove Besede, *Summer 2006, pp.75-76*
+    - Rubio, Oliva Maria - "Kimsooja" - ArteContexto, *Volume Number 11, July 2006, pp.62-73*
+    - Sand, Olivia - "Kimsooja" - Asian Art Newspaper, *May 2006, pp.2-6*
+    - Brown, Elizabeth - "Wow the Work of the Artist and the Art of the Work" - Curator, *Volume 49 Number 3 July 2006, pp.287-294*
+    - Morgan, David - "Kimsooja and the Discipline of Looking" - Curator, *Volume 49 Number 3 July 2006, pp.295-300*
+    - Pasini, Francesca - "Kimsooja" - Tema Celeste, *Volume Number 116 July-August 2006, pp. 50-55*
+    - de Cecco, Emanuela - "Documenta 12 Magazine Project" - N. Paradoxa, *Volume 17 2006, pp.55-56*
+    - Barrero, Manuela - "Kimsooja" - Exit Express, *Summer 2006, p.20*
+    - De La Villa, Rocío - "Kimsooja A Través Del Espejo" - Culturas Madrid, *7 June 2006. p.21*
+    - Bomanowska, Marzena - "Wdech I Wydech" - Art Eon, *June 2006, p.39*
+    - Serraller, F. Calvo - "Hatillo de Luces" - El Pais Madrid, *27 May 2006, p.27*
+    - Díaz-Guardiola, Javier - "Kimsooja: El Espejo Es Un Tejido Que Refleja Encuentros" - Artes Y Las Letras Madrid, *May 2006, pp.32-35*
+    - Kim, Airyung - "Les Artistes Coréens en France" - Culture Coreenne, *April 2006, pp.6-9*
+    - Hontoria, Javier - "Kimsooja, Siempre he Interpretado el Arte Como un Espejo" - El Cultural Madrid, *27 April 2006, pp.38-39*
+    - Cr. pp., Antonella - "Una Donna tutta Sola" - Flair, *March 2006, p.302*
+    - Larson, Kay - "Keeping the Faith" - Art News, *February 2006, pp.98-99*
+    - Rosenburg, Randy Jane - "The Missing Peace" - Earth Aware, *Published in San Rafael CA, 2006, pp.44-45*
+    - Debailleux, Henri-Francois - "Leur ville la nuit" - Liberatio, *Published in Paris. 7-8 October2006, pp.2-3*
+    - Gerald, Matt - "Interviews" - Kunsthalle wein, *Published in Köln: Verlang derBuchhandlung Walther König 2006, pp.160-171*
+    - Park, Sukie - "Joong ang" - Daily News, *New York. 3 November 2006, p.A-14*
+    - Park, Sukie - Korea Daily New York, *3 November 2006, p.A-20*
+    - "A Laundry Woman" - Beurs Schouwburg, *Catalogue for 2006-2007 Buersschouwburg, published in Brussels: Beurs Schouwburg 2006, pp.90-91*
+    - Schmidt, Jason - Artists, *published in Paris: Edition 7L 2006, pp. 103*
+    - "Kimsooja" - New Mystics, *published in Spain: Gobierno de Canarias 2006, pp.28-33*
+    - Kimsooja - 2nd Architectural Biennial, *Bejing 2006. published in Hong Kong:A&J Int’, 2007, p.43*
+    - "Kimsooja" - Art Life and Confusion, *Catalogue for the October Salon, Belgrade, published in Belgrade: Belgrade Cultural Centre 2006, pp.106-107*
+  0: '"content":{"content":"text"Kimsooja:&nbsp;Interviews&nbsp;and&nbsp;Works\"<ul><li>Augaitis,&nbsp;Daina&nbsp;-&nbsp;\"}'
+  1: 'text":"<ul><li>Andy,&nbsp;Saint&nbsp;Louis&nbsp;&nbsp;-&nbsp;\'
+  2: '"<\/li><li><em>Wallpaper,&nbsp;November&nbsp;2019,&nbsp;pp.&nbsp;153&nbsp;-&nbsp;156<\/em><\/li><\/ul>":false'
+  3: >
+    id":"e0f2ad2d-2b9b-4ca0-b619-ca612e0ef871
+- 
+  year: "2005"
+  description: |
+    - Kimmelman, Michael - "Global Village Whose Bricks are Art" - The New York Times, *16 June 2005*
+    - Shimizu, Toru - "Kimsooja" - Art Circus (Jumping from the Ordinary), *Catalogue from the Yokohama 2005: International Triennale of Contemporary Art, published by: Yokohama: The Yokohama Triennale 2005, pp.102-103*
+    - Rugoff, Ralph - "Kimsooja" - Irreducible: Contemporary Short Form Video, *Published in San Francisco, CA: CCA Wattis Institute for Contemporary Arts 2005, p.12*
+    - Von Drathen, Doris - "Kimsooja: Im Gesprach mit Doris von Drathen" - Kunstforum Berlin, *Published in Germany: Arsnale-Themen 2005, pp.151-155*
+    - Contemporary Literature Since 1995, *Volume Number 602 February 2005, pp.224-256*
+    - Searle, Adrian - "Filth, Blasphemy and Big, Big Stars" - Guardian, *London 14 June 2005*
+    - Dunning, Jennifer - "Kimsooja" - The New York Times, *11 March 2005, p.E25*
+    - Gauville, Herve - "Kimsooja En Toute Ubiquite" - Liberation, *France, 13 June 2005*
+    - "Recent Projects" - Public Art Review, *Issue 32 Volume 16. Number 2, Spring-Summer 2005, p.67*
+    - Brown, Elizabeth A. - "Kimsooja" - WOW: The Work of the Work, *Catalogue from the exhibition at Henry Art Galley, University of Washington, Published in Seattle: The Henry Art Gallery Association 2005, pp.15-16*
+    - Vogel, Carol - "Times Square Serenity" - The New York Times 25 February 2005, p.E30
+    - Tae, Hyunsun - "The Needlework of Kim Soo-ja" - Leeum: Samsung Museum of Art Newsletter, *Spring 2005*
+    - Anderson, Jack - "Immobile in the Heart of Manhattan" - The New York Times, *14 March 2005*
+    - Gopalarathinam, Ranjani - "Beggar’s Banquet" - Time Out, *10-16 March, 2005, p.4*
+    - De Cecco, Emanuela - "Experiencing a Vacuum" - Kimsooja: Journey into the World, *Published in Athens: Hellenic Ministry of Culture National Museumof Contemporary Art 2005, pp.20-23*
+    - Goodman, Jonathan - "Conditions of Anonymity" - Kimsooja: Journey into the World, *Published in Athens: Hellenic Ministry of Culture National Museumof Contemporary Art 2005, pp.48-52*
+    - Morgan, Robert C. - "Kimsooja: A Lighthouse Woman, A Needle in the World" - Kimsooja: Journey into the World, *Published in Athens: Hellenic Ministry of Culture National Museum of Contemporary Art 2005, pp.64-65*
+  0: '"isHidden":{"&nbsp;-&nbsp;<em>Kimsooja:&nbsp;Interviews<\/em><\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018,&nbsp;pp&nbsp;166&nbsp;-&nbsp;180<\/em><\/li><\/ul>":"id"Sewing&nbsp;into&nbsp;Walking,&nbsp;an&nbsp;interview&nbsp;from&nbsp;1994\"45d02898-7424-41d5-a264-5ab6ef62dd0a"}'
+  1: type":"list
+  2: "content":false
+  3: 'text":"<ul><li>Moon,&nbsp;So-Young&nbsp;-&nbsp;\'
+- 
+  year: "2004"
+  description: |
+    - Fumagalli, Fiorella - "La via della seta stasera passa da corso Venezia" - La Repubblica Italy, *19 August 2004*
+    - Tortora, Francesco - "Quindici Giorno Per Scoprire Milano" - Corriere della Sera, *17 August 2004*
+    - Tanzarella, Mariella - "Il Pac, Festa Dei 50 Anni Con La Gente" - La Repubblica Italy, *13 August 2004*
+    - Spagnesi, Licia - "Kimsooja: Trame d’arte e Filosofia" - Arte, *July 2004*
+    - Masoero, Ada - "Sironi giganteggia, Caravaggio martirizza, Brera gallerizza" - Il Giornale dell’Arte, *July 2004*
+    - Corgnati, Martina - "Semi di Sooja" - Carnet, *July 2004*
+    - Gandini. Manuela - "Kimsooja: il mio corpo e come un ago nella folla" - La Stampa, *Italy, 25 June 2004*
+    - Santori, Flaminia Gennari - "Kimsooja: Transmec Group, Galleria Raffaella Cortese" *- December 2004*
+    - Colombo, Serena - "Kim Sooja Donna Ago - Interview" - New Age Milan, *June 2004*
+    - Del Drago, Elena - "Taglia e Cuci Sul Mondo" - Il Manifesto, *16 June 2004*
+    - Bono, Donatella - "Kim Sooja, l'Arte di Catalizzare Folle di Emozioni" - Il Giornale, *23 June 2004*
+    - Corgnati, Martina - "La Donna Ago" - La Repubblica, *Italy, 23 June 2004*
+    - Vettese, Angela - "Quell'irresistibile Voglia d'Oriente" - Il Sole 24 Ore Milan, *4 July 2004*
+    - Pasini, Francesca - "Registrare la Pelle del Mondo" - Linus, *August 2004*
+    - Matilsky, Barbara - "Kimsooja" - Five Artists, Five Faiths: Spirituality in Contemporary Art, *Published in Ackland OH: Ackland Art Museum, The University of North Carolina at Chapel Hill. 2004, pp.37-42*
+    - Princethal, Nancy - "Kimsooja at The Project" - Art in America, *April 2004, pp.126-127*
+    - Castelli, Stefano - "el’Artista si Fece Ago" - Exibitart.on paper, *pp.ofondimenti 27 2004*
+    - Behrens, Von Katja - "Erhaben wie der Monch am Meer/ Still, sichtbar gemacht: Kim Sooja im Dusseldorfer Museum Kunstpalast" - Kolner Stadtanzeiger, *24 February 2004*
+    - Vine, Richard - "Report From Madrid— Our Photos, Our Selves" - Art in America, *January 2004, pp.31-33*
+    - Michely, Viola - "Kim Sooja: ‘Conditions of Humanity’ Museum Kunst Palast, Dusseldorf." - Deutschland Ausstellungen: Kunstforum International, *May-June 2004*
+    - Martin, Jean Hubert - "Sguardi/Views: Kim Sooja and the Calm Strength" - Arnet Arte, *April-May 2004, pp.13-14*
+    - Heinz - "Kim Sooja ‘Conditions of Humanity’" - Ausstellungen/T, *Des Monats Germany March 2003, p.40*
+    - Drobnick, Jim - "Kim Sooja" - Aural Culture, *2004, pp.78-80*
+    - Goodman, Jonathan - "Conditions of Anonymity: The Performance Art of Kim Sooja" - Art Price, *May 2004, pp.80-83*
+  0: '"<\/li><li><em>Korea&nbsp;Joongang&nbsp;Daily,&nbsp;October&nbsp;23,&nbsp;2019,&nbsp;p.6<\/em><\/li><\/ul>":{"isHidden":"type"From&nbsp;Plane&nbsp;to&nbsp;Three&nbsp;Dimensions:&nbsp;A&nbsp;Bundle,&nbsp;an&nbsp;interview&nbsp;from&nbsp;1996\"list"}'
+  1: >
+    id":"2b48a68d-26d9-4726-b550-9a09f671dc6f
+  2: "isHidden":false
+  3: type":"list
+- 
+  year: "2003"
+  description: |
+    - Ahn, So Yeon - "Kimsooja" - Mind Space, *Published in Seoul: Samsung Museum of Modern Art 2003, pp.105-115*
+    - Yablonsky, Linda - "Kimsooja: Mandala: Zone of Zero" - Time Out, *27 November 2003*
+    - Tolstova, Anna - "The Big Six: the best video artists of the world in St.Petersburg" - Pulse, *November 2003*
+    - Brewinska, Maria - "Kim Sooja: Being and Sewing" - Kimsooja, *Catalogue for the solo show at The Zacheta Gallery of Art, Warsaw, Published in Warsaw:The Zacheta Gallery of Art 2003, pp.25-45*
+    - Szymczyk, Adam - "Kim Sooja: March 24, 2003" - Kimsooja, *Catalogue for exhibition at The Zacheta Gallery of Art, Warsaw, Published in Warsaw:The Zacheta Gallery of Art 2003, pp.51-59*
+    - Lequeux, Emmanuelle - "Kim Sooja: Les Fils du Temps" - Beaux Arts, *Number 227 April 2003, p. 37*
+    - Brown, Elizabeth - "In/With the World: Myself, Herself, and the Not-Yet Known" - Identity and Otherness, *Catalogue for the Exhibition:Photo Espana 2003, Madrid, 2003, pp.11-12 and 69-70*
+    - Mah, Sergio - "Kim Sooja" - Lisboa Photo 2003, *Published in Lisbon: Passagens 2003. pp.138-141.Kee, Joan. “Claim Check.” Tema Celeste Number 96 March-April 2003, pp.62-67*
+    - Ardenne, Paul - "Kim Sooja: Coudre des Corps dans le Tissu du Monde" - Art Press, *Number 286 2003, pp. cover and 27-31*
+    - Hoeps, Reinhard and Alois Kolbl, Eleonora Louis and Johannes Rauchenberger - "As Heavy as Heaven: Transformations of Gravity" - Exhibition, *Catalogue. Graz Zweitausenddrei. Graz, Austria. Illus.*
+    - Beyer, Melissa Brookhart and Jill Dawsey - "Walking in the City" - Exhibition pamphlet, *Apex art, New York, 2003*
+    - Goodman, Jonathan - "Conditions of Anonymity: the Performance Art of Kim Sooja" - Art in America, *Fall 2003, pp.58-60*
+    - Hoo-ran, Kim - "Artists Crossing Waters to Hawaii" - The Korea Herald, *1 October 2003*
+    - Kayal, Michele - "Korean Art Showcased in Honolulu Exhibition" - The New York Times, *28 September 2003*
+    - Vine, Richard - "Report From Valencia — City of Dreams" - Art in America, *October 2003, pp. 56-61*
+  0: '"content":{"content":"text"Wrapping&nbsp;Bodies&nbsp;and&nbsp;Souls,&nbsp;an&nbsp;interview&nbsp;from&nbsp;1997\"<ul><li>Loocke,&nbsp;Thomas&nbsp;Van&nbsp;-&nbsp;\"}'
+  1: 'text":"<ul><li>\'
+  2: '"<\/li><li><em>Kunstforum&nbsp;International&nbsp;Bd.&nbsp;259,&nbsp;March-April&nbsp;2019<\/em><\/li><\/ul>":false'
+  3: >
+    id":"907b4ee2-441e-45ca-80aa-e4fecbf73a8e
+- 
+  year: "2002"
+  description: |
+    - Baxley, Colette - "Keeping Lighthouse Lit a Technical Work of Art" - The Post and Courier, *4 June 2002*
+    - Matt, Gerald - "Kim Sooja im Gespräch mit Gerald Matt" - Kim Sooja: A Laundry Woman, *Catalogue for Solo Exhibition at Kunsthalle Wien, Published in Wein: Kunsthalle Wein 2002, pp.7-40*
+    - Morgan, Robert C. - "Die Fortdauer der Leere" - .” Kim Sooja: A Laundry Woman, *Catalogue for Solo Exhibition at Kunsthalle Wien, Published in Wein:Kunsthalle Wein 2002, pp.40-47*
+    - Rinder, Lawrens - "Kimsooja" - Whitney Biennale 2002 Catalogue for the Whitney Biennale, Whitney Museum of American Art, *Published in: New York: The Whitney Museum of Art/ Harry N. Abrams, Inc. 2002, pp.128-129*
+    - Jantjes, Gavin - "Refuge " - Catalogue for exhibition at Henie Onstad Kunstsenter, *Published in Høvikodden, Norway: Henie Onstad Kunstsenter 2002, pp.24-25*
+    - Basilio, Mario, Paulo Herkenhoff, and Roxana Marcoci - "Tempo" - Catalogue from exhibition at The Museum of Modern Art, *Published in New York: Distributed Art Publishers, Inc. 2002, p.60*
+    - Szeemann, Harald - "Aubes: Rêveries au bord de Victor Hugo" - Catalogue of Exhibition at Maison de Victor Hugo, *Published in Paris: Paris Musées 2002, p.76*
+    - Zaunschirm, Thomas - "Trusting is Nothing" - Money and Value / The Last Taboo, *Catalogue from the exhibition at the Swiss National Bank published in Switzerland: Schweizerische Nationalbank und Autroren 2002, pp.119-120, 231*
+    - Archer, Michael - Art Since 1960, *Published in London: Thames & Hudson 2002, p. 215*
+    - Newhall, Edith - "Wrap Artist" - New York Volume, *35 Number 8,11 March 2002, p.109*
+    - A. G. - "La Vidéaste Kim Sooja Hante le Château" - Association D’art Comtemporain, *images passages 16 November 2002*
+    - Day, Jeffrey - "‘The Memory of Water’ Brings Installation Art Back to Charleston" - Wall Street Journal, *23 May 2002*
+    - Wilkin, Karen - "At the Galleries" - Partisan Review, *Issue 3 2002, p. 428*
+    - Wei, Lilly - "Kim Sooja at Peter Blum" - Art in America, *September 2002, pp. 133-334*
+    - Thea, Carolee - "Bringing Art to The People: A Conversation with Mary Jane Jacob" - Sculpture, *March 2002, pp.52-57*
+    - Kim, Sung-won - "2002 Busan Biennial" - Wolgan Misool, *Issue.213 October 2002, pp.128-143*
+    - Heartney, Eleanor - "History in the Remaking" - Art in America, *Number 12 December 2002, pp.69-71*
+    - Harvin, Stephanie and Wevonneda Minis - "Evoking History" - The Post and Courier, *Charleston, South Carolina. 28 May 28 2002, pp.9-A-12*
+    - A. Larson, Kay - "Art Becomes an Instrument to Unearth Buried History" - The New York Times, *Art/Architecture 23 June, 2002, p. AR 31*
+    - Levin, Kim - "“Voice Choices Art" - Village Voice, *19 March 2002*
+    - Bollen, Christopher - "Outsider Art" - V Magazine Volume, *16 March - April 2002*
+    - Krumpl, Doris - "Der Waschgang von Leben und Tod, Kim Sooja im Project Space der Kunsthalle am Karlplatz" - Der Standard, *15 February, 2002, pp.30*
+    - Horny, Henriette - "Der Mensch lebt und stirbt im Bett, Kunsthalle project space: ALaundry Woman von Kim Sooja" - Observer, *Kurier Wien 13 February 2002, pp.213*
+    - Kyung-hwa, Shin - "Video Art Kills Modern Concept of Time" - The Korea Herald, *Culture. pp.14*
+    - Goodman, Jonathan - "Kim Sooja" - Art Asia Pacific, *2002, p.51*
+    - Fibicher, Bernard - Homeland Exists Only In Our Memory In This Era, *Translated from the German by Pauline Cumbers. pp.242-248*
+    - Kee, Joan - "Claim Check-In Contemporary Korean Photography, Young Artists Question the Concepts of Place, Identity, and Belonging" - Tema Celeste, *Voume 91 May-June 2002, pp.62-67*
+    - Chadwick, Whitney - "Worlds Together, Worlds Apart" - Women, Art, and Society, *Third edition published in London: Thames & Hudson. 2002, pp.462-463*
+  0: '"isHidden":{"&nbsp;-&nbsp;<em>Kimsooja:&nbsp;Interviews<\/em><\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018,&nbsp;pp&nbsp;182&nbsp;-&nbsp;185<\/em><\/li><\/ul>":"id"Nothing&nbsp;is&nbsp;In-Between,&nbsp;an&nbsp;interview&nbsp;from&nbsp;1998\"858a8403-e4f2-477d-82b5-acda65a79e61"}'
+  1: type":"list
+  2: "content":false
+  3: level":"h2
+- 
+  year: "2001"
+  description: |
+    - Kim, Sun Jung - "Kim Sooja’s Bottari and Her Journey" - Reinventing Textiles, Volume Two “Gender and Identity”, *Published in Winchester: Telos Art Publishing 2001, pp.131-142*
+    - Herkenhoff, Paulo - "Interview with Kim Sooja, for ARS 01" - Unfolding Perspectives, *Exhibition Catalogue, Kiasma, Helsinki, 2001, pp.114-119, 287*
+    - Heinrich, Barbara - "Sooja Kim, Looking at You" - Catalogue for the Exhibitionat Kunsthalle Fridericianum Kassel, *2001, pp.18-19*
+    - Morgan, Robert - "The Persistence of the Void" - Sculpture, *Volume 21, Number.1 January-Febuary 2002, pp.30-35*
+    - Volk, Gregory - "Kim Sooja at P. S.1." - Art in America, *December 2001, pp.117*
+    - Johnson, Ken - "One Woman's Serenity In the Thick of Things" - The New York Times Art Review, *7 September 2001, pp. E 33*
+    - Village Choice Short List - The Village Voice, *4 September 2001, pp.74*
+    - Meghan Dailey - "A Stitch in Time - on Kim Sooja" - Frieze, *Issue 61 September 2001, pp.86-87*
+    - Pollack, Barbara - "The New Look of Feminism" - Art News, *September 2001, pp.132-136*
+    - Schwendener, Martha - "Kim Sooja: A Needle Woman" - Time Out New York, *No.3116-13 September 2001, pp.114*
+    - "Top Ten" - Art Forum, *September 2001, pp.48*
+    - Kim, Ai Ryung - "‘A Woman's Gaze in a Strange Street’ A Solo Show at P.S.1 " - New York, Art Review, *Art in Culture Korea. September 2001, pp.132*
+    - Smits, Alice - "Kim Sooja, Going Places, Smart Papers" - Smart Project, *20-10/02-12 2001, Amsterdam*
+    - Young, Ahn En - "Vivid Colors of Korean Women: Images and Lives of Korean Women" - Text & Subtext, Contemporary Art and Asian Women, *Australia,2001. pp.52-59*
+    - Cotter, Holland - "Lost and Found" - The New York Times Art in Review, *Exhibition at APEX Art. 15 June 2001, pp. E 34*
+    - Tinari, Phil - "Making Asia- Modern History and Contemporary Art in China, Japan, and South Korea" - Exhibition Catalogue for Contemporary Asian Art at Duke Univ. of Modern Art Museum, *North Carolina. 2001, pp.13-43 & 54-55*
+    - Morsiani, Paola - "Subject Plural, Crowds in Contemporary Art" - Catalogue for the exhibition Subject Plural, Crowds in Contemporary Art, *Contemporary Arts Museum, Houston 03.10-04.29 2001, pp. 58-61*
+    - Wendt, Selena - "Sooja Kim’s Silk Route" - Art Through the Eye of the Needle Catalogue for the exhibition at Henie Onstad Kunstsenter, Oslo, *Published in Hovikodden: Henie Onstad Kunstsenter 2001, pp.12-21*
+    - Von Fibicher, Bernhard - "Obvious but Problematic" - Kim Sooja A Needle Woman, *Catalogue for exhibition at Kunsthalle Bern published in Switzerland: Kunsthalle Bern und die Autoren 2001, pp.22-30*
+    - Nakamura, Keiji - "Kim Sooja's A Needle Woman" - Kim Sooja A Needle Woman, *Catalogue for exhibition at Kunsthalle Bern published in Switzerland: Kunsthalle Bern und die Autoren 2001, pp. 4-14*
+    - Szeemann, Harald - "There are words for activities…" - Kim Sooja A Needle Woman, *Catalogue for exhibition at Kunsthalle Bern published in Switzerland: Kunsthalle Bern und die Autoren 2001, p.19*
+    - Obrist, Hans-Ulrich - "E-mail conversation between Kim Sooja and Hans-Ulrich Obrist" - Kim Sooja A Needle Woman, *Catalogue for exhibition at Kunsthalle Bern published in Switzerland: Kunsthalle Bern und die Autoren 2001, pp.35-43*
+    - Morgan, Robert C - "Kim Sooja, The Persistence of the Void" - Kim Sooja A Needle Woman, *Catalogue for exhibition at Kunsthalle Bern published in Switzerland: Kunsthalle Bern und die Autoren 2001, pp.47-56*
+    - Stooss, Toni  - Berner Kunstmitteilungen, *No. 328. Switzerland, Jan/Feb 2001, Bernhard Fibicher, Kim Sooja,. pp.18-19*
+    - "Kim Sooja: Bottari 2001 Sewing into Walking" - Art/Unlimited, *Catalogue for Art/32/Basel. pp.66-67*
+    - Perez Rubio, Agustin - Anthro-a-pologies, *Booklet with the exhibition at Galeria Luis Adelantado, Valencia, 2001*
+    - Pinto, Roberto - "Sooja Kim" - Transforms, *Catalogue for the exhibition published in Trieste: Graphart 2001, pp.52-59*
+  0: '"text":{"isHidden":"type"A&nbsp;Meditation&nbsp;on&nbsp;Art&nbsp;and&nbsp;Life,&nbsp;an&nbsp;interview&nbsp;from&nbsp;2002\"list"}'
+  1: 2018":"id
+  2: >
+    "5e609d57-e461-454e-a319-d0584f27f0c1":false
+  3: isHidden":"type
+- 
+  year: "2000"
+  description: |
+    - Nakamura, Keiji - "Kim Sooja’s A Needle Woman" - A Needle Woman, *Exhibition Catalogue for the Solo show at ICC Tokyo published in Tokyo: NNT Inter Communication Center 2000, pp.3-9*
+    - Mika, Fumikawa - "A Needle Woman" - Bien, *Volume 3 July-August 2000, pp.14-17*
+    - Mika, Fumikawa - "Women Artists in Korean Contemporary Art" - Women’s Asia, *Volume 21 Number 23 2000, pp.37-41*
+    - Dziewior, Ymaz - "Sooja Kim: Art-Worlds in Dialogue: From Gauguin to the Global Present" *- Museum Ludwig Cologne, 2000, pp.436-437*
+    - Kern, Kristine - "Global Kunst" - Politiken, *20 Dec. 2000*
+    - Jurgensen, Andreas - "Interview with Kim Sooja" - Echigo-Tsmari Art Triennale 2000, *Exhibition Catalogue 2000, pp.271-272*
+    - Kim, Seung Duk - "Selfscape, Kim Sooja & Yan Pei-Ming" - Selfscape, *Catalogue from the exhibition at Kunsthallen Brandts Klaedefabrik, Odense Denmar published in Denmark: Kunsthallen Brandts Klaedefabrik 2000*
+    - Curiger, Bice and Christoph Heinrich - "Art and Reality" - Hyper Mental, Rampant Reality 1950-2000 from Salvador Dali to Jeff Koons, *Catalogue for the Exhibition Hypermental, Kunsthaus Zurich and Hamburger Kunsthall published in New York: Distributed Art Publishers 2001, pp.89 & 162*
+    - Riding, Alan - "Exotic? Perhaps, Yet Neither Primitive Nor Pure" - The New York Times, *5 July 2000*
+    - Ardenne, Paul - "Sooja Kim: Intercommunication Center" - Art Press 261 Expos/Reviews 2000, *pp.64-65*
+    - Tae, Hyunsun - "Kim Sooja: A Needle Woman" - Kim Sooja: A Needle Woman, *Catalogue for the exhibition at Rodin Gallery, Samsung Museum, Seou published in Seoul: Rodin Gallery 2000, pp.10-18 Korean version. pp.20-28 English version*
+    - Youens, Rachel - "The Likeness of Being: Contemporary Self Portraits by 60 Women" - N. Y. Arts, *Volume 5 Number 1. 2000*
+    - Diehl, Carol - "The Likeness of Being" - Artnews, *April 2000*
+    - Breuvart, Valerie - "2000 Taipei Biennial, Tapei Fine Arts Museum" - Artforum, *2000, pp.158*
+    - Vachtova, Ludmilar - "19 International critics pick their favorite art events Art" - Das Kunst Magazin, *Number 1 January 2000, pp.60*
+    - Bertrand, Anne and Jean-Hubert Martin - "Questions and Answers, Beauty" - Art Press, *vol. 258. pp.37-44*
+- 
+  year: "1999"
+  description: |
+    - Schwabsky, Barry - "Fold and Lose" - Art/Text, *No. 65. May-July 1999, pp.36-39*
+    - Kirker, Anna - "Kim Sooja" - Catalogue essay for Beyond the Future, The third Asia-Pacific Triennial, *1999, pp.136-137*
+    - Kee, Joan - "Cities on the Move" - Parachute, *Number 96 October-December 1999, pp. 88-89*
+    - Ahn, En Young - "Slowness of Speed" - Art Monthly Australia, *Number 118 April 1999*
+    - Kim, Airyung - Bottari-A Wrapping View of Art and Life, *An essay for phe two artists show at Kunsthalle Feldbach, 1999, pp.28-39*
+    - Vetrocq, Marcia E. - "The Venice Biennale-Reformed, Renewed, Redeemed" - Art in America, *September 1999, pp.82-96*
+    - Gellatly, Andrew - "Just Add Water, A review on Venice Biennale" - Frieze, *Number 48 October 1999, pp.66-71*
+    - Madoff, Steven Henry - "Sink or Swim-A review on Venice Biennale" - Art In America, *September 1999, pp.82-96 & 144-155*
+- 
+  year: "1998"
+  description: |
+    - Kim, Ai-Ryung - "Kim Soo Ja - A Solitary Performance with Old Fabric" - Exhibition Catalogue for Echolot, Museum Fridericianum, Kassel, *Volume Kim Soo-Ja,. pp.25-28*
+    - Teshikawara, Jun - "After Art, An Art Theory for the End of the Art" - Tokyo, *Chapter 5, Kim Soo-Ja / Beyond the thoughts on cloth, a trace of thebody,. pp.264-286*
+    - Kim, Young-Ho - "Bottari project by Kim Soo-Ja" - 24th Biennale Catalogue, *(Catalogue), National representations,. pp.252-255, International exhibition Catalogue Roteiros, Roteiros…. pp.10-11*
+    - Lee, James B.  - "Everyday" - The 11th Sydney Biennale Exhibition Catalogue, *pp.134*
+    - Haye, Christian - "A Seoul Kind of Feeling-Ripping the Fabric of Society Apart" - Dutch, *Number 17. 1998, pp.30*
+    - Kim, Young-Ho - "Preparing the 24th Sao Paulo Biennale, Kana Art" - Seoul, *Fall 1998, pp. 96-101*
+    - Park, Shin-Eui - "History, Kana Art" - Seoul, *Fall 1998, pp. 96-101*
+    - Berger-Bachon, Claire - "Kim Soo-Ja, ou un art charge de sens" - Coree Aggairesler Trimestre, *1998, pp.73-75*
+    - Corrin, Lisa - "Loose Threads" - Catalogue essay for exhibition at Surpentine Gallery, *London, 1998*
+    - Cork, Richard - "Saying it with Threads" - The Times London, *1998*
+    - Heartney, Eleanor - "Report from Istanbul-In the Realm of the Senses" - Art in America, *1998, pp.42-47*
+    - Haye, Christian - "Spin City, On Kwangju, Istanbul, and Johanesberg Biennale" - Frieze, *January-Febuary 1998, pp.48-53*
+    - Martinez, Rosa - "The 5th Istanbul Biennale" - Flash Art, *Number 98 November-December 1998, pp.13-15*
+- 
+  year: "1997"
+  description: |
+    - Park, Shin-Eui - "The 5th Istanbul Biennal" - Monthly Art, *December 1997, pp.108-113*
+    - House, Christopher - "Making Asian Moves, Bottari world premiere performance" - Now, *Toronto November-December 1997*
+    - Fleming, Marnie - "Soo-Ja Kim: A Laundry Field-Sewing into Walking, Looking into Sewing" - Soo-Ja Kim: A Laundry Field-Sewing into Walking, Looking into Sewing, *Catalogue for solo exhibition at Oakville Galleries, Ontario, Canada published in Ontario: Oakville Galleries 1997, pp.7-10*
+    - Fleming, Marnie - "A Conversation with Soo-ja Kim" - Soo-Ja Kim: A Laundry Field-Sewing into Walking, Looking into Sewing, *Catalogue for solo exhibition at Oakville Galleries, Ontario, Canada published in Ontario: Oakville Galleries 1997, pp.19-23*
+    - Galasso, Alessandra - Project Room at MAGASIN, *essay for the brochure for the solo show*
+    - Obrist, Hans-Ulrich - "Soo-Ja Kim: Wrapping Bodies and Souls" - Flash Art, *Number 19-2 January- February 1997, pp.70-72*
+    - Kim, Soo-Ja - "Cloth and Life" - Biennial 5, *Catalogue for 5th Annual Istanbul Biennale Volume 1 published in Istanbul: Istanbul Foundation for Cultureand Arts 1997, pp.124-125*
+    - Kim, Soo-Ja - "Cloth and Life" - Biennial 5, *Catalogue for 5th Annual Istanbul Biennale Volume 2 published in Istanbul: Istanbul Foundation for Cultureand Arts 1997, pp.160-161*
+    - Kang, Sun-Hak - "Media & Site " - Catalogue essay, *Pusan Metropolitan Museum. pp.24-25 & 52-53*
+  0: '"heading":{"content":"text"Essential&nbsp;Empathy,&nbsp;an&nbsp;interview&nbsp;from&nbsp;2002&nbsp;and&nbsp;2003\"<ul><li>Sans,&nbsp;J\u00e9r\u00f4me&nbsp;-&nbsp;\"}'
+  1: content":"text
+  2: '"<ul><li>Hanru,&nbsp;Hou&nbsp;(Cur.)&nbsp;-&nbsp;\":false'
+  3: '<\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Quodlibet,&nbsp;2018,&nbsp;vol&nbsp;2&nbsp;pp&nbsp;423&nbsp;-&nbsp;424,&nbsp;433&nbsp;-&nbsp;434,&nbsp;439<\/em><\/li><\/ul>":"id'
+- 
+  year: "1996"
+  description: |
+    - Levin, Kim - "The Scream " - Nordic Fine Arts 1995-1996, *Published in Copenhagen : Borealis 8, Arken Museum of Modern Art 1996, pp.18-19*
+    - Kim, Sun-Jung - "Interview with four Korean Women Artists" - Art Asia-Pacific, *Volume 3. 1996, pp.58-67*
+    - Poshiyananda, Apinan - "Tradition/Tension" - Catalogue Essay, *The Asia Society, Grey Art Gallery, Queens Museum of Art, New York,. pp.44-45*
+    - Morgan, Stuart - "Manifesta, The European Biennial" - Frieze, *London. 1996, p.50*
+    - Lebovici, Elisabeth - "Manifesta 1" - Liberation Culture, *France. 1996, p.29-30*
+    - Osaki, Sinichiro - "Kim Soo-Ja an Aspect of Korean Art in the 1990's" - Catalogue Essay, *Tokyo National Museum of Art, p.60*
+  0: '"722342ad-4291-4e37-96a5-2723f6528993":{"&nbsp;-&nbsp;<em>Kimsooja:&nbsp;Interviews<\/em><\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018,&nbsp;pp&nbsp;187&nbsp;-&nbsp;192<\/em><\/li><\/ul>":"id"Eastern&nbsp;and&nbsp;Western&nbsp;Thinking,&nbsp;an&nbsp;interview&nbsp;from&nbsp;2003\"4300f37a-a45c-47ed-a272-06ceabe6e830"}'
+  1: isHidden":"type
+  2: "list":false
+  3: content":"text
+- 
+  year: "1995"
+  description: |
+    - Hegyi, Lorand - "6 Triennale Kleinplastik 1995." - Europa-Ostasian, *Catalogue Essay Sud West L. B., Stuttgart,. pp.14-43*
+    - Kim, Seung-Duk - "6 Triennale Kleinplastik 1995" - Europa-Ostasian, *Catalogue Essay Sud West L. B., Stuttgart,. pp.14-43*
+    - Haye, Christian - "Asiana, Transculture, Tigers Tail, Venice" - Frieze, *Number 24 September-October 1995, pp.66-67*
+    - Bonami, Francesco - "Beyond The Borders, Our Borders" - Flash Art, *November-December 1995, pp.39-46*
+    - Yee, Lydia - "Division of Labor" - Catalogue essay, *Bronx Museum of Art, New York, Traveled to MOCA, L.A*
+    - Anson, Libby - "Division of Labor" - Art Monthly, *London April 1995, pp.32-33*
+    - Adams, Clive - "Wrapping the Bundle" - Contemporary Art, *Spring 1995, pp.36-41*
+    - Fouser, Robert J. - "Wrapping Everyday Life" - Asia Pacific Sculpture, *Spring 1995, pp.34-38*
+    - Lee, Yong-Woo - "Information & Reality" - The Fruit Market Gallery, *Edinburg. pp.47-51*
+    - Suh, Sung-Rok - "The Korean Contemporary Art" - Kwanju Biennale special show, Kwan Ju, *p.93*
+    - Song, Mee-Sook - International Studio Program at PS 1, *pp.5 Fine Arts Center Seoul*
+    - Park, Rei-Kyoung - "Site and History-Counterpoints in Korea Contemporary Art up to the 1990" - essay for the Tigers Tail, *undefined*
+  0: '"<ul><li>Meyer-Stoll,&nbsp;Christiane&nbsp;(Ed.)&nbsp;-&nbsp;\":{"isHidden":"type"The&nbsp;Impermanence&nbsp;of&nbsp;Existence,&nbsp;an&nbsp;interview&nbsp;from&nbsp;2003\"list"}'
+  1: '<\/li><li><em>Exhibition&nbsp;Catalogue&nbsp;published&nbsp;by&nbsp;Verlag&nbsp;der&nbsp;Buchhandlung&nbsp;Walther&nbsp;K\u00f6nig&nbsp;in&nbsp;association&nbsp;with&nbsp;Kunstmuseum&nbsp;Liechtenstein,&nbsp;2018<\/em><\/li><\/ul>":"id'
+  2: >
+    "cb7eea98-3785-4e29-acb3-5d2eca9f3a4e":false
+  3: isHidden":"type
+
+----
+
+Bibliotitle: Selected Bibliography
+
+----
+
+Uuid: t5G8Veotq8xDNWDn

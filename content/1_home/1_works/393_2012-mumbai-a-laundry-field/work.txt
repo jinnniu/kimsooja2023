@@ -1,0 +1,51 @@
+Title: Mumbai: A Laundry Field
+
+----
+
+Workimgmain:
+
+- >
+  lightbox-train-image_mumbai-a-laundry-field.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["lightbox-train-image_mumbai-a-laundry-field.jpg"]},"id":"5fcd66c3-4635-4d7e-8cbd-538990e80a51","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2012
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+Duraclear photographic print in Lightbox
+102 x 141 x 16 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

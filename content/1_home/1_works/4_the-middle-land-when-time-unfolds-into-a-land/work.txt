@@ -1,0 +1,58 @@
+Title: The Middle Land: When Time Unfolds into a Land
+
+----
+
+Workimgmain: - 1.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["1.jpg"]},"id":"64e3c660-238c-4901-b881-cff4c85ed4cf","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2021
+
+----
+
+Worklocatin: ARKO Art Center, Seoul, Korea
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+ARKO Art Center is pleased to present, The Middle Land: When Time Unfolds into Land by the guest curator Zoe Chun who is selected for this year’s Exhibition for Visual Arts by Arts Council Korea (ARKO). The Middle Land is a two-part production of a contemporary art exhibition as well as an experimental theatrical play based on the notion of “play as contemporary art.” The project presents five narratives that formatively interpret the multi-dimensional nature of time and space and are translated into both exhibition and play. The diverse exhibited works, including painting, sculpture, video, and multimedia artworks, are then personified into the format of the theatrical production.
+
+Combining both exhibition and performance into a single project, The Middle Land provides an adventurous and epic stage for imagination that reflects our world but transcends time. Derived from “Middle-Earth” as mentioned in the first work of J.R.R. Tolkien, the title reflects the author’s literary worldview that spanned for more than half a century: to seek the meaning of a land’s space, place, and region and ultimately interpret a complex life story comprised of good and evil. The exhibition engages with mental and spiritual narratives that implicate characters and historical events.
+
+Kimsooja introduces existential questions on the trajectory of life through reflection and reason in performance, video, and object installation. In this exhibition, Kim invokes the forgotten names of individuals in history. She recalls these marginalized characters and brings forward relevant social, political, and personal topics.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01: Kimsooja,Planted Names, 2002. Wooven Carpets. Installation view of : “The Middle Land: When Time Unfolds into a Land” at ARKO Art Center, April 22 - June 13, 2021 . Courtesy of Axel Vervoordt Gallery, ARKO Art Center and Kimsooja Studio
+
+----
+
+Toggle: 1
+
+----
+
+Uuid: ktbKeKjZj5A2wSYc

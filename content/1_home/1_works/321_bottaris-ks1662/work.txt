@@ -1,0 +1,45 @@
+Title: Bottari
+
+----
+
+Workimgmain: - bottaris_ks1662.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["bottaris_ks1662.jpg"]},"id":"676a91bb-a576-4f44-b664-0f9ffe724de4","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2011
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

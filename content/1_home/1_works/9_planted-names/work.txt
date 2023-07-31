@@ -1,0 +1,67 @@
+Title: Planted Names
+
+----
+
+Workimgmain: - 1.png
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["1.png","3.jpg","2.jpg","5.jpg","6.jpg","7.png"]},"id":"4906d300-25e1-4f6d-b488-5181b8508833","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations, Objects
+
+----
+
+Timeline: 2020
+
+----
+
+Worklocatin: Axel Vervoordt Gallery, Antwerp, Belgium
+
+----
+
+Workcredit: Photo by Jan Liegeois
+
+----
+
+Workdescription:
+
+Axel Vervoordt Gallery presents Planted Names a solo show by Kimsooja
+October 24, 2020 - January 09, 2021
+
+Human rights, justice, and the state of displacement have long been one of the central themes to the work of Korean artist Kimsooja. Her practice involves constant travel, putting her in touch with various cultures and occasionally sites haunted by extreme violence. Such was the case when she produced the works Bottari - Alfa Beach (2001) and Planted Names (2002), which respond to sites historically associated with the transatlantic slave trade. These works are shown in the context of a summer of racial reckoning, during which global Black Lives Matter protests have continued the movement to fight institutional racism and address the afterlife of slavery.
+
+Bottari-Alfa Beach depicts the horizon of the Atlantic, seen from an island in South-West Nigeria which was once a slave port. The video, shot on a dissonantly bright, sparkling day, shows a vast ocean horizon inverted. The ocean moves in the upper portion and the sky in the lower, invoking an unsettling sense of the loss of natural cohesion.
+
+“The inversion happened when I saw the horizon from the Alfa Beach in Nigeria where African slaves were sent across the Atlantic ocean—this was the saddest horizon line I had ever seen in my life, thinking of the destiny of the slaves and their deprived freedom. Thus the flipped horizon was, for me, a disturbed horizon, a disorientated sense of gravity and of the slaves' psychological return I perceived in the curls of the waves reaching the same shore from which they had left," Kimsooja said.
+
+The inversion calls to mind the words of Black feminist scholar Hortense Spillers, who, writing on the Middle Passage, describes “African persons […] suspended in the ‘oceanic,’ [...] removed from indigenous land and culture and not-yet ‘American’ either, [they] were in movement across the Atlantic, but they were also nowhere at all. [...] they were culturally ‘unmade,’ thrown in the midst of a figurative darkness that ‘exposed’ their destinies to an unknown course.” The disrupted horizon image reflects this cultural unmaking, the loss of home and identity through an institution whose violence continues to this day.
+
+A year later, Kimsooja found herself on the other side of the Atlantic ocean in Charleston, South Carolina, to join in an exhibition entitled Memory of the Water at the Spoleto Festival USA 2002. Echoing Bottari - Alfa Beach video, the four carpets she produced for the exhibition, Planted Names, bear the slave names of hundreds of people of African origin kept in captivity at Drayton Hall, the oldest plantation mansion still standing in America. The names appear in stark white thread against black backgrounds, allowing the violence of such an archive to speak for itself. The names recorded in such a property log are monikers imposed by the enslaver, mostly single words and often cartoonish nicknames such as “Pringles” or “Prince”. These names, along with the knowledge of the horrific violence with which they were bestowed, produces a sense of discordance in the viewer in regard to the utility of the archive. While the use of such names is in fact an act of violence in and of itself, they refer to people whose stories must be remembered and recognized. It functions, as Saidiya Hartman writes in Venus in Two Acts, “at the limit of the unspeakable and the unknown [...] mim[ing] the violence of the archive and attempt[ing] to redress it.” Speaking on her decision to use the form of a carpet, Kimsooja has said :
+
+“I immediately saw this plantation site as a vast woven carpet where enslaved bodies were embedded. There are so many sad and inhumane stories behind these colonial places. Carpets are not about the beauty of an artist’s design, but about the labour of the carpet weaver, so I chose carpets as the form to celebrate both the slaves’ and the carpet weavers’ labour and time,” Kimsooja stated.
+
+In the second room, visitors can see four Bottari sculptures which were made in Perth, Australia using locally sourced used clothing and blankets wrapped by traditional Korean bed covers. A bottari (the Korean word for bundle) is usually employed during times of movement, used to transport domestic possessions connected to daily life. Situated at the intersection of sculpture, painting, and installation, the works represent the very idea of displacement and itinerancy. A physical embodiment of ‘home’ uprooted, it is an object laden with experience, memory, and social and existential meaning. By using bed covers to wrap the Bottaris, the objects become sites unto themselves; they are “the underlying theatre for birth and death, one that each and every one of us regards as our own place,” as said by curator Harald Szeemann. At the same time, Bottaris are intimate works that organise the disorder of existence on a micro level, responding aesthetically to the turbulence and chaos of migration. Kimsooja wraps Bottaris in the pursuit of co-existence, love, harmony, non-violence, and a utopia in this troubled world. The embrace of the “other,” the transcultural idea that we are all “woven” together, is foundational to her work, indeed the reason why she adopted a one-word name was that it “refuses gender identity, material status, socio-political or cultural and geographical identity”. Kimsooja offers us an interpretation of today's world, promoting metaphysical, cultural, and political awareness through art.
+
+----
+
+Workcaption:
+
+*(Left to right:)*
+01 - 04: Kimsooja, Planted Names, 2002. Wooven Carpets. Courtesy of Axel Vervoordt Gallery and Kimsooja Studio.
+05 - 06: Kimsooja, Bottari: Alpha Beach, 2001. Single Channel Video, 6:18, Silent. Courtesy of Axel Vervoordt Gallery and Kimsooja Studio.
+05 - 06: Kimsooja, Bottari 2018. Used Korean bedcovers and used clothes from Perth, Australia. Courtesy of Axel Vervoordt Gallery and Kimsooja Studio.
+
+----
+
+Uuid: LWZW9ClXTNmOpC9U

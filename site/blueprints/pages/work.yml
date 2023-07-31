@@ -1,0 +1,83 @@
+title: work
+
+columns:
+  - width: 2/3
+    sections:
+      workImg:
+        type: fields
+        fields:
+          workImgMain:
+            width: 1/2
+            label: Main
+            type: files
+            max: 1
+            layout: list
+          gap:
+          oneimgtoggle:
+            label: Only one Image or Video?
+            type: toggle
+            text: 
+              - "no"
+              - "yes"
+          workImgs:
+            label: Img(s) / One Video
+            type: blocks
+            fieldsets:
+              - gallery
+              - video
+              fields:
+                type: files
+      workCaption:
+        type: fields
+        fields:
+          ImgCaption:
+            label: Main Img Caption
+            type: text
+
+  - width: 1/3
+    fields:
+      category:
+        label: Tags
+        type: tags
+        options:
+          - Performance
+          - Video
+          - Installations
+          - Objects
+          - Sewn
+          - Print
+          - Photo
+      timeline:
+        width: 1/3
+        label: Year
+        type: tags
+      worklocatin:
+        width: 1/3
+        label: location
+        type: textarea
+        size: small
+      workCredit:
+        width: 1/3
+        label: Credit By
+        type: textarea
+        size: small
+
+  bottom:
+    width: 1/1
+    fields:
+      workDescription:
+        label: Description
+        type: textarea
+        size: medium
+      workCaption:
+        label: Caption
+        type: textarea
+        size: medium
+      additionalvideo:
+        label: Video
+        type: blocks
+        fieldsets:
+          - video
+
+
+

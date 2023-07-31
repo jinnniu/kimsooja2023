@@ -1,0 +1,48 @@
+Title: Mandala: Zone of Zero
+
+----
+
+Workimgmain:
+
+- >
+  mandala-zone-of-zero_zacheta-national-gallery-of-art_01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["mandala-zone-of-zero_zacheta-national-gallery-of-art_02.jpg","mandala-zone-of-zero_zacheta-national-gallery-of-art_01.jpg"]},"id":"9c5437c6-ec46-4951-b814-15c5789933c9","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2013
+
+----
+
+Worklocatin: Installation at Zacheta National Gallery, Poland, 2013
+
+----
+
+Workcredit: Photo by Maciej Landsberg.
+
+----
+
+Workdescription: Mandala: Zone of Zero, 2004 - 2010, single channel mixed media sound installation (single jukebox speaker, three chants mixed with Tibetan, Gregorian, and Islamic), 9:50 loop, jukebox speaker dimensions: 81.3cm (diameter) x 30.5cm, unique piece, installation image at Zacheta National Gallery, Poland, photo by Maciej Landsberg
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

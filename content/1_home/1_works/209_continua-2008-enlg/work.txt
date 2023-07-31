@@ -1,0 +1,45 @@
+Title: Mumbai: A Laundry Field
+
+----
+
+Workimgmain: - mumbai_train.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["mumbai_train.jpg"]},"id":"acc62dd8-d88f-44fb-b1b0-559085277be6","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

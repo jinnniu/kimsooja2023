@@ -1,0 +1,49 @@
+Title: A Needle Woman, 1999 - 2001
+
+----
+
+Workimgmain: - 08.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["10.jpg","09.jpg","08.jpg"]},"id":"9ed1d057-580b-4d4c-97c9-577d2929f60c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Performance, Video, Installations
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kunstmuseum Liechtenstein
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 03: Kimsooja, A Needle Woman, 1999 - 2001, 8 Channel Video Projection, 6:33, silent, installation view at Kunstmuseum Liechtenstein, Vaduz, Liechtenstein, Photo by Aaron Wax, Courtesy of Kimsooja Studio
+
+----
+
+Additionalvideo: 

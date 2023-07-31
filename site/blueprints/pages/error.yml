@@ -1,0 +1,13 @@
+title: Error
+icon: 💥
+image:
+  query: false
+  back: black
+
+sections:
+  error:
+    type: fields
+    fields:
+      errortext:
+        label: errror message
+        type: text

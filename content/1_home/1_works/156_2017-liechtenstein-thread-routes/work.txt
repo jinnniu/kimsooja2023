@@ -1,0 +1,53 @@
+Title: Thread Routes
+
+----
+
+Workimgmain: - 01.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["04.jpg","03.jpg","02.jpg","01.jpg"]},"id":"40099ca6-f92f-4561-af8b-1039ce40b6b3","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Video, Installations
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kunstmuseum Liechtenstein
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01: Kimsooja, Thread Routes - Chapter IV, 2014, 16mm film transfered to HD Format, 5.1 sound, 27:48, installation view at Kunstmuseum Liechtenstein, Vaduz, Liechtenstein, Photo by Aaron Wax, Courtesy of Kimsooja Studio
+
+02 - 03: Left: Kimsooja, Thread Routes Chapter IV - Lightwaves, 2014/2016, HD Video, 5.1 sound, 27:48, Right: Kimsooja, Thread Routes - Chapter IV, 2014, 16mm film transfered to HD Format, 5.1 sound, 27:48, installation view at Kunstmuseum Liechtenstein, Vaduz, Liechtenstein, Photo by Aaron Wax, Courtesy of Kimsooja Studio
+
+04: Left: Kimsooja, Thread Routes - Chapter I , 2010, 16mm film transfered to HD Format, 5.1 sound, 29:31, Right: Kimsooja, Thread Routes Chapter IV - Lightwaves, 2010/2016, HD Video, 5.1 sound, 27:48 installation view at Kunstmuseum Liechtenstein, Vaduz, Liechtenstein, Photo by Aaron Wax, Courtesy of Kimsooja Studio
+
+----
+
+Additionalvideo: 

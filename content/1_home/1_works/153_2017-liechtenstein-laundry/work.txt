@@ -1,0 +1,49 @@
+Title: Kimsooja, A Laundry Woman
+
+----
+
+Workimgmain: - 14.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["14.jpg","15.jpg","21.jpg","16.jpg","18.jpg","17.jpg","23.jpg","22.jpg","20.jpg","19.jpg","24.jpg"]},"id":"2014b4e0-dad2-4a4f-911a-b3b93f192598","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Installations, Objects
+
+----
+
+Timeline: 2017
+
+----
+
+Worklocatin: Installation at Kunstmuseum Liechtenstein
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption:
+
+(Left to right:)
+
+01 - 11: Kimsooja, A Laundry Woman, 2000, site specific installation consisting of 27 Korean Bedcovers, 5 bottaris, and 6 fans, installation view at Kunstmuseum Liechtenstein, Vaduz, Liechtenstein, Photo by Aaron Wax, Collection of the Musee d’Art Contemporain, Lyon, France, Courtesy of Musee d’Art Contemporain, Lyon, France and Kimsooja Studio
+
+----
+
+Additionalvideo: 

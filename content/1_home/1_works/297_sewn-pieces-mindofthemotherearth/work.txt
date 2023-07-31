@@ -1,0 +1,45 @@
+Title: Mind and the Mother Earth
+
+----
+
+Workimgmain: - mindofthemotherearth.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["mindofthemotherearth.jpg"]},"id":"1d9c6439-1b45-45af-ba70-ff901494b40b","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Sewn
+
+----
+
+Timeline: 1992
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

@@ -1,0 +1,105 @@
+title: biography
+icon: 👤
+image:
+  query: false
+  back: black
+
+sections:
+  bio:
+    type: fields
+    fields:
+      biomain:
+        label: Biography
+        type: textarea
+        size: small
+      education:
+        label: Education and Residencies
+        type: structure
+        columns:
+          year:
+            width: 1/3
+          description:
+            width: 2/3
+        fields:
+          year:
+            type: text
+          description:
+            type: text
+      solo:
+        label: Solo Exhibitions & Site Specific Projects
+        type: structure
+        columns:
+          year:
+            width: 1/3
+          description:
+            width: 2/3
+        fields:
+          year:
+            type: text
+          description:
+            type: textarea
+      twoperson:
+        label: Selected Two Person Shows
+        type: structure
+        columns:
+          year:
+            width: 1/3
+          description:
+            width: 2/3
+        fields:
+          year:
+            type: text
+          description:
+            type: textarea
+      group:
+        label: Selected Group Exhibitions
+        type: structure
+        columns:
+          year:
+            width: 1/3
+          description:
+            width: 2/3
+        fields:
+          year:
+            type: text
+          description:
+            type: textarea
+      grants:
+        label: Grants, Awards and Commissioned Work
+        type: structure
+        columns:
+          year:
+            width: 1/3
+          description:
+            width: 2/3
+        fields:
+          year:
+            type: text
+          description:
+            type: textarea
+      teaching:
+        label: Artist Talks and Teaching
+        type: structure
+        columns:
+          year:
+            width: 1/3
+          description:
+            width: 2/3
+        fields:
+          year:
+            type: text
+          description:
+            type: textarea
+      publiccollect:
+        label: Public Collections
+        type: structure
+        columns:
+          year:
+            width: 1/3
+          description:
+            width: 2/3
+        fields:
+          year:
+            type: text
+          description:
+            type: textarea

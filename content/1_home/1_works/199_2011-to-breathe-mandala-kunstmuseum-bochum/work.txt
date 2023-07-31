@@ -1,0 +1,45 @@
+Title: To Breathe: Mandala
+
+----
+
+Workimgmain: - to_breathe_mandala_53_color.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["to_breathe_mandala_53_color.jpg"]},"id":"3bbc4f71-6809-4d4a-9bfb-4f0ece7c9ba9","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: Courtesy Kimsooja Studio and Kewenig Galerie, Berlin.
+
+----
+
+Category: Installations
+
+----
+
+Timeline: 2011
+
+----
+
+Worklocatin: Installation at Kunstmuseum Bochum, Germany, 2011
+
+----
+
+Workcredit: Photo by Uwe Engels.
+
+----
+
+Workdescription: 
+
+----
+
+Workcaption: To Breathe: Mandala, 2010, single jukebox with the artist's voice performance "The Weaving Factory" 2004, unique piece.
+
+----
+
+Additionalvideo: [{"content":{"url":"https:\/\/player.vimeo.com\/video\/80290760","caption":""},"id":"a2550ce0-b12f-4a0c-abd0-8c122d409fe0","isHidden":false,"type":"video"}]

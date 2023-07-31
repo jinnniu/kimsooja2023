@@ -1,0 +1,50 @@
+Title: To Breathe - A Mirror Woman
+
+----
+
+Workimgmain: - crystal_palace_03.jpg
+
+----
+
+Oneimgtoggle: false
+
+----
+
+Workimgs: [{"content":{"images":["crystal_palace_04.jpg","crystal_palace_03.jpg"]},"id":"a2131f70-ba4e-4803-85fb-09a0de61275c","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+2006 / 2008
+Duraclear photographic print in Lightbox
+Large 184.9 x 137.9 cm
+Small 119.4 x 88.9 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

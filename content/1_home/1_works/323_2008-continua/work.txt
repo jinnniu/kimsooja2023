@@ -1,0 +1,53 @@
+Title: Bottari Tricycle
+
+----
+
+Workimgmain:
+
+- >
+  mumbai-a-laundry-field_continua-gallery.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["mumbai-a-laundry-field_continua-gallery.jpg"]},"id":"88eb90cb-66ed-415e-9976-3aa6401f3720","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Objects
+
+----
+
+Timeline: 2008
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: Photo by Thierry Depagne
+
+----
+
+Workdescription:
+
+Installation view at Continua Gallery, Le Moulin, 2009
+used Chinese tricycle, bedcovers and clothes
+295 x 190 cm
+2008
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 

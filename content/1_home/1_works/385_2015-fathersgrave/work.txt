@@ -1,0 +1,49 @@
+Title: Deductive Object - Father's Grave
+
+----
+
+Workimgmain: - fathers-grave.jpg
+
+----
+
+Oneimgtoggle: true
+
+----
+
+Workimgs: [{"content":{"images":["fathers-grave.jpg"]},"id":"92841316-f8b7-49b4-92b5-b041c19806f4","isHidden":false,"type":"gallery"}]
+
+----
+
+Imgcaption: 
+
+----
+
+Category: Photo
+
+----
+
+Timeline: 2015
+
+----
+
+Worklocatin: 
+
+----
+
+Workcredit: 
+
+----
+
+Workdescription:
+
+2008 / 2015
+Digital C-Print
+55.9 x 74.4 cm
+
+----
+
+Workcaption: 
+
+----
+
+Additionalvideo: 
