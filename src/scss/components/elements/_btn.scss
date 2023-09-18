@@ -11,7 +11,7 @@
 
 .closedetail {
   @include closedetail;
-  width: calc(96% - 2rem);
+  width: calc(100% - 6.5rem);
   padding: 1rem 0;
   background-color: #fff;
   // .btn {
@@ -64,7 +64,7 @@
     transform-box: fill-box;
     &:hover {
       cursor: pointer;
-      transform: rotate(0.38turn);
+      transform: rotate(0.37turn);
     }
   }
 }

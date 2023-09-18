@@ -188,7 +188,7 @@ span {
 .menubars span,
 .infomenubars,
 h1 {
-  font-family: "Frank Ruhl Libre", "myeongjo", "Times New Roman", Times, serif;
+  font-family: "Times New Roman", "myeongjo", Times, serif;
 }
 
 a {
@@ -262,7 +262,7 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
   padding: 0.5rem 2.5rem;
 }
 .container--works__work--items__thumbnail span p {
-  font-size: 0.7rem;
+  font-size: 0.85rem;
   line-height: 1rem;
   text-align: center;
 }
@@ -362,7 +362,6 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
 .detail--info__etc {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
   width: auto;
 }
 .detail--extravideo {
@@ -678,7 +677,7 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
   font-size: 1.6rem;
   font-weight: lighter;
   color: white;
-  letter-spacing: 0.1rem;
+  letter-spacing: 0.07rem;
 }
 #menu-wrapper .menu a:hover {
   color: #d9d9d9;
@@ -717,6 +716,9 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
 }
 .info-detail .bio h1 {
   padding-bottom: 1rem;
+}
+.info-detail .bio em {
+  font-style: italic;
 }
 .info-detail .bio--main {
   padding: 2rem 0 5rem 0;
@@ -771,7 +773,7 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
   height: 30%;
 }
 .contact-container .newsletter a {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   line-height: 2rem;
 }
 .contact-container .newsletter a:hover {
@@ -1144,7 +1146,7 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
   align-items: center;
   justify-content: flex-end;
   z-index: 100;
-  width: calc(96% - 2rem);
+  width: calc(100% - 6.5rem);
   padding: 1rem 0;
   background-color: #fff;
 }
@@ -1204,7 +1206,7 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
 }
 #menu-container #menu-icon svg:hover {
   cursor: pointer;
-  transform: rotate(0.38turn);
+  transform: rotate(0.37turn);
 }
 
 #menu-container.moving {
@@ -1243,6 +1245,9 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
   border-right: none;
   border-bottom: 1px solid #d9d9d9;
   background: #fff;
+  border-radius: 0;
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
 }
 .search__bar:focus, .search__bar:active {
   background: none;
@@ -1368,7 +1373,7 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
   }
   #menu-container.moving {
     width: 100%;
-    height: 90%;
+    height: 100%;
   }
   #menu-container .menubars.dropwrapper .dropdown, #menu-container .infomenubars.dropwrapper .dropdown {
     display: block;
@@ -1389,7 +1394,7 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
     padding: 0 2rem;
   }
   .container__contents--detail {
-    margin-top: 2rem;
+    margin-top: 1rem;
   }
   .container--works__work {
     display: grid;
@@ -1431,11 +1436,11 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
     height: 20rem;
     max-width: 90%;
   }
-  .container--works__work--items__thumbnail span p .closedetail {
+  .closedetail {
     width: calc(100% - 2rem);
     padding-top: 1rem;
   }
-  .container--works__work--items__thumbnail span p .closedetail .btn {
+  .closedetail .btn {
     padding-right: 0rem;
   }
   #sliderout {
@@ -1534,7 +1539,7 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
     -ms-overflow-style: none; /* IE and Edge */
   }
   .container__contents--detail {
-    margin-top: 2rem;
+    margin-top: 6.5rem;
   }
   .container--works__work {
     display: grid;

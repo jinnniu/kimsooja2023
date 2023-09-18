@@ -66,7 +66,7 @@ Solo:
 - 
   year: "2022"
   description: |
-    - Meta-Painting, Kewenig, Mallorca, Spain
+    - *Meta-Painting*, Kewenig, Mallorca, Spain
     - To Breathe - Leiden, Lucas Art Award 2020, Lucas van Leiden Fund, Leiden, The Netherlands
     - Pavilions by the Seaside, Permanent Pavilion Commission, Haikou, Hainan, China
     - Making Worlds, Art Gallery of New South Wales, Sydney, Australia

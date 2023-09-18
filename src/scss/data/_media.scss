@@ -36,7 +36,7 @@ $breakpoints: (small: 110px, medium: 760px, large: 1024px, huge: 1700px, enourmo
         transition: height 0.2s linear;
         &.moving {
             width: 100%;
-            height: 90%;
+            height: 100%;
         }
         .menubars.dropwrapper .dropdown, .infomenubars.dropwrapper .dropdown {
             display: block;
@@ -59,7 +59,7 @@ $breakpoints: (small: 110px, medium: 760px, large: 1024px, huge: 1700px, enourmo
         padding: 0 2rem;
     }
     .container__contents--detail {
-        margin-top: 2rem;
+        margin-top: 1rem;
     }
     .container--works__work {
         display: grid;
@@ -104,8 +104,6 @@ $breakpoints: (small: 110px, medium: 760px, large: 1024px, huge: 1700px, enourmo
             }
         }
     }
-
-    .container--works__work--items__thumbnail span p
 
     .closedetail {
         width: calc(100% - 2rem);
@@ -238,7 +236,7 @@ $breakpoints: (small: 110px, medium: 760px, large: 1024px, huge: 1700px, enourmo
     
     // Work details
     .container__contents--detail {
-        margin-top: 2rem;
+        margin-top: 6.5rem;
       }
     .container--works__work {
         display: grid;

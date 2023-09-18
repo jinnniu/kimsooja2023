@@ -50,7 +50,7 @@
         $group = $bio->group()->toStructure();
         if($group->isNotEmpty()):
         ?>
-        <h1>Solo Exhibitions & Site Specific Projects</h1>
+        <h1>Selected Group Exhibitions</h1>
         <table class="bio--table table">
             <?php foreach( $group as $g): ?>
                 <tr>
