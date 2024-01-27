@@ -149,14 +149,3 @@ morebtn.addEventListener("click", (e) => {
     ? (morebtn.innerHTML = "Less")
     : (morebtn.innerHTML = "More");
 });
-
-// Text timeline div height
-// let textCategoryFilter = document.getElementById("text-timelinefilter");
-// let textmorebtn = document.getElementById("text-exbtn");
-
-// textmorebtn.addEventListener("click", (e) => {
-//   textCategoryFilter.classList.toggle("more-open");
-//   textCategoryFilter.classList.contains("more-open")
-//     ? (textmorebtn.innerHTML = "Less")
-//     : (textmorebtn.innerHTML = "More");
-// });

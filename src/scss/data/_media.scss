@@ -125,8 +125,12 @@ $breakpoints: (small: 110px, medium: 760px, large: 1024px, huge: 1700px, enourmo
             width: 100%;
         }
         .more-open {
-            max-height: 35rem;
+            max-height: 36rem;
           }
+    }
+
+    .filter #category-exbtn {
+        visibility: visible;
     }
 
     .container--publications__filters .filter--category {

@@ -925,6 +925,14 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
 .filter #text-exbtn:hover {
   color: #d9d9d9;
 }
+.filter #category-exbtn {
+  visibility: hidden;
+  cursor: pointer;
+  text-align: center;
+}
+.filter #category-exbtn:hover {
+  color: #d9d9d9;
+}
 .filter .less-timelne {
   max-height: 6rem;
 }
@@ -1453,7 +1461,10 @@ h1, h2, h3, h4, h5, p, span, ul, li, a {
     width: 100%;
   }
   .filter .more-open {
-    max-height: 35rem;
+    max-height: 36rem;
+  }
+  .filter #category-exbtn {
+    visibility: visible;
   }
   .container--publications__filters .filter--category {
     max-height: 15rem;

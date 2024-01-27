@@ -32,6 +32,16 @@
       color: #d9d9d9;
     }
   }
+
+  #category-exbtn {
+    visibility: hidden;
+    cursor: pointer;
+    text-align: center;
+    &:hover {
+      color: #d9d9d9;
+    }
+  }
+  
   .less-timelne {
     max-height: 6rem;
   }
